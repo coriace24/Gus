@@ -1,0 +1,2714 @@
+{
+ "Article défini (le, la, les)": [
+  {
+   "n": 1,
+   "label": "Mise en situation",
+   "text": "Apporter des objets réels ou images en classe. Nommer chacun : « le livre », « la table », « les stylos ». Ne pas expliquer le genre : donner la forme complète.",
+   "ex": "Flashcards : image recto / article + nom verso."
+  },
+  {
+   "n": 2,
+   "label": "Repérage guidé",
+   "text": "Texte court (liste de courses, inventaire de classe). L'apprenant souligne tous les articles définis. Pas encore de production.",
+   "ex": "Support : liste 'Dans ma trousse il y a…'"
+  },
+  {
+   "n": 3,
+   "label": "Drill oral (substitution)",
+   "text": "L'enseignant dit un nom, l'apprenant ajoute l'article correct. Rythme rapide. Corriger immédiatement et donner la bonne forme sans métalangue.",
+   "ex": "'Livre ?' → 'Le livre.' / 'Fenêtre ?' → 'La fenêtre.'"
+  },
+  {
+   "n": 4,
+   "label": "Production contextualisée",
+   "text": "Décrire sa salle de classe ou sa chambre. Obligation d'employer l'article défini pour chaque objet cité."
+  }
+ ],
+ "Article indéfini (un, une, des)": [
+  {
+   "n": 1,
+   "label": "Contraste défini/indéfini",
+   "text": "Mettre deux scènes côte à côte : une scène inconnue (indéfini) puis la même identifiée (défini). Verbaliser : « Voici un chat. C'est le chat de Marie. »",
+   "ex": "Images avant/après, BD muette."
+  },
+  {
+   "n": 2,
+   "label": "Drill de présentation",
+   "text": "Jeu de rôle : présenter des objets cachés dans un sac. « Qu'est-ce que c'est ? — C'est un… »"
+  },
+  {
+   "n": 3,
+   "label": "Production écrite courte",
+   "text": "Écrire 5 phrases du type : « Dans mon sac, il y a un… et une… »"
+  }
+ ],
+ "Genre grammatical (M/F)": [
+  {
+   "n": 1,
+   "label": "Tri visuel",
+   "text": "Deux colonnes (le / la). L'apprenant place des cartes illustrées. L'enseignant valide sans expliquer la règle générale.",
+   "ex": "20 noms du vocabulaire courant."
+  },
+  {
+   "n": 2,
+   "label": "Mémorisation par association",
+   "text": "Lier chaque nom à sa couleur : bleu = masculin, rouge = féminin dans les fiches personnelles. L'apprenant crée son propre lexique illustré."
+  },
+  {
+   "n": 3,
+   "label": "Test de récupération espacée",
+   "text": "Révision Leitner ou flashcards numériques (Anki). Vérifier la retention à J+1, J+7, J+30."
+  }
+ ],
+ "Pluriel régulier en -s": [
+  {
+   "n": 1,
+   "label": "Observation guidée",
+   "text": "Montrer des paires singulier/pluriel avec images : un chat / des chats. Faire entendre que le -s ne se prononce pas ; c'est l'article (un → des, le → les) qui signale le pluriel à l'oral.",
+   "ex": "« un livre → des livres » ; « le stylo → les stylos »."
+  },
+  {
+   "n": 2,
+   "label": "Drill de transformation",
+   "text": "L'enseignant donne un groupe nominal au singulier, l'apprenant le met au pluriel à l'oral puis à l'écrit. Insister sur le changement d'article."
+  },
+  {
+   "n": 3,
+   "label": "Production contextualisée",
+   "text": "Décrire une image riche (salle de classe, marché) : « Il y a des tables, des chaises, des cahiers. » Obligation de pluriels écrits corrects."
+  }
+ ],
+ "Noms de pays / nationalités": [
+  {
+   "n": 1,
+   "label": "Présentation sur carte",
+   "text": "Carte du monde au tableau. Associer pays + genre + nationalité : « la France → français/française », « le Japon → japonais/japonaise ». Donner toujours le pays AVEC son article.",
+   "ex": "« le Maroc, la Côte d'Ivoire, les États-Unis »."
+  },
+  {
+   "n": 2,
+   "label": "Automatisation de la formule",
+   "text": "Drill en bloc : « Tu viens d'où ? — Je viens du Togo, je suis togolais. » Travailler la préposition (de/du/des) sans la théoriser à ce stade."
+  },
+  {
+   "n": 3,
+   "label": "Production : présentations",
+   "text": "Chaque apprenant présente son pays et sa nationalité, puis ceux d'un camarade (3e personne, accord au féminin)."
+  }
+ ],
+ "Être & avoir au présent": [
+  {
+   "n": 1,
+   "label": "Paradigme chanté ou scandé",
+   "text": "Présenter les 6 formes de 'être' avec rythme ou mélodie. Répétition chorale. Même procédé pour 'avoir' dans un second temps.",
+   "ex": "Comptine : je suis / tu es / il est…"
+  },
+  {
+   "n": 2,
+   "label": "Substitution de pronom",
+   "text": "L'enseignant dit une phrase avec sujet nominal, l'apprenant substitue le pronom. « Marie est... → Elle est... »"
+  },
+  {
+   "n": 3,
+   "label": "Interview express",
+   "text": "Paires : 5 questions sur l'identité (Tu es étudiant ? Tu as un frère ?). Changer de partenaire toutes les 2 minutes."
+  },
+  {
+   "n": 4,
+   "label": "Dictée à trous",
+   "text": "Texte de présentation avec espaces blancs. L'apprenant choisit être ou avoir et conjugue.",
+   "ex": "'Je ____ français. J'____ 25 ans. Mon frère ____ médecin.'"
+  }
+ ],
+ "Verbes en -er (groupe 1)": [
+  {
+   "n": 1,
+   "label": "Présentation du paradigme",
+   "text": "Choisir 3 verbes très fréquents (parler, habiter, aimer). Écrire le tableau. Encadrer les 4 formes orales identiques (je/tu/il/ils).",
+   "ex": "Tableau de conjugaison + prononciation en couleur."
+  },
+  {
+   "n": 2,
+   "label": "Drill phonétique",
+   "text": "Lecture à voix haute avec attention aux liaisons. 'Ils aiment' [ilzɛm]. 'Nous parlons' [nuparlɔ̃]. Erreur courante : prononcer le -s final."
+  },
+  {
+   "n": 3,
+   "label": "Substitution thématique",
+   "text": "Activité 'Moi aussi / Moi non' : l'enseignant dit une phrase, l'apprenant réagit et produit une phrase personnelle."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : portrait",
+   "text": "Écrire 8 phrases vraies sur soi. Chaque phrase doit contenir un verbe en -er différent."
+  }
+ ],
+ "Verbes en -ir (groupe 2, type finir)": [
+  {
+   "n": 1,
+   "label": "Présentation du paradigme",
+   "text": "Écrire au tableau la conjugaison complète de « finir » au présent. Faire encadrer en couleur l'infixe -iss- des trois personnes du pluriel, puis souligner les terminaisons -is, -is, -it du singulier.",
+   "ex": "Tableau de conjugaison : « finir », « choisir », « grandir » en trois colonnes."
+  },
+  {
+   "n": 2,
+   "label": "Repérage : les deux tests",
+   "text": "Distribuer une liste mêlant finir, choisir, réussir, partir, venir, ouvrir. Les apprenants appliquent les deux tests : infinitif en -ir ET participe présent en -issant. Les verbes du 3e groupe servent uniquement de contre-exemples : ne pas les conjuguer ici.",
+   "ex": "Support : liste de 12 infinitifs à trier en deux colonnes, -issant / -ant."
+  },
+  {
+   "n": 3,
+   "label": "Drill phonétique singulier/pluriel",
+   "text": "Alterner à voix haute « il finit » et « ils finissent », « elle choisit » et « elles choisissent ». Corriger deux erreurs précises : le -iss- ajouté au singulier et le -iss- oublié au pluriel."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : ma journée",
+   "text": "Faire écrire six phrases vraies, une par personne grammaticale, avec six verbes différents du 2e groupe : finir, choisir, réussir, remplir, obéir, réfléchir. Corriger d'abord la présence du -iss- au pluriel, ensuite le sens."
+  }
+ ],
+ "Aller / venir (irréguliers fréquents)": [
+  {
+   "n": 1,
+   "label": "Paradigmes en contexte spatial",
+   "text": "Présenter aller et venir avec des flèches (aller = je pars vers, venir = j'arrive de). Conjugaison complète au tableau, répétition chorale.",
+   "ex": "« je vais / tu vas / il va… » ; « je viens / tu viens… »."
+  },
+  {
+   "n": 2,
+   "label": "Prépositions associées",
+   "text": "aller à / venir de. Drill : « Je vais à l'école. Je viens de la maison. » Combiner avec les contractions au/du déjà vues."
+  },
+  {
+   "n": 3,
+   "label": "Jeu de déplacement",
+   "text": "Jeu de rôle « D'où viens-tu ? Où vas-tu ? » avec des cartes de lieux. Production orale spontanée."
+  }
+ ],
+ "Verbes du 3e groupe fréquents (faire, prendre, dire)": [
+  {
+   "n": 1,
+   "label": "Présentation des trois paradigmes",
+   "text": "Afficher les trois conjugaisons côte à côte et les faire lire à voix haute, personne par personne. Surligner en couleur les trois formes irrégulières à retenir dès le premier jour : « vous faites », « vous dites », « ils font ». Ne pas expliquer l'histoire des verbes irréguliers : faire mémoriser les blocs.",
+   "ex": "Tableau de conjugaison mural : faire / prendre / dire, une colonne par verbe."
+  },
+  {
+   "n": 2,
+   "label": "Drill oral des formes pièges",
+   "text": "Drill rapide par chaîne : l'enseignant donne le pronom, l'apprenant produit la forme. Insister sur « vous faites » et « vous dites » et refuser immédiatement les régularisations « faisez » et « disez ». Faire répéter « nous faisons » en prononçant le premier son comme le e de « petit », jamais comme « è »."
+  },
+  {
+   "n": 3,
+   "label": "Emploi guidé : expressions figées",
+   "text": "Distribuer des images du quotidien et faire produire des phrases complètes avec « faire les courses », « prendre le bus » et « dire bonjour ». Faire varier le sujet à chaque image pour balayer les six personnes. Corriger surtout le pluriel de « prendre » : « nous prenons », « ils prennent » avec deux n et sans -d-.",
+   "ex": "Support : 12 photos du quotidien, marché, arrêt de bus, salle de classe."
+  },
+  {
+   "n": 4,
+   "label": "Production : ma journée",
+   "text": "Chaque apprenant raconte oralement sa journée en cinq phrases, avec obligation d'employer une fois « faire », une fois « prendre » et une fois « dire ». Relever les erreurs au tableau sans interrompre, puis corriger collectivement à la fin."
+  }
+ ],
+ "Futur proche (aller + infinitif)": [
+  {
+   "n": 1,
+   "label": "Ancrage sur 'aller'",
+   "text": "Consolider d'abord le présent de 'aller'. Puis montrer la structure binaire : aller (conjugué) + infinitif.",
+   "ex": "Flashcard structure : [aller] + [verbe base]"
+  },
+  {
+   "n": 2,
+   "label": "Ligne du temps",
+   "text": "Dessiner une ligne du temps au tableau. Placer des actions : maintenant (présent), bientôt (futur proche). L'apprenant produit des phrases pour chaque case."
+  },
+  {
+   "n": 3,
+   "label": "Prédictions sur images",
+   "text": "Images ambiguës (ciel nuageux, valise ouverte). « Qu'est-ce qui va se passer ? » Production orale spontanée."
+  }
+ ],
+ "Passé composé (avoir/être + p.p.) — verbes courants": [
+  {
+   "n": 1,
+   "label": "Narration de la journée",
+   "text": "L'enseignant mime une séquence d'actions passées. Introduire la structure avoir + p.p. sur 5 verbes : manger, parler, regarder, écouter, travailler.",
+   "ex": "'Ce matin, j'ai mangé. Puis j'ai travaillé.'"
+  },
+  {
+   "n": 2,
+   "label": "Les 16 verbes avec être ('maison d'être')",
+   "text": "Présenter le dessin de maison. Mémoriser les 16 verbes. Insister sur l'accord du p.p. avec le sujet. Limiter la production à : aller/venir/partir/arriver."
+  },
+  {
+   "n": 3,
+   "label": "Récit oral guidé",
+   "text": "L'apprenant raconte sa journée d'hier avec 5 verbes minimum. L'enseignant note les erreurs sans interrompre, puis donne un feedback différé."
+  }
+ ],
+ "Impératif (2e pers. tu/vous)": [
+  {
+   "n": 1,
+   "label": "Consignes de classe",
+   "text": "Dès le 1er cours, toutes les consignes sont données en français avec geste. 'Répétez ! / Écoutez ! / Ouvrez le livre !' L'apprenant n'a pas à produire, seulement comprendre."
+  },
+  {
+   "n": 2,
+   "label": "Simon dit",
+   "text": "Jeu de Simon dit. Seules les instructions valides (avec 'Simon dit') doivent être exécutées. Production progressive."
+  },
+  {
+   "n": 3,
+   "label": "Affiche de classe",
+   "text": "Groupe : créer une affiche de règles de classe avec des impératifs. 'Levez la main ! / Parlez français !'"
+  }
+ ],
+ "Accord en genre (adjectif qualificatif)": [
+  {
+   "n": 1,
+   "label": "Paires M/F",
+   "text": "Présenter des paires : un chat noir / une chatte noire. L'apprenant entend et voit la différence. Insister sur la prononciation : la consonne finale apparaît au féminin.",
+   "ex": "Paires : grand/grande, petit/petite, vert/verte."
+  },
+  {
+   "n": 2,
+   "label": "Jeu de description",
+   "text": "Images de personnes et d'objets. L'apprenant produit des phrases descriptives. L'enseignant guide les accords."
+  },
+  {
+   "n": 3,
+   "label": "Travail sur les irréguliers",
+   "text": "Présenter les 3 grandes irrégularités dès A1 : beau/belle, vieux/vieille, nouveau/nouvelle. Les mémoriser comme doublets lexicaux."
+  }
+ ],
+ "Accord en nombre (-s)": [
+  {
+   "n": 1,
+   "label": "Parallèle avec le nom",
+   "text": "Rappeler le pluriel du nom puis montrer que l'adjectif s'accorde aussi : « des chats noirs ». Le -s est muet, comme pour le nom.",
+   "ex": "« un sac vert → des sacs verts »."
+  },
+  {
+   "n": 2,
+   "label": "Cas particuliers minimaux",
+   "text": "Signaler seulement -eau → -eaux (beau → beaux) et -al → -aux (national → nationaux). Ne pas multiplier les cas à A1."
+  },
+  {
+   "n": 3,
+   "label": "Production écrite",
+   "text": "Décrire plusieurs objets/personnes au pluriel. L'apprenant accorde nom + adjectif à l'écrit."
+  }
+ ],
+ "Place de l'adjectif (BANGS hors programme — introduire les adjectifs courants après le nom)": [
+  {
+   "n": 1,
+   "label": "Règle de base inversée",
+   "text": "Contrairement à l'anglais, l'adjectif se place le plus souvent APRÈS le nom : « une voiture rouge ». Montrer d'abord de nombreux exemples postposés."
+  },
+  {
+   "n": 2,
+   "label": "Le petit groupe antéposé",
+   "text": "Mémoriser les adjectifs courants qui précèdent le nom : grand, petit, bon, mauvais, beau, joli, jeune, vieux, nouveau.",
+   "ex": "Mémo : Beauté, Âge, Nombre, Grandeur, Sentiment (« un grand jardin »)."
+  },
+  {
+   "n": 3,
+   "label": "Production descriptive",
+   "text": "Décrire objets et personnes en plaçant correctement chaque adjectif. Feedback ciblé uniquement sur la position."
+  }
+ ],
+ "Adjectifs possessifs (mon, ma, mes...)": [
+  {
+   "n": 1,
+   "label": "Tableau avec objets personnels",
+   "text": "L'enseignant montre son stylo : 'mon stylo'. Montre le stylo d'un étudiant : 'ton stylo'. Tableau progressif : je / tu / il,elle.",
+   "ex": "Support : dessin de bureau avec étiquettes."
+  },
+  {
+   "n": 2,
+   "label": "Le piège de l'accord",
+   "text": "Insister : l'accord se fait avec l'OBJET, pas le possesseur. 'Son père' peut désigner le père de lui OU de elle. Exercice de désambiguïsation obligatoire."
+  },
+  {
+   "n": 3,
+   "label": "Présentation de famille",
+   "text": "Photo de famille (réelle ou fictive). L'apprenant présente les membres en utilisant tous les possessifs."
+  }
+ ],
+ "Adjectifs démonstratifs (ce, cet, cette, ces)": [
+  {
+   "n": 1,
+   "label": "Lien au geste de désignation",
+   "text": "Montrer des objets en classe : « ce livre, cette table, ces stylos ». Associer chaque forme au genre et au nombre de l'objet pointé."
+  },
+  {
+   "n": 2,
+   "label": "Le piège de « cet »",
+   "text": "Devant voyelle ou h muet au masculin singulier : ce → cet. « cet homme, cet arbre ». Drill de discrimination auditive."
+  },
+  {
+   "n": 3,
+   "label": "Production : inventaire",
+   "text": "Faire l'inventaire de la salle en désignant : « Ce tableau est vert, cette fenêtre est ouverte. »"
+  }
+ ],
+ "Adjectifs interrogatifs et exclamatifs (quel, quelle, quels, quelles)": [
+  {
+   "n": 1,
+   "label": "Présentation du paradigme",
+   "text": "Tracer au tableau une grille à double entrée masculin/féminin et singulier/pluriel, puis y placer quel, quelle, quels, quelles avec un nom témoin dans chaque case : quel jour, quelle heure, quels livres, quelles langues. Faire constater que les quatre formes se prononcent de la même manière et que seul le nom écrit renseigne sur la forme à choisir.",
+   "ex": "Tableau à quatre cases, un nom témoin par case, affiché pendant toute la séquence."
+  },
+  {
+   "n": 2,
+   "label": "Repérage guidé dans un dialogue",
+   "text": "Distribuer un court dialogue de présentation contenant « Quel âge as-tu ? », « Quelle est ta nationalité ? », « Quelles langues parles-tu ? ». Les apprenants soulignent le nom qui suit et relient chaque forme à ce nom par une flèche : c'est le nom, jamais le verbe, qui commande l'accord.",
+   "ex": "Support : dialogue de douze répliques, inscription à un cours de langue."
+  },
+  {
+   "n": 3,
+   "label": "Drill par substitution du nom",
+   "text": "Donner la matrice « ___ + nom + est-ce que tu préfères ? » et lancer les noms un par un : film, chanson, sports, couleurs. L'apprenant réagit à l'oral et écrit la forme au tableau. Corriger uniquement l'accord, jamais la prononciation, puisque les quatre formes se disent pareil."
+  },
+  {
+   "n": 4,
+   "label": "Production : fiche d'identité et exclamations",
+   "text": "En binômes, faire rédiger six questions avec quel pour remplir la fiche d'identité du voisin : âge, adresse, nationalité, numéro de téléphone, langues, loisirs. Terminer par cinq exclamations devant des photos projetées, en vérifiant qu'aucun article n'a été ajouté après quel."
+  }
+ ],
+ "Pronoms sujets (je, tu, il, elle, nous, vous, ils, elles)": [
+  {
+   "n": 1,
+   "label": "Association forme/sens",
+   "text": "Tableau : pronom → personne → exemple. Répétition chorale avec gestes (pointer soi-même, l'autre, le groupe)."
+  },
+  {
+   "n": 2,
+   "label": "Substitution rapide",
+   "text": "L'enseignant dit un nom propre ou GN, l'apprenant donne le pronom équivalent. 'Marie et Paul → ils ou elles ?' Sensibiliser à il/ils (mixte) vs. elles (100% féminin)."
+  },
+  {
+   "n": 3,
+   "label": "Dictée de pronoms",
+   "text": "Phrases à trous : seul le pronom manque. L'apprenant choisit selon le contexte."
+  }
+ ],
+ "Pronom on (valeur de nous)": [
+  {
+   "n": 1,
+   "label": "Sensibilisation à l'oral",
+   "text": "Écoute de conversations authentiques. Compter les occurrences de 'on'. Expliquer : 'on = nous dans la conversation quotidienne.'"
+  },
+  {
+   "n": 2,
+   "label": "Transformation",
+   "text": "Réécrire 5 phrases avec 'nous' en utilisant 'on'. Observer : le verbe reste à la 3e pers. sing. même si le sens est pluriel."
+  }
+ ],
+ "Pronoms toniques (moi, toi, lui, elle...)": [
+  {
+   "n": 1,
+   "label": "Emploi d'insistance",
+   "text": "Introduire par l'opposition : « Moi, j'habite à Lomé. Et toi ? » Le pronom tonique renforce ou contraste le sujet."
+  },
+  {
+   "n": 2,
+   "label": "Après préposition",
+   "text": "« avec moi, chez lui, pour elle ». Drill : répondre à des questions avec un pronom tonique après préposition."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Mini-dialogues de comparaison (« Moi aussi / Moi non plus ») et d'attribution (« C'est pour toi »)."
+  }
+ ],
+ "Négation ne...pas": [
+  {
+   "n": 1,
+   "label": "Structure encadrante",
+   "text": "Visualiser comme une pince : ne [verbe] pas. Dessiner la pince au tableau. Drill oral : transformer des phrases affirmatives en négatives.",
+   "ex": "'Je mange.' → 'Je ne mange pas.'"
+  },
+  {
+   "n": 2,
+   "label": "Écoute et chute du 'ne'",
+   "text": "Écoute d'extraits oraux authentiques. L'apprenant repère : est-ce qu'on entend 'ne' ? Sensibiliser sans corriger la forme réduite à l'oral familier.",
+   "ex": "Extrait : 'Je mange pas. / Je travaille pas.'"
+  },
+  {
+   "n": 3,
+   "label": "Production contrastée",
+   "text": "Jeu vrai/faux : l'enseignant fait des affirmations vraies ou fausses sur la classe. L'apprenant corrige avec la négation."
+  }
+ ],
+ "Adverbes de fréquence (souvent, jamais, toujours)": [
+  {
+   "n": 1,
+   "label": "Sur une échelle",
+   "text": "Dessiner une échelle de fréquence : toujours → souvent → parfois → rarement → jamais. Associer chaque palier à des activités quotidiennes."
+  },
+  {
+   "n": 2,
+   "label": "Place dans la phrase",
+   "text": "L'adverbe se place APRÈS le verbe conjugué : « Je mange souvent au restaurant. » Drill de positionnement."
+  },
+  {
+   "n": 3,
+   "label": "Production : enquête",
+   "text": "Enquête de classe : « Tu fais souvent du sport ? » Restituer les résultats à la 3e personne."
+  }
+ ],
+ "Adverbes de lieu (ici, là, là-bas)": [
+  {
+   "n": 1,
+   "label": "Ancrage par le geste",
+   "text": "Désigner des distances croissantes : ici (proche), là (moyen), là-bas (loin). Répétition avec déplacement physique dans la classe."
+  },
+  {
+   "n": 2,
+   "label": "Drill question-réponse",
+   "text": "« Où est le livre ? — Il est là. / Là-bas. » Travailler avec des objets placés à différentes distances."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Décrire l'emplacement de personnes et d'objets dans la salle en variant les adverbes."
+  }
+ ],
+ "Phrase déclarative (SVO)": [
+  {
+   "n": 1,
+   "label": "Ordre fixe",
+   "text": "Montrer la structure Sujet + Verbe + Objet avec des étiquettes de couleur. « Marie (S) mange (V) une pomme (O). » Reconstruire des phrases avec des cartes."
+  },
+  {
+   "n": 2,
+   "label": "Contraste avec la L1",
+   "text": "Comparer avec la langue des apprenants : le français a un ordre rigide, sans déclinaison. Le sens dépend de la position des mots."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Construire des phrases correctes à partir d'étiquettes mélangées, puis produire librement 5 phrases SVO."
+  }
+ ],
+ "Phrase interrogative (intonation montante)": [
+  {
+   "n": 1,
+   "label": "Intonation montante (oral familier)",
+   "text": "C'est la forme la plus fréquente à l'oral. Drill : lire des phrases déclaratives avec intonation montante. 'Tu viens ?' / 'Il mange ?'"
+  },
+  {
+   "n": 2,
+   "label": "Est-ce que (registre neutre)",
+   "text": "Introduire 'est-ce que' comme préfixe interrogatif universel. 'Est-ce que tu viens ?' Avantage : pas d'inversion, applicable à tous les verbes."
+  },
+  {
+   "n": 3,
+   "label": "Mots interrogatifs",
+   "text": "Qui, quoi, où, quand, comment, pourquoi, combien. Un par un, en contexte. Éviter la liste abstraite. Drill : l'enseignant donne une réponse, l'apprenant trouve la question.",
+   "ex": "Réponse : 'À 9h.' → Question : 'Tu pars à quelle heure ?'"
+  }
+ ],
+ "Interrogation totale (intonation, est-ce que, inversion)": [
+  {
+   "n": 1,
+   "label": "Repérage : une phrase, trois registres",
+   "text": "Écrire au tableau la même question dans les trois registres : « Tu viens ? » (familier, oral), « Est-ce que tu viens ? » (standard, neutre), « Viens-tu ? » (soutenu, écrit). Faire observer que le sens ne change pas et que seule la forme change ; faire entendre la montée de la voix sur la première.",
+   "ex": "Support : affiche à trois colonnes « familier / standard / soutenu » que la classe complétera au fil de la séance."
+  },
+  {
+   "n": 2,
+   "label": "Drill : de l'affirmation à est-ce que",
+   "text": "Donner oralement dix phrases affirmatives courtes (« Tu habites ici. », « Il arrive demain. ») que les apprenants transforment aussitôt en question avec « est-ce que », sans toucher à l'ordre des mots. Corriger immédiatement l'élision devant voyelle : « Est-ce qu'il arrive demain ? », jamais « Est-ce que il ».",
+   "ex": "Tableau de substitution : 10 phrases affirmatives, colonne de droite laissée vide."
+  },
+  {
+   "n": 3,
+   "label": "L'inversion et ses deux traits d'union",
+   "text": "Faire copier « Parlez-vous français ? » et exiger le trait d'union entre le verbe et le pronom. Introduire ensuite le -t- de liaison quand le verbe se termine par une voyelle devant il, elle, on : « A-t-il compris ? », « Va-t-elle bien ? », « Parle-t-on anglais ici ? ». Réserver cette forme à l'écrit et aux formules de politesse."
+  },
+  {
+   "n": 4,
+   "label": "Mise en situation : oui, si, non",
+   "text": "Faire circuler les apprenants avec une grille de six questions à poser en registre standard. Introduire la réponse « si » uniquement après une question négative : « Tu n'aimes pas le café ? — Si, j'adore ça. » Corriger d'abord le choix oui/si/non, ensuite le registre employé."
+  }
+ ],
+ "Il y a (présentation)": [
+  {
+   "n": 1,
+   "label": "Structure présentatrice",
+   "text": "Introduire « il y a » pour signaler l'existence : « Dans la classe, il y a un tableau. » Forme invariable au singulier comme au pluriel.",
+   "ex": "« Il y a une table et des chaises. »"
+  },
+  {
+   "n": 2,
+   "label": "Négatif et interrogatif",
+   "text": "« Il n'y a pas de… » (de après la négation !) et « Est-ce qu'il y a… ? ». Drill de transformation."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Décrire une pièce, une ville ou une image en énumérant ce qu'il y a. Production écrite de 6 phrases."
+  }
+ ],
+ "C'est / Ce sont": [
+  {
+   "n": 1,
+   "label": "Identifier et présenter",
+   "text": "« C'est » + nom/pronom pour identifier : « C'est Marie. C'est un livre. » « Ce sont » au pluriel : « Ce sont mes amis. »"
+  },
+  {
+   "n": 2,
+   "label": "Opposition avec « il/elle est »",
+   "text": "« C'est » + déterminant + nom ; « il/elle est » + adjectif/profession sans article : « C'est un médecin / Il est médecin. » Drill contrastif."
+  },
+  {
+   "n": 3,
+   "label": "Production : photos",
+   "text": "Commenter des photos : d'abord identifier (« c'est… »), puis décrire (« il/elle est… »)."
+  }
+ ],
+ "Prépositions de lieu (à, en, au, aux, dans, sur, sous)": [
+  {
+   "n": 1,
+   "label": "Mise en scène physique",
+   "text": "Placer des objets dans/sur/sous/devant/derrière d'autres objets. L'apprenant décrit ce qu'il voit. Correction immédiate et systématique.",
+   "ex": "Jeu : 'Où est le stylo ?' (l'enseignant déplace, l'apprenant répond)"
+  },
+  {
+   "n": 2,
+   "label": "Contraction à/au/aux",
+   "text": "Règle de contraction : à + le = au / à + les = aux. Drill : villes + pays. 'Je vais au Maroc / en France / aux États-Unis.'"
+  },
+  {
+   "n": 3,
+   "label": "Plan de quartier",
+   "text": "Décrire son quartier ou son appartement en utilisant toutes les prépositions. Production écrite de 6 phrases minimum."
+  }
+ ],
+ "Nombres cardinaux 0–100": [
+  {
+   "n": 1,
+   "label": "Palier 0–20 (irréguliers)",
+   "text": "Mémorisation par paliers. 0-16 : formes uniques. 17-19 : formes composées (dix-sept). Drill de reconnaissance auditive."
+  },
+  {
+   "n": 2,
+   "label": "Palier 20–69 (régulier)",
+   "text": "Logique de composition : vingt et un, trente-deux. Drill de production : l'enseignant montre un chiffre, l'apprenant dit le nombre."
+  },
+  {
+   "n": 3,
+   "label": "Palier 70–100 (spécificité française)",
+   "text": "Soixante-dix, quatre-vingts, quatre-vingt-dix. Mentionner les variantes : septante, octante/huitante, nonante (Belgique/Suisse). Ne pas les apprendre mais savoir qu'elles existent.",
+   "ex": "Activité : dicter des prix, numéros de téléphone, dates."
+  }
+ ],
+ "Article partitif (du, de la, de l')": [
+  {
+   "n": 1,
+   "label": "Introduction par l'alimentation",
+   "text": "Présenter la quantité non comptable : « du pain, de la viande, de l'eau ». Opposer à l'indéfini comptable (un/une/des).",
+   "ex": "« Je mange du riz et de la salade. »"
+  },
+  {
+   "n": 2,
+   "label": "Après négation → de",
+   "text": "Règle clé : à la forme négative, le partitif devient « de/d' » : « Je ne mange pas de viande. » Drill affirmatif → négatif."
+  },
+  {
+   "n": 3,
+   "label": "Production : repas",
+   "text": "Décrire ses repas ou une recette avec les partitifs, puis nier (« Je ne bois pas de café »)."
+  }
+ ],
+ "Article défini contracté (au, du)": [
+  {
+   "n": 1,
+   "label": "Présenter comme forme unique",
+   "text": "à + le = au / de + le = du. Présenter au/du comme des mots à part entière, pas comme une opération à calculer.",
+   "ex": "« Je vais au marché. Je reviens du travail. »"
+  },
+  {
+   "n": 2,
+   "label": "Drill avec verbes de mouvement",
+   "text": "Combiner avec aller/venir : « aller au cinéma, venir du Mali ». Opposer aux formes non contractées (à la, à l', de la, de l')."
+  },
+  {
+   "n": 3,
+   "label": "Production : itinéraire",
+   "text": "Décrire un trajet de la journée : « Je vais du bureau au restaurant, puis au parc. »"
+  }
+ ],
+ "Noms composés courants": [
+  {
+   "n": 1,
+   "label": "Introduire comme blocs lexicaux",
+   "text": "Présenter « une salle de bain, un arrêt de bus, un sac à dos » comme des unités, sans analyse morphologique."
+  },
+  {
+   "n": 2,
+   "label": "Repérage du nom-tête",
+   "text": "Montrer que le premier nom donne le genre : « un arrêt de bus » (masculin = arrêt). Utile pour les accords."
+  },
+  {
+   "n": 3,
+   "label": "Production : la maison",
+   "text": "Étiqueter les pièces et objets d'une maison avec des noms composés. Mémorisation par catégories."
+  }
+ ],
+ "Les trois groupes de verbes (reconnaître et classer)": [
+  {
+   "n": 1,
+   "label": "Repérage guidé : trois colonnes",
+   "text": "Tracer au tableau trois colonnes intitulées groupe 1, groupe 2, groupe 3. Dicter quinze infinitifs très fréquents, parler, finir, partir, prendre, aller, choisir, voir, ouvrir, attendre, grandir, mettre, venir, aimer, pouvoir, réussir, et faire classer par binômes avant toute explication. Recueillir ensuite les désaccords au tableau : ce sont eux qui motivent la règle.",
+   "ex": "Support : liste des 15 infinitifs projetée et grille vierge à trois colonnes à compléter."
+  },
+  {
+   "n": 2,
+   "label": "Drill : le test du nous",
+   "text": "Faire répéter en chaîne rapide le triplet infinitif, forme « nous », participe présent : finir, nous finissons, finissant ; partir, nous partons, partant. Corriger sur-le-champ tout -iss- ajouté à tort à un verbe du groupe 3, du type « nous partissons »."
+  },
+  {
+   "n": 3,
+   "label": "Emploi guidé : les pièges",
+   "text": "Distribuer une fiche de dix verbes pièges : aller, ouvrir, offrir, cueillir, haïr, courir, tenir, savoir, mourir, souffrir. Chaque apprenant justifie son classement par écrit en une phrase, en citant le participe présent. Exiger la justification, jamais le seul numéro de groupe."
+  },
+  {
+   "n": 4,
+   "label": "Production : fiche de classement",
+   "text": "Chaque apprenant relève dix verbes conjugués dans un texte lu en classe, les remet à l'infinitif, puis rédige une fiche donnant pour chacun le groupe et la preuve utilisée. Ramasser et corriger la preuve autant que le résultat.",
+   "ex": "Tableau de conjugaison à compléter : infinitif, « nous » au présent, participe présent, groupe."
+  }
+ ],
+ "Particularités orthographiques des verbes en -er (acheter, appeler, préférer, manger)": [
+  {
+   "n": 1,
+   "label": "Repérage sur tableau",
+   "text": "Distribuer les paradigmes complets de « acheter », « appeler » et « préférer » au présent. Faire colorier les quatre formes dont la terminaison ne s'entend pas — je, tu, il, ils — et nommer ce bloc « la botte ». Le changement de radical ne concerne que ces quatre cases.",
+   "ex": "Tableau de conjugaison à trois colonnes, terminaisons muettes en gris."
+  },
+  {
+   "n": 2,
+   "label": "Drill des trois modèles",
+   "text": "Drill en chaîne : l'enseignant donne un infinitif et une personne, l'apprenant écrit la forme au tableau. Alterner sans prévenir botte et nous / vous, pour que « j'achète » et « nous achetons » se succèdent. Ne corriger que le radical : accent grave, consonne double."
+  },
+  {
+   "n": 3,
+   "label": "Contraste -ger / -cer",
+   "text": "Montrer que « manger » et « commencer » fonctionnent à l'envers : le changement se produit précisément à « nous », devant la terminaison -ons. Faire lire à voix haute « nous mangeons » et « nous commençons » pour relier la graphie aux sons [ʒ] et [s].",
+   "ex": "Support : deux fiches « pourquoi ce e ? » et « pourquoi cette cédille ? »."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : ma semaine",
+   "text": "Faire rédiger dix phrases sur les habitudes de la semaine, avec au moins un verbe de chaque modèle : acheter, appeler, préférer, manger, commencer. Ramasser et corriger uniquement l'orthographe du radical, en renvoyant à la règle de la terminaison muette."
+  }
+ ],
+ "Verbes en -ir du 3e groupe (partir, sortir, dormir, ouvrir)": [
+  {
+   "n": 1,
+   "label": "Repérage guidé",
+   "text": "Distribuer un court texte décrivant une journée de travail et contenant une dizaine de verbes en -ir. Faire souligner les formes conjuguées, puis les classer en trois colonnes d'après la 1re personne du pluriel : « nous finissons », « nous partons », « nous ouvrons ». Ne donner aucune explication avant que le classement ne soit terminé.",
+   "ex": "Support : texte « Une journée à l'hôtel » avec les verbes en -ir en gras."
+  },
+  {
+   "n": 2,
+   "label": "Présentation du double paradigme",
+   "text": "Faire compléter au tableau les deux paradigmes du 3e groupe : « je pars / nous partons » et « j'ouvre / nous ouvrons ». Faire entourer la consonne du radical qui disparaît au singulier du type partir, puis faire nommer les terminaisons du type ouvrir comme étant celles du 1er groupe.",
+   "ex": "Tableau de conjugaison à trois colonnes : finir, partir, ouvrir."
+  },
+  {
+   "n": 3,
+   "label": "Drill contrastif oral",
+   "text": "Enchaîner rapidement des transformations du singulier au pluriel : « je dors » vers « nous dormons », « il sert » vers « ils servent », « elle ouvre » vers « elles ouvrent ». Corriger sur-le-champ toute apparition de l'infixe -iss- sur un verbe du 3e groupe et faire répéter la forme juste."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : emploi du temps",
+   "text": "Demander à chaque apprenant de décrire en cinq phrases son week-end en réemployant partir, sortir, dormir, servir et ouvrir, avec au moins deux phrases au pluriel. Faire relire par le voisin, qui ne vérifie que les formes de « nous » et de « ils »."
+  }
+ ],
+ "Verbes en -re du 3e groupe (attendre, mettre, écrire, lire)": [
+  {
+   "n": 1,
+   "label": "Repérage des familles",
+   "text": "Distribuer une liste d'infinitifs en -re et faire classer en quatre colonnes : « type attendre » descendre, rendre, vendre, entendre, répondre, perdre ; « type mettre » permettre, promettre, remettre ; « type écrire » décrire, inscrire ; « type lire ». Signaler que prendre et dire, déjà vus, ne rentrent dans aucune colonne.",
+   "ex": "Support : liste de 14 infinitifs à trier, avec la forme « nous » à écrire en face."
+  },
+  {
+   "n": 2,
+   "label": "Drill du -d final",
+   "text": "Écrire au tableau la colonne « il attend / il répond / il vend / il perd » face à « il met / il écrit / il lit ». Faire dicter dix phrases à la 3e personne du singulier et corriger uniquement la terminaison : tout -t ajouté après le -d est barré immédiatement.",
+   "ex": "Tableau de conjugaison en deux colonnes : radical en -d sans terminaison / radical + -t."
+  },
+  {
+   "n": 3,
+   "label": "Opposition singulier / pluriel",
+   "text": "Drill oral en chaîne : « il attend » [atɑ̃] contre « ils attendent » [atɑ̃d], « il écrit » contre « ils écrivent », « il lit » contre « ils lisent », « il boit » contre « ils boivent ». Ajouter connaître et prendre en fin de série pour montrer les radicaux longs : nous connaissons, ils prennent."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : la journée",
+   "text": "Faire rédiger huit phrases sur une journée ordinaire, chacune avec un verbe d'une famille différente et un sujet différent. Imposer au moins deux phrases à la 3e personne du singulier et deux au pluriel, puis correction croisée entre voisins centrée sur les terminaisons."
+  }
+ ],
+ "Imparfait de description": [
+  {
+   "n": 1,
+   "label": "Opposition aspectuelle",
+   "text": "Dessiner une ligne du temps : cercle = action ponctuelle (passé composé), trait = état/durée (imparfait). Montrer avec des images : 'Il pleuvait (fond) / Le téléphone a sonné (action).'"
+  },
+  {
+   "n": 2,
+   "label": "Formation morphologique",
+   "text": "Radical = 1e pers. pl. du présent, sans -ons. Ex. : nous parl-ons → je parlais. Seule exception : être → ét-. Drill de transformation.",
+   "ex": "'nous finissons → je finissais / tu finissais…'"
+  },
+  {
+   "n": 3,
+   "label": "Récit photo d'enfance",
+   "text": "L'apprenant apporte une vieille photo. Il décrit la scène (imparfait) et raconte ce qui s'est passé ce jour-là (passé composé). Production orale guidée puis corrigée."
+  },
+  {
+   "n": 4,
+   "label": "Dictée narrative",
+   "text": "Texte court alternant les deux temps. L'apprenant doit identifier pourquoi chaque temps a été choisi. Justification orale obligatoire."
+  }
+ ],
+ "Passé composé étendu (accord p.p.)": [
+  {
+   "n": 1,
+   "label": "Élargir le corpus verbal",
+   "text": "Au-delà des verbes initiaux, introduire davantage de verbes avec avoir et réviser la « maison d'être ». Conjugaison rapide en chaîne."
+  },
+  {
+   "n": 2,
+   "label": "Accord avec le sujet (être)",
+   "text": "Rappeler l'accord du participe avec le sujet pour les verbes en être : « elle est partie, ils sont arrivés ». Drill écrit ciblé.",
+   "ex": "« Marie est rentrée tard. »"
+  },
+  {
+   "n": 3,
+   "label": "Récit guidé au passé",
+   "text": "Raconter un week-end en alternant verbes en avoir et en être. Feedback différé sur l'accord."
+  }
+ ],
+ "Verbes pronominaux (se lever, se coucher...)": [
+  {
+   "n": 1,
+   "label": "Routine quotidienne",
+   "text": "Présenter la journée type avec des verbes pronominaux : se lever, se laver, s'habiller, se coucher. Séquence visuelle (images en ordre chronologique)."
+  },
+  {
+   "n": 2,
+   "label": "Paradigme pronominal",
+   "text": "Insister sur la concordance pronom/sujet : je me / tu te / il se / nous nous / vous vous / ils se. Drill de substitution rapide."
+  },
+  {
+   "n": 3,
+   "label": "Passé composé des pronominaux",
+   "text": "Tous les pronominaux forment le passé composé avec être. Accord du p.p. avec le sujet (dans la majorité des cas). Cas complexe (se laver les mains) : reporter à B1.",
+   "ex": "'Elle s'est levée.' / 'Ils se sont habillés.'"
+  }
+ ],
+ "Vouloir / pouvoir / devoir (modaux)": [
+  {
+   "n": 1,
+   "label": "Valeurs sémantiques",
+   "text": "Présenter les 3 verbes avec leurs valeurs distinctives : vouloir (désir/volonté), pouvoir (capacité/permission), devoir (obligation/probabilité). Tableaux de conjugaison."
+  },
+  {
+   "n": 2,
+   "label": "Jeux de rôle (permission/demande)",
+   "text": "Situations : demander une permission, exprimer une impossibilité. 'Est-ce que je peux sortir ?' / 'Je ne peux pas venir demain.'"
+  },
+  {
+   "n": 3,
+   "label": "Conditionnel de politesse (formule figée)",
+   "text": "Introduire 'je voudrais' et 'vous pourriez' comme formules de politesse mémorisées. Formation : radical irrégulier + terminaisons de l'imparfait. Ne pas théoriser le conditionnel complet.",
+   "ex": "'Je voudrais un café, s'il vous plaît.'"
+  }
+ ],
+ "Conditionnel présent (politesse & hypothèse simple)": [
+  {
+   "n": 1,
+   "label": "Priorité à la politesse",
+   "text": "Introduire d'abord comme formule de politesse : « Je voudrais…, Vous pourriez…, J'aimerais… ». Mémorisation sans théorie.",
+   "ex": "« Je voudrais un café, s'il vous plaît. »"
+  },
+  {
+   "n": 2,
+   "label": "Formation",
+   "text": "Radical du futur + terminaisons de l'imparfait (-ais, -ais, -ait, -ions, -iez, -aient). Mettre en parallèle avec le futur simple déjà connu."
+  },
+  {
+   "n": 3,
+   "label": "Hypothèse simple",
+   "text": "Introduire le 2e degré minimal : « Si j'avais le temps, je voyagerais. » Drill de paires si + imparfait / conditionnel."
+  }
+ ],
+ "Savoir / connaître (distinction)": [
+  {
+   "n": 1,
+   "label": "Opposition sémantique",
+   "text": "connaître = être familier de (personnes, lieux) ; savoir = maîtriser un fait, une compétence, une info. Tableau de contrastes.",
+   "ex": "« Je connais Paris. Je sais nager. Je sais où il habite. »"
+  },
+  {
+   "n": 2,
+   "label": "Tests syntaxiques",
+   "text": "savoir + que/si/infinitif ; connaître + groupe nominal seul. Drill de complétion selon la structure qui suit."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Parler de ses compétences (savoir) et de ses relations/lieux familiers (connaître) en alternance."
+  }
+ ],
+ "Verbes impersonnels (il faut, il pleut, il vaut mieux)": [
+  {
+   "n": 1,
+   "label": "Repérage guidé",
+   "text": "Projeter un bulletin météo écrit et une petite annonce de consignes de sécurité. Faire souligner tous les « il » et demander à qui ou à quoi chacun renvoie ; les apprenants constatent seuls que « il » de « il pleut » et de « il faut » ne remplace rien. Refuser toute reformulation du type « le ciel pleut » et faire nommer ce « il » : sujet grammatical vide.",
+   "ex": "Support : bulletin météo régional et affichette « Consignes de la piscine »."
+  },
+  {
+   "n": 2,
+   "label": "Présentation des familles",
+   "text": "Construire au tableau un tableau à cinq colonnes : météo, il faut, il vaut mieux, il est important de, autres verbes impersonnels. Y faire classer une vingtaine d'énoncés donnés en désordre, puis faire tester chaque colonne en essayant de mettre le verbe au pluriel ou à une autre personne : l'impossibilité de « ils fallent » ou de « je m'agis » devient la preuve du caractère impersonnel.",
+   "ex": "Tableau de classement à cinq colonnes, vingt étiquettes à découper."
+  },
+  {
+   "n": 3,
+   "label": "Drill des trois constructions",
+   "text": "Enchaîner oralement des transformations autour de « il faut » : du nom vers l'infinitif, « il faut du courage » vers « il faut être courageux », puis de l'infinitif vers « que » + subjonctif, « il faut partir » vers « il faut que tu partes ». Reprendre le même enchaînement avec « il vaut mieux » et corriger immédiatement tout indicatif après « que »."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : consignes",
+   "text": "Répartir les apprenants par deux et attribuer un lieu à chaque binôme : la piscine, le musée, la bibliothèque, le laboratoire. Chacun rédige six consignes en employant au moins une fois « il faut », « il ne faut pas », « il vaut mieux » et « il est important de », puis affiche son texte ; les autres binômes ne corrigent que les formes après « que »."
+  }
+ ],
+ "Comparatif (plus/moins/aussi... que)": [
+  {
+   "n": 1,
+   "label": "Les trois degrés",
+   "text": "Supériorité (plus… que), infériorité (moins… que), égalité (aussi… que). Comparer des objets visibles en classe.",
+   "ex": "« Le sac rouge est plus grand que le sac bleu. »"
+  },
+  {
+   "n": 2,
+   "label": "Irréguliers à mémoriser",
+   "text": "bon → meilleur(e) ; bien → mieux ; mauvais → pire/plus mauvais. Drill ciblé sur meilleur vs mieux."
+  },
+  {
+   "n": 3,
+   "label": "Production : comparaisons",
+   "text": "Comparer des villes, des plats, des personnes. Production écrite de 6 phrases comparatives variées."
+  }
+ ],
+ "Superlatif (le plus / le moins)": [
+  {
+   "n": 1,
+   "label": "Formation",
+   "text": "le/la/les + plus/moins + adjectif (+ de + ensemble). « le film le plus intéressant de l'année ». Place de l'adjectif conservée."
+  },
+  {
+   "n": 2,
+   "label": "Irrégulier : le meilleur",
+   "text": "Superlatif de bon = le meilleur ; de bien = le mieux. Drill de discrimination avec le comparatif déjà vu."
+  },
+  {
+   "n": 3,
+   "label": "Production : palmarès",
+   "text": "Établir des classements (le plat le plus épicé, la ville la plus chère). Justifier oralement."
+  }
+ ],
+ "Comparatifs et superlatifs irréguliers (meilleur, mieux, pire)": [
+  {
+   "n": 1,
+   "label": "Repérage des formes bloquées",
+   "text": "Faire d'abord produire oralement des comparatifs réguliers déjà connus : « plus grand que », « moins cher que », « aussi rapide que ». Demander ensuite le comparatif de « bon » puis celui de « bien » : recueillir au tableau les réponses spontanées « plus bon » et « plus bien », les barrer, et écrire en face « meilleur » et « mieux ». Conclure que quatre mots seulement bloquent la règle : bon, bien, mauvais, mal, auxquels s'ajoute le cas de petit.",
+   "ex": "Tableau à deux colonnes : « plus / moins / aussi + adjectif ou adverbe » face à « meilleur, mieux, pire, pis, moindre »."
+  },
+  {
+   "n": 2,
+   "label": "Drill adjectif contre adverbe",
+   "text": "Enchaîner rapidement deux amorces à compléter : « Il est… que son frère » et « Il joue… que son frère ». Ne corriger qu'un seul point : « meilleur » qualifie un nom et s'accorde avec lui, « mieux » modifie un verbe et reste invariable. Faire ensuite varier le nom pour obtenir les quatre formes : un meilleur résultat, une meilleure note, de meilleurs résultats, de meilleures notes."
+  },
+  {
+   "n": 3,
+   "label": "Emploi guidé : deux hôtels",
+   "text": "Distribuer deux fiches descriptives comparables sur quatre points : prix, note des clients, distance de la gare, bruit. Faire produire six phrases de comparaison. Imposer au moins deux emplois de « meilleur » ou « mieux » et deux emplois de « pire » ou « plus mauvais ». Accepter les deux formes du comparatif de mauvais et signaler seulement que « pire » est plus fort et plus abstrait.",
+   "ex": "Support : deux fiches d'hôtel chiffrées, plus une liste d'amorces au tableau : « en revanche », « surtout », « de loin »."
+  },
+  {
+   "n": 4,
+   "label": "Production écrite : palmarès personnel",
+   "text": "Faire rédiger une dizaine de lignes intitulées « mon palmarès de l'année » : le meilleur film, la meilleure soirée, les meilleurs souvenirs, le pire moment, ce que l'on réussit le mieux. Corriger en priorité l'accord de « meilleur » et la présence de l'article dans les superlatifs « le meilleur » et « le mieux »."
+  }
+ ],
+ "Adjectifs indéfinis (quelques, plusieurs, chaque, tout)": [
+  {
+   "n": 1,
+   "label": "Quantité indéfinie",
+   "text": "quelques (un petit nombre), plusieurs (un nombre indéterminé > 2). Toujours suivis du pluriel. Drill de substitution.",
+   "ex": "« quelques amis, plusieurs livres »."
+  },
+  {
+   "n": 2,
+   "label": "chaque (distributif)",
+   "text": "chaque + singulier, sens individualisant : « chaque élève a un cahier ». Opposer à « tous les élèves »."
+  },
+  {
+   "n": 3,
+   "label": "tout à quatre formes",
+   "text": "tout/toute/tous/toutes + déterminant + nom : « tout le groupe, toutes les filles ». Tableau d'accord."
+  }
+ ],
+ "Pronoms COD (le, la, les)": [
+  {
+   "n": 1,
+   "label": "Identification du COD",
+   "text": "Apprendre à identifier le COD : 'J'aime ce film → Ce film = COD → le.' Exercice : souligner le COD dans 10 phrases puis le remplacer."
+  },
+  {
+   "n": 2,
+   "label": "Place du pronom",
+   "text": "Règle : pronom AVANT le verbe conjugué. 'Je le mange.' À l'impératif affirmatif : après le verbe, avec trait d'union. 'Mange-le !'"
+  },
+  {
+   "n": 3,
+   "label": "Mini-dialogue",
+   "text": "Jeu de questions-réponses où chaque réponse doit utiliser un pronom COD. L'apprenant ne peut pas répéter le nom.",
+   "ex": "'Tu aimes la pizza ? — Oui, je l'adore.'"
+  }
+ ],
+ "Pronoms COI (lui, leur)": [
+  {
+   "n": 1,
+   "label": "Identifier le COI",
+   "text": "Le COI répond à « à qui ? » : « Je parle à Marie → Je lui parle. » lui (sing.) / leur (plur.), pour les deux genres.",
+   "ex": "« Je téléphone à mes parents → Je leur téléphone. »"
+  },
+  {
+   "n": 2,
+   "label": "Verbes à COI fréquents",
+   "text": "parler à, téléphoner à, écrire à, donner à, dire à. Lister et drill : transformer GN → pronom COI."
+  },
+  {
+   "n": 3,
+   "label": "Mini-dialogues",
+   "text": "Questions-réponses obligeant le COI : « Tu écris à ta sœur ? — Oui, je lui écris. »"
+  }
+ ],
+ "Pronom y (lieu & COI indirects)": [
+  {
+   "n": 1,
+   "label": "Valeur de lieu",
+   "text": "y remplace un complément de lieu (à/dans/sur + lieu) : « Tu vas à Lomé ? — J'y vais. » Drill sur des questions de lieu."
+  },
+  {
+   "n": 2,
+   "label": "Valeur de COI en « à + chose »",
+   "text": "y remplace « à + chose » (penser à, s'habituer à) : « Tu penses à l'examen ? — J'y pense. »"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Répondre à des questions de lieu et d'objet en utilisant y, sans répéter le complément."
+  }
+ ],
+ "Pronom en (quantité & partitif)": [
+  {
+   "n": 1,
+   "label": "Valeur partitive/quantitative",
+   "text": "en remplace « de + chose » ou une quantité : « Tu veux du pain ? — J'en veux. » « Tu as des frères ? — J'en ai deux. »"
+  },
+  {
+   "n": 2,
+   "label": "Maintien de l'expression de quantité",
+   "text": "Avec un nombre ou un adverbe de quantité, on les garde : « J'en ai beaucoup, j'en veux trois. » Drill ciblé."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Parler de ses possessions et de ses préférences alimentaires avec en, sans répéter le nom."
+  }
+ ],
+ "Négations composées (ne...plus, ne...rien, ne...jamais, ne...personne)": [
+  {
+   "n": 1,
+   "label": "Famille de négations",
+   "text": "À partir de ne…pas, présenter les variantes par leur sens : ne…plus (cessation), ne…jamais (fréquence nulle), ne…rien (chose), ne…personne (personne). Tableau de sens."
+  },
+  {
+   "n": 2,
+   "label": "Place et particularités",
+   "text": "rien et personne peuvent être sujets : « Personne n'est venu. » Au passé composé, personne se place APRÈS le p.p. : « Je n'ai vu personne. »"
+  },
+  {
+   "n": 3,
+   "label": "Production : sondage négatif",
+   "text": "Répondre négativement à une série de questions en variant les négations. Vrai/faux sur la classe."
+  }
+ ],
+ "Adverbes de temps (hier, demain, maintenant, il y a...)": [
+  {
+   "n": 1,
+   "label": "Sur la ligne du temps",
+   "text": "Placer hier / aujourd'hui / demain et maintenant / bientôt sur une frise. Associer chaque repère au temps verbal correspondant."
+  },
+  {
+   "n": 2,
+   "label": "« il y a » + durée",
+   "text": "Introduire « il y a » temporel (≠ présentatif) : « il y a deux jours, il y a un an ». Drill avec le passé composé."
+  },
+  {
+   "n": 3,
+   "label": "Production : récit daté",
+   "text": "Raconter des événements en les situant précisément avec les adverbes de temps."
+  }
+ ],
+ "Tout, très, bien comme adverbes d'intensité": [
+  {
+   "n": 1,
+   "label": "Très vs bien",
+   "text": "très = degré élevé (+ adjectif/adverbe) ; bien = qualitativement satisfaisant ou renforçateur. « C'est très bien fait. » Contraster en contexte."
+  },
+  {
+   "n": 2,
+   "label": "Tout adverbial",
+   "text": "tout = entièrement (+ adjectif) : « Elle est tout étonnée. » Signaler l'accord exceptionnel devant consonne au féminin (toute contente)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Décrire des sensations/réactions en variant les intensifieurs. Feedback sur le choix très/bien."
+  }
+ ],
+ "Connecteurs temporels (puis, ensuite, après, avant de + inf.)": [
+  {
+   "n": 1,
+   "label": "Structurer la chronologie",
+   "text": "d'abord → puis/ensuite → après → enfin. Reconstituer l'ordre d'un récit avec ces marqueurs."
+  },
+  {
+   "n": 2,
+   "label": "avant de + infinitif",
+   "text": "« avant de partir, j'ai téléphoné ». Exige le même sujet que la principale. Drill de combinaison de deux actions."
+  },
+  {
+   "n": 3,
+   "label": "Production : recette ou journée",
+   "text": "Raconter les étapes d'une recette ou d'une journée en enchaînant les connecteurs."
+  }
+ ],
+ "Prépositions de temps (depuis, pendant, il y a, dans, en, pour)": [
+  {
+   "n": 1,
+   "label": "Repérage sur axe temporel",
+   "text": "Tracer au tableau un axe passé / présent / futur et y placer, à partir d'un court récit lu à voix haute, les six prépositions selon ce qu'elles font : « il y a » pointe un événement derrière nous, « dans » un événement devant nous, « depuis » ouvre une flèche qui atteint le présent, « pendant », « en » et « pour » mesurent un segment. Faire justifier chaque placement par le temps du verbe, jamais par la traduction.",
+   "ex": "Support : axe temporel photocopié et corpus de dix phrases à découper et à coller."
+  },
+  {
+   "n": 2,
+   "label": "Drill contrastif dans / en",
+   "text": "Enchaîner rapidement des paires minimales sur une même durée : « Je pars dans dix minutes » / « J'ai fait le trajet en dix minutes ». Exiger à chaque réponse le critère invoqué : moment futur pour « dans », temps mis pour accomplir pour « en ». Corriger immédiatement toute réponse justifiée par l'anglais."
+  },
+  {
+   "n": 3,
+   "label": "Emploi guidé : interview",
+   "text": "En binômes, faire poser et enchaîner les trois questions de durée : « Depuis combien de temps… ? », « Pendant combien de temps… ? », « En combien de temps… ? » sur des thèmes concrets comme les études, le sport ou le trajet domicile-travail. Corriger un seul point : la réponse à « depuis » doit être au présent.",
+   "ex": "Tableau de trois questions-types avec deux réponses modèles chacune."
+  },
+  {
+   "n": 4,
+   "label": "Production écrite : parcours",
+   "text": "Faire rédiger une dizaine de lignes racontant un parcours personnel et ses projets, avec obligation d'employer au moins « depuis », « il y a », « pendant », « dans » et « pour ». Corriger en priorité les temps verbaux associés, puis les bornes « jusqu'à » et « à partir de » si elles apparaissent."
+  }
+ ],
+ "Connecteurs logiques (parce que, donc, mais, alors)": [
+  {
+   "n": 1,
+   "label": "Cause",
+   "text": "parce que (réponse à 'pourquoi'), car (écrit/soutenu), à cause de + nom, grâce à + nom (cause positive). Exercices de combinaison de phrases."
+  },
+  {
+   "n": 2,
+   "label": "Conséquence & opposition",
+   "text": "donc, alors (conséquence) / mais, pourtant (opposition). Construire des mini-arguments : thèse + mais + nuance + donc + conclusion."
+  },
+  {
+   "n": 3,
+   "label": "Connecteurs temporels",
+   "text": "puis, ensuite, après (+ nom ou avoir + inf.), avant de + infinitif. Narration en 5 étapes d'un événement passé.",
+   "ex": "'D'abord, j'ai mangé. Ensuite, j'ai travaillé. Avant de partir, j'ai téléphoné.'"
+  }
+ ],
+ "Interrogation avec pronoms (qui, que, quoi, où, quand, comment, pourquoi, combien)": [
+  {
+   "n": 1,
+   "label": "Un mot interrogatif à la fois",
+   "text": "Introduire chaque mot en contexte, jamais en liste abstraite. Drill : l'enseignant donne une réponse, l'apprenant trouve la question.",
+   "ex": "Réponse : « À 9h. » → « Tu pars quand ? »"
+  },
+  {
+   "n": 2,
+   "label": "Trois constructions",
+   "text": "intonation (« Tu pars où ? »), est-ce que (« Où est-ce que tu pars ? »), inversion (« Où pars-tu ? », soutenu). Choisir selon le registre."
+  },
+  {
+   "n": 3,
+   "label": "que vs quoi",
+   "text": "que en tête de phrase (« Que fais-tu ? »), quoi après préposition ou en fin (« Tu fais quoi ? À quoi penses-tu ? »). Drill contrastif."
+  }
+ ],
+ "Subordonnée relative (qui, que)": [
+  {
+   "n": 1,
+   "label": "Distinction qui/que",
+   "text": "qui = sujet du verbe subordonné / que = COD du verbe subordonné. Tester avec la question : 'Qui fait l'action dans la relative ?'",
+   "ex": "'L'homme qui parle' (l'homme parle) / 'L'homme que je vois' (je vois l'homme)."
+  },
+  {
+   "n": 2,
+   "label": "Jeu de définition",
+   "text": "Chaque apprenant définit un mot de la classe sans le dire. Obligation d'utiliser une relative. 'C'est quelque chose qui… / que…'"
+  },
+  {
+   "n": 3,
+   "label": "Rédaction guidée",
+   "text": "Décrire des personnes ou objets en combinant deux phrases en une avec une relative. Feedback écrit de l'enseignant."
+  }
+ ],
+ "Nombres ordinaux (premier, deuxième...)": [
+  {
+   "n": 1,
+   "label": "Formation régulière",
+   "text": "cardinal + -ième : deux → deuxième, trois → troisième. Signaler les ajustements (cinq → cinquième, neuf → neuvième)."
+  },
+  {
+   "n": 2,
+   "label": "Premier/première (irrégulier)",
+   "text": "1er = premier/première (accord en genre). Drill : étages, classements, dates de rois."
+  },
+  {
+   "n": 3,
+   "label": "Production : classements",
+   "text": "Décrire un podium, un programme, des étages d'immeuble en utilisant les ordinaux."
+  }
+ ],
+ "Expression de la quantité (assez de, trop de, peu de...)": [
+  {
+   "n": 1,
+   "label": "Adverbes de quantité + de",
+   "text": "beaucoup de, assez de, trop de, peu de, un peu de. Toujours « de » invariable, sans article.",
+   "ex": "« Il y a trop de bruit, pas assez de chaises. »"
+  },
+  {
+   "n": 2,
+   "label": "Comptable vs non comptable",
+   "text": "un peu de (non comptable : un peu d'eau) vs quelques (comptable : quelques personnes). Drill de tri."
+  },
+  {
+   "n": 3,
+   "label": "Production : évaluer",
+   "text": "Commenter des situations (la ville, le repas) en jugeant les quantités."
+  }
+ ],
+ "Nominalisation (verbe → nom)": [
+  {
+   "n": 1,
+   "label": "Repérer les suffixes productifs",
+   "text": "Présenter les familles : -tion (décider → décision), -ment (changer → changement), -age (laver → lavage), -eur/-ure. Trier des verbes selon leur suffixe de nominalisation.",
+   "ex": "« progresser → le progrès ; construire → la construction »"
+  },
+  {
+   "n": 2,
+   "label": "Transformer verbe → titre de presse",
+   "text": "À partir de phrases (« Le président a démissionné »), produire un titre nominal (« Démission du président »). Activité authentique sur titres de journaux."
+  },
+  {
+   "n": 3,
+   "label": "Production écrite condensée",
+   "text": "Réécrire un court paragraphe verbal en style nominal dense. Sensibiliser à l'effet de concision propre à l'écrit formel."
+  }
+ ],
+ "Absence d'article (locutions figées)": [
+  {
+   "n": 1,
+   "label": "Inventaire de blocs figés",
+   "text": "avec plaisir, sans argent, en voiture, par hasard, en cas de. Présenter comme expressions à mémoriser, pas comme règle générale.",
+   "ex": "« Il est parti sans bagage, en voiture. »"
+  },
+  {
+   "n": 2,
+   "label": "Repérer le déclencheur",
+   "text": "Montrer les contextes typiques : après certaines prépositions (en, sans, avec + nom abstrait), dans les énumérations, après une quantité. Classer les exemples."
+  },
+  {
+   "n": 3,
+   "label": "Production contrôlée",
+   "text": "Compléter un texte à trous où il faut décider article / absence d'article. Feedback ciblé sur les locutions figées."
+  }
+ ],
+ "Verbes en -oir (voir, recevoir, s'asseoir, falloir)": [
+  {
+   "n": 1,
+   "label": "Repérage des sous-familles",
+   "text": "Distribuer un corpus court de dix phrases authentiques et faire classer les verbes en -oir rencontrés en trois colonnes : voir et ses composés, les verbes en -cevoir, les impersonnels. Signaler au passage que pouvoir, vouloir, devoir et savoir relèvent de la même famille mais ont déjà été traités : ils servent ici de repères, on ne les conjugue pas.",
+   "ex": "Tableau à trois colonnes : « voir, revoir, prévoir » / « recevoir, apercevoir, décevoir, concevoir » / « falloir, pleuvoir, valoir »."
+  },
+  {
+   "n": 2,
+   "label": "Drill du radical variable",
+   "text": "Faire opposer à voix haute « je vois / nous voyons / ils voient », puis « je reçois / nous recevons / ils reçoivent ». Corriger deux points seulement : le [j] de « voyons, voyez » absent des trois personnes du singulier, et la cédille obligatoire devant o dans « je reçois, il reçoit, ils reçoivent », absente dans « nous recevons, vous recevez »."
+  },
+  {
+   "n": 3,
+   "label": "Emploi guidé : les impersonnels",
+   "text": "Mise en situation « conseils à un nouvel arrivant » : chaque apprenant produit deux phrases avec « il faut », « il vaut mieux » ou « il pleut ». Refuser toute forme personnelle de falloir et de pleuvoir et faire reformuler avec devoir : « nous devons partir tôt » et non « nous fallons partir tôt ».",
+   "ex": "Support : liste de dix situations à conseiller, une par carte."
+  },
+  {
+   "n": 4,
+   "label": "Production écrite : la semaine à venir",
+   "text": "Rédiger une dizaine de lignes au futur simple sur la semaine qui vient, en employant au moins voir, recevoir, falloir et valoir. Corriger en priorité les radicaux : « je verrai » à deux r, « il faudra », « il vaudra », et le cas isolé « je prévoirai », qui ne suit pas voir."
+  }
+ ],
+ "Subjonctif présent": [
+  {
+   "n": 1,
+   "label": "Déclencheurs sémantiques",
+   "text": "Présenter les 4 grandes catégories déclencheuses : volonté (vouloir que), sentiment (regretter que), doute (douter que), obligation (falloir que, il est nécessaire que). Mémoriser les contextes, pas la règle abstraite."
+  },
+  {
+   "n": 2,
+   "label": "Morphologie",
+   "text": "Formation : radical de la 3e pers. pl. du présent + terminaisons -e/-es/-e/-ions/-iez/-ent. Irréguliers incontournables : être (soit), avoir (ait), aller (aille), faire (fasse), pouvoir (puisse), vouloir (veuille).",
+   "ex": "ils finissent → que je finisse, que tu finisses…"
+  },
+  {
+   "n": 3,
+   "label": "Drill de transformation",
+   "text": "Transformer des phrases à l'indicatif en subordonnées avec déclencheur. 'Il part → Je veux qu'il parte.'"
+  },
+  {
+   "n": 4,
+   "label": "Production contrôlée",
+   "text": "Écrire 8 phrases personnelles authentiques utilisant 4 déclencheurs différents. L'enseignant vérifie la forme et le sens."
+  },
+  {
+   "n": 5,
+   "label": "Opposition indic./subj.",
+   "text": "Paires minimales : 'Je crois qu'il vient (indic.)' vs. 'Je ne crois pas qu'il vienne (subj.)'. La négation ou l'interrogation de la principale bascule souvent vers le subjonctif."
+  }
+ ],
+ "Plus-que-parfait": [
+  {
+   "n": 1,
+   "label": "Formation",
+   "text": "Auxiliaire (avoir/être) à l'imparfait + participe passé. Réutiliser les règles d'accord déjà connues du passé composé.",
+   "ex": "« J'avais mangé. / Elle était partie. »"
+  },
+  {
+   "n": 2,
+   "label": "Valeur d'antériorité",
+   "text": "Sur une ligne du temps, placer le plus-que-parfait AVANT un autre passé. « Quand je suis arrivé, il était déjà parti. » Manipulation chronologique visuelle."
+  },
+  {
+   "n": 3,
+   "label": "Récit à deux plans",
+   "text": "Raconter un événement passé en insérant ce qui s'était passé avant. Drill : compléter des phrases avec « parce que… avait… »."
+  }
+ ],
+ "Futur simple": [
+  {
+   "n": 1,
+   "label": "Formation régulière",
+   "text": "Infinitif + terminaisons : -ai, -as, -a, -ons, -ez, -ont. Supprimer le -e final des verbes en -re (prendre → prendra). Drill de conjugaison."
+  },
+  {
+   "n": 2,
+   "label": "Irréguliers à mémoriser",
+   "text": "être → ser- / avoir → aur- / aller → ir- / faire → fer- / venir → viendr- / pouvoir → pourr- / savoir → saur- / vouloir → voudr-. Présenter comme liste à mémoriser."
+  },
+  {
+   "n": 3,
+   "label": "Opposition futur proche/futur simple",
+   "text": "Futur proche = intention immédiate, certitude personnelle. Futur simple = projection distante, promesse, certitude objective, condition. Exercices de choix guidés.",
+   "ex": "'Je vais partir maintenant.' vs. 'Demain, le soleil se lèvera à 6h.'"
+  }
+ ],
+ "Voix passive (être + p.p.)": [
+  {
+   "n": 1,
+   "label": "Transformation active → passive",
+   "text": "Montrer le mécanisme : COD de l'actif → sujet du passif ; sujet → complément d'agent (par). « Le chat mange la souris → La souris est mangée par le chat. »"
+  },
+  {
+   "n": 2,
+   "label": "Accord du participe avec le sujet",
+   "text": "Le p.p. s'accorde toujours avec le sujet grammatical : « Les lettres ont été envoyées. » Drill d'accord ciblé.",
+   "ex": "« La maison a été vendue. »"
+  },
+  {
+   "n": 3,
+   "label": "Quand choisir le passif",
+   "text": "Discuter l'utilité : mettre en avant le résultat, masquer ou ignorer l'agent. Réécrire des phrases pour thématiser l'objet."
+  }
+ ],
+ "Gérondif (en + participe présent)": [
+  {
+   "n": 1,
+   "label": "Forme unique",
+   "text": "en + participe présent (radical du « nous » au présent + -ant). « en mangeant, en finissant ». Une seule forme, invariable.",
+   "ex": "« Il chante en travaillant. »"
+  },
+  {
+   "n": 2,
+   "label": "Les valeurs",
+   "text": "Simultanéité (« en marchant »), manière (« en courant »), condition (« en travaillant, tu réussiras »), cause. Trier des phrases par valeur."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Décrire comment on fait deux choses en même temps, puis exprimer un moyen. Drill : fusionner deux phrases avec un gérondif."
+  }
+ ],
+ "Discours rapporté (présent → imparfait, etc.)": [
+  {
+   "n": 1,
+   "label": "Transposition des déictiques",
+   "text": "Tableau des correspondances : maintenant → alors / demain → le lendemain / hier → la veille / ici → là / ce → ce/ce-là. Mémoriser avant les temps."
+  },
+  {
+   "n": 2,
+   "label": "Concordance des temps",
+   "text": "Verbe introducteur au passé → temps du discours direct basculent : présent → imparfait / passé composé → plus-que-parfait / futur → conditionnel. Drill avec dialogue court.",
+   "ex": "'Je pars.' → Il a dit qu'il partait."
+  },
+  {
+   "n": 3,
+   "label": "Reconstruction de dialogue",
+   "text": "L'apprenant reçoit un dialogue au discours direct. Il doit le réécrire au discours indirect. Feedback écrit ciblé sur les temps et déictiques."
+  }
+ ],
+ "Verbes et prépositions (penser à/de, jouer à/de, commencer à)": [
+  {
+   "n": 1,
+   "label": "Repérage guidé dans un texte",
+   "text": "Distribuer un court échange de courriels entre deux collègues contenant une quinzaine de verbes suivis d'un infinitif ou d'un complément. Faire souligner chaque verbe avec ce qui le suit immédiatement, puis faire remplir un tableau à trois colonnes : « à », « de », « rien ». Ne rien expliquer avant que le classement ne soit terminé et confronté entre voisins.",
+   "ex": "Support : échange de courriels « Organiser le séminaire », verbes à souligner."
+  },
+  {
+   "n": 2,
+   "label": "Présentation des trois constructions",
+   "text": "Mettre au tableau les trois listes closes : à + infinitif pour apprendre, réussir, arriver, hésiter, continuer, se mettre ; de + infinitif pour essayer, décider, oublier, refuser, accepter, avoir besoin ; aucune préposition pour aimer, vouloir, pouvoir, devoir, savoir, espérer, préférer, aller. Insister sur le fait que la préposition est attachée au verbe et se mémorise avec lui, exactement comme le genre d'un nom.",
+   "ex": "Tableau de rection à trois colonnes, à compléter et à conserver dans le cahier."
+  },
+  {
+   "n": 3,
+   "label": "Drill contrastif sur les paires",
+   "text": "Enchaîner oralement des couples minimaux où la préposition change le sens : « Je pense à ce film » contre « Que penses-tu de ce film ? », « Il joue au tennis » contre « Il joue du piano », « Elle parle à Paul » contre « Elle parle de Paul ». Faire reformuler le sens en français simple après chaque paire et corriger immédiatement toute confusion entre destinataire et sujet de conversation."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : entretien",
+   "text": "Faire jouer un entretien d'embauche à deux, où le candidat doit employer au moins huit verbes du tableau : « J'ai décidé de », « J'espère travailler », « Je tiens à », « J'ai appris à ». L'observateur ne relève que les prépositions, sur une grille, et rend la liste des erreurs au binôme avant la reprise collective."
+  }
+ ],
+ "Accord du p.p. avec avoir (COD antéposé)": [
+  {
+   "n": 1,
+   "label": "La règle ciblée",
+   "text": "Avec avoir, le p.p. s'accorde avec le COD seulement si celui-ci est placé AVANT le verbe. « Les fleurs que j'ai achetées. »"
+  },
+  {
+   "n": 2,
+   "label": "Repérer le COD antéposé",
+   "text": "Trois déclencheurs : pronom (les, l'), relatif que, interrogatif (quelles fleurs as-tu achetées ?). Souligner le COD et tracer une flèche vers le participe.",
+   "ex": "« Je les ai vus. / La lettre qu'il a écrite. »"
+  },
+  {
+   "n": 3,
+   "label": "Drill écrit minutieux",
+   "text": "Compléter la terminaison du participe selon la position du COD. Comparer paires : « J'ai mangé la pomme / La pomme que j'ai mangée »."
+  }
+ ],
+ "Adjectifs verbaux vs. participes présents": [
+  {
+   "n": 1,
+   "label": "Deux formes, deux fonctions",
+   "text": "Participe présent (verbe, invariable) : « Les enfants courant dans la rue ». Adjectif verbal (qualité, s'accorde) : « des enfants courants ». Opposer en contexte."
+  },
+  {
+   "n": 2,
+   "label": "Test de l'accord",
+   "text": "Si on peut accorder et mettre au féminin, c'est l'adjectif verbal. Si la forme régit un complément ou exprime une action, c'est le participe.",
+   "ex": "« une eau courante / l'eau courant dans le ruisseau »"
+  },
+  {
+   "n": 3,
+   "label": "Paires orthographiques piégées",
+   "text": "fatigant/fatiguant, différent/différant, provocant/provoquant, négligent/négligeant. Drill de choix orthographique justifié."
+  }
+ ],
+ "Ordre des pronoms (doubles)": [
+  {
+   "n": 1,
+   "label": "Tableau mémorisable",
+   "text": "Présenter le tableau d'ordre comme une formule : me/te/se/nous/vous → le/la/les → lui/leur → y → en. Dire : 'On lit le tableau de gauche à droite et on garde le premier applicable.'"
+  },
+  {
+   "n": 2,
+   "label": "Drill de substitution",
+   "text": "Phrases avec 2 compléments. Remplacer l'un puis l'autre puis les deux. 'Je donne le livre à Marie → Je le lui donne.'"
+  },
+  {
+   "n": 3,
+   "label": "Impératif affirmatif",
+   "text": "À l'impératif affirmatif, l'ordre change : verbe + COD + COI. 'Donne-le-lui.' Présenter comme exception à retenir séparément."
+  }
+ ],
+ "Pronoms relatifs (dont, où)": [
+  {
+   "n": 1,
+   "label": "'dont' = de + antécédent",
+   "text": "Identifier les verbes construits avec 'de' : parler de, avoir besoin de, se souvenir de. 'Le livre dont je parle' = je parle de ce livre.",
+   "ex": "Exercice : repérer les verbes en 'de' dans une liste de 20."
+  },
+  {
+   "n": 2,
+   "label": "'où' = lieu et temps",
+   "text": "'où' peut remplacer un GN de temps ou de lieu. 'Le jour où il est parti.' / 'La ville où j'habite.'"
+  },
+  {
+   "n": 3,
+   "label": "Production avec contrainte",
+   "text": "Rédiger un texte de 10 lignes décrivant un lieu ou une époque en utilisant au moins 3 'dont' et 3 'où' correctement employés."
+  }
+ ],
+ "Pronoms démonstratifs (celui, celle, ceux, celles)": [
+  {
+   "n": 1,
+   "label": "Les quatre formes",
+   "text": "celui (m.s.), celle (f.s.), ceux (m.pl.), celles (f.pl.). Toujours suivis de quelque chose : jamais seuls.",
+   "ex": "« Quel livre ? Celui de Paul. »"
+  },
+  {
+   "n": 2,
+   "label": "Trois constructions",
+   "text": "celui + de (appartenance), celui + qui/que (relative), celui-ci/celui-là (proximité). Trier des exemples selon la construction."
+  },
+  {
+   "n": 3,
+   "label": "Éviter la répétition",
+   "text": "Reprendre un nom déjà cité pour ne pas le répéter : « J'aime ce tableau, mais je préfère celui du salon. » Drill de reformulation."
+  }
+ ],
+ "Pronoms possessifs (le mien, le tien, le nôtre...)": [
+  {
+   "n": 1,
+   "label": "Repérage guidé",
+   "text": "Distribuer un court dialogue de rentrée scolaire où deux personnes comparent leurs affaires. Faire souligner en bleu les adjectifs possessifs suivis d'un nom, en rouge les groupes « le mien, la tienne, les nôtres » qui ne sont suivis d'aucun nom. Faire formuler la conclusion par la classe : le pronom remplace l'adjectif et le nom à la fois.",
+   "ex": "Support : dialogue « Au vestiaire » de dix répliques, avec les possessifs en gras."
+  },
+  {
+   "n": 2,
+   "label": "Présentation du paradigme",
+   "text": "Construire au tableau la grille complète à quatre colonnes — masculin singulier, féminin singulier, masculin pluriel, féminin pluriel — et à six lignes, une par possesseur. Faire remarquer que les lignes « nous », « vous » et « eux » n'ont que trois formes, et faire entourer l'accent circonflexe de « le nôtre » et « le vôtre ».",
+   "ex": "Tableau de conjugaison des possessifs, 6 lignes × 4 colonnes, à compléter par les apprenants."
+  },
+  {
+   "n": 3,
+   "label": "Drill phonétique et contracté",
+   "text": "Faire répéter en alternance « notre livre / le nôtre » et « votre maison / la vôtre » jusqu'à ce que l'opposition entre le o ouvert de l'adjectif et le o fermé du pronom soit stable. Enchaîner ensuite sur des transformations rapides avec préposition : « Je pense à mes parents et ___ » vers « et aux tiens », en corrigeant immédiatement toute forme « à le mien » ou « de les leurs »."
+  },
+  {
+   "n": 4,
+   "label": "Production guidée : comparaison",
+   "text": "Par deux, faire comparer six éléments imposés — logement, quartier, horaires de travail, famille, habitudes du week-end, projets de vacances — en interdisant la répétition du nom dans la réponse : « Mon quartier est calme. — Le mien est bruyant. » Ne corriger que l'accord du pronom avec l'objet possédé et l'accent circonflexe des formes de « nous » et « vous »."
+  }
+ ],
+ "Pronom relatif lequel / laquelle / lesquels": [
+  {
+   "n": 1,
+   "label": "Emploi après préposition",
+   "text": "S'utilise après une préposition (sur, dans, avec, pour…), surtout pour les choses. « La table sur laquelle j'écris. »"
+  },
+  {
+   "n": 2,
+   "label": "Accord et contractions",
+   "text": "Accord en genre et nombre avec l'antécédent : lequel, laquelle, lesquels, lesquelles. Contractions avec à/de : auquel, duquel, auxquels…",
+   "ex": "« Le problème auquel je pense. »"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Décrire des objets en utilisant des relatives prépositionnelles. Drill : fusionner deux phrases avec préposition + lequel."
+  }
+ ],
+ "Ne...que (restriction)": [
+  {
+   "n": 1,
+   "label": "Sens = seulement",
+   "text": "ne…que n'est pas une négation mais une restriction. « Il ne mange que des légumes » = il mange seulement des légumes.",
+   "ex": "« Je n'ai qu'un euro. »"
+  },
+  {
+   "n": 2,
+   "label": "Place de que",
+   "text": "que se place juste devant l'élément restreint. Déplacer que change le sens : « Il ne lit que le soir » ≠ « Il ne lit le soir que des romans ». Manipulation de position."
+  },
+  {
+   "n": 3,
+   "label": "Opposer à la vraie négation",
+   "text": "Comparer « Il ne mange pas de légumes » (négation, → de) et « Il ne mange que des légumes » (restriction, → article maintenu). Drill contrastif."
+  }
+ ],
+ "Formation des adverbes en -ment": [
+  {
+   "n": 1,
+   "label": "Règle de base",
+   "text": "Adjectif au féminin + -ment : lent → lente → lentement ; doux → douce → doucement. Drill de dérivation rapide.",
+   "ex": "« heureuse → heureusement »"
+  },
+  {
+   "n": 2,
+   "label": "Cas en -ant / -ent",
+   "text": "Adjectifs en -ant → -amment (courant → couramment) ; en -ent → -emment (évident → évidemment). Même prononciation [amã], orthographe différente."
+  },
+  {
+   "n": 3,
+   "label": "Exceptions à mémoriser",
+   "text": "vraiment, gentiment, brièvement, précisément, énormément. Liste courte à fixer par l'usage."
+  }
+ ],
+ "Adverbes de liaison (cependant, pourtant, néanmoins, en revanche)": [
+  {
+   "n": 1,
+   "label": "Registre écrit/soutenu",
+   "text": "Présenter comme alternatives soignées à « mais ». cependant, pourtant, néanmoins, toutefois, en revanche. Lecture de textes argumentatifs.",
+   "ex": "« Le projet est ambitieux ; cependant, il reste réaliste. »"
+  },
+  {
+   "n": 2,
+   "label": "Nuances de sens",
+   "text": "Concession (pourtant, cependant), opposition franche (en revanche, à l'inverse), rectification atténuée (toutefois, néanmoins). Trier selon la nuance."
+  },
+  {
+   "n": 3,
+   "label": "Place et ponctuation",
+   "text": "En tête de proposition (suivi de virgule) ou intercalé. Drill : insérer le connecteur au bon endroit dans un texte."
+  }
+ ],
+ "Subordonnée conjonctive (que + subj./indic.)": [
+  {
+   "n": 1,
+   "label": "Indicatif ou subjonctif ?",
+   "text": "Le mode dépend du verbe principal : certitude/opinion affirmée → indicatif (penser que, savoir que) ; volonté/sentiment/doute → subjonctif (vouloir que, regretter que, douter que). Classer des verbes en deux colonnes."
+  },
+  {
+   "n": 2,
+   "label": "L'effet de la négation",
+   "text": "À la forme négative, certains verbes d'opinion basculent vers le subjonctif : « Je pense qu'il vient / Je ne pense pas qu'il vienne. » Drill de transformation.",
+   "ex": "« Je crois qu'il a raison / Je ne crois pas qu'il ait raison. »"
+  },
+  {
+   "n": 3,
+   "label": "Production guidée",
+   "text": "Exprimer opinions (indicatif) puis souhaits et doutes (subjonctif) sur un même thème. Feedback sur le choix du mode."
+  }
+ ],
+ "Subordonnée de temps (quand, lorsque, dès que, avant que, après que)": [
+  {
+   "n": 1,
+   "label": "Trier par mode",
+   "text": "Indicatif après quand, lorsque, dès que, après que. Subjonctif après avant que, jusqu'à ce que, en attendant que. Classer les conjonctions.",
+   "ex": "« Avant qu'il parte / Après qu'il est parti. »"
+  },
+  {
+   "n": 2,
+   "label": "Le futur après quand",
+   "text": "Quand la principale est au futur, la subordonnée en quand/dès que est aussi au futur (≠ anglais) : « Quand tu arriveras, appelle-moi. » Drill ciblé."
+  },
+  {
+   "n": 3,
+   "label": "Production : chronologie",
+   "text": "Décrire une séquence d'actions avec les bonnes conjonctions et les bons modes. Texte guidé à compléter."
+  }
+ ],
+ "Subordonnée de cause (parce que, puisque, comme)": [
+  {
+   "n": 1,
+   "label": "Trois nuances de cause",
+   "text": "parce que = cause nouvelle (réponse à « pourquoi ») ; puisque = cause connue/évidente ; comme = cause posée d'emblée, en tête de phrase. Opposer en contexte.",
+   "ex": "« Comme il pleut, je reste. / Je reste parce qu'il pleut. »"
+  },
+  {
+   "n": 2,
+   "label": "Place dans la phrase",
+   "text": "comme commence toujours la phrase. parce que répond et se place après. puisque rappelle un fait partagé. Drill de positionnement."
+  },
+  {
+   "n": 3,
+   "label": "Production argumentative",
+   "text": "Justifier une décision en variant le connecteur causal selon que l'information est nouvelle ou déjà connue."
+  }
+ ],
+ "Subordonnée de but (pour que + subj., afin que)": [
+  {
+   "n": 1,
+   "label": "Même sujet vs sujets différents",
+   "text": "Même sujet → pour + infinitif (« Je travaille pour réussir »). Sujets différents → pour que + subjonctif (« Je travaille pour que tu réussisses »). Test du sujet.",
+   "ex": "« Il parle lentement pour que tout le monde comprenne. »"
+  },
+  {
+   "n": 2,
+   "label": "Registre",
+   "text": "afin que / afin de = registre soutenu ; pour que / pour = courant ; de peur que, de crainte que = but négatif. Hiérarchiser par registre."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Exprimer des objectifs avec le bon choix infinitif/subjonctif selon l'identité des sujets. Drill de transformation."
+  }
+ ],
+ "Hypothèse (si + présent, futur)": [
+  {
+   "n": 1,
+   "label": "Tableau des 3 systèmes",
+   "text": "Présenter les 3 degrés sous forme de tableau. B1 : se concentrer sur le 1er (si + présent / futur). Les autres sont présentés pour reconnaissance."
+  },
+  {
+   "n": 2,
+   "label": "Règle absolue",
+   "text": "JAMAIS le conditionnel dans la proposition avec 'si'. Règle à mémoriser comme formule. Drill : détecter et corriger les erreurs.",
+   "ex": "*'Si tu viendrais' → 'Si tu venais' (2e degré)"
+  },
+  {
+   "n": 3,
+   "label": "Jeu de négociation",
+   "text": "Jeu de rôle : négocier une sortie, un projet. Utiliser les conditionnels de politesse ET les structures si + présent. Production authentique."
+  }
+ ],
+ "Expression de la concession (bien que + subj., même si)": [
+  {
+   "n": 1,
+   "label": "Trois constructions clés",
+   "text": "bien que / quoique + subjonctif ; même si + indicatif ; malgré + nom. Trier des phrases selon la structure qui suit.",
+   "ex": "« Bien qu'il soit fatigué, il continue. / Malgré la fatigue, il continue. »"
+  },
+  {
+   "n": 2,
+   "label": "Subjonctif vs indicatif",
+   "text": "Opposer « bien qu'il pleuve » (subjonctif) et « même s'il pleut » (indicatif). Drill de choix du mode selon la conjonction."
+  },
+  {
+   "n": 3,
+   "label": "Production nuancée",
+   "text": "Exprimer un obstacle qui n'empêche pas l'action, en variant les trois structures. Texte argumentatif court."
+  }
+ ],
+ "Nominalisation stylistique": [
+  {
+   "n": 1,
+   "label": "Densifier l'information",
+   "text": "Transformer une proposition entière en groupe nominal étendu, avec compléments du nom et adjectifs. Style journalistique et administratif. Travail sur titres et chapôs.",
+   "ex": "« On a fortement augmenté les prix → La forte augmentation des prix »"
+  },
+  {
+   "n": 2,
+   "label": "Compléments du nom en cascade",
+   "text": "Empiler les compléments : « la décision de report de la réunion par la direction ». Analyser puis construire des GN à plusieurs niveaux."
+  },
+  {
+   "n": 3,
+   "label": "Réécriture stylistique",
+   "text": "Réécrire un paragraphe narratif en style nominal compact, puis discuter l'effet (objectivité, concision, effacement de l'agent)."
+  }
+ ],
+ "Article zéro (apposition, attribut, prédication)": [
+  {
+   "n": 1,
+   "label": "Les contextes sans article",
+   "text": "Profession en attribut (« Il est médecin »), apposition (« Paris, capitale de la France »), titres et enseignes. Repérer dans des textes authentiques.",
+   "ex": "« En tant que professeur, je conseille… »"
+  },
+  {
+   "n": 2,
+   "label": "Opposer avec / sans article",
+   "text": "« Il est médecin » (fonction) vs « C'est un médecin réputé » (identification + qualificatif). Drill de choix selon la structure."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Présenter des personnes par leur fonction (sans article) puis les caractériser (avec article). Cartes de visite et notices biographiques."
+  }
+ ],
+ "Subjonctif passé": [
+  {
+   "n": 1,
+   "label": "Formation",
+   "text": "Auxiliaire (être ou avoir) au subjonctif PRÉSENT + participe passé. 'Bien qu'il soit parti.' / 'Bien qu'elle ait mangé.'"
+  },
+  {
+   "n": 2,
+   "label": "Valeur d'antériorité",
+   "text": "Le subjonctif passé exprime une action ANTÉRIEURE à celle de la principale. 'Je regrette qu'il soit parti avant mon arrivée.'"
+  },
+  {
+   "n": 3,
+   "label": "Exercices de substitution temporelle",
+   "text": "Paires : même phrase avec subjonctif présent (simultanéité) puis passé (antériorité). Observer la nuance.",
+   "ex": "'Bien qu'il parte' (simultané) / 'Bien qu'il soit parti' (antérieur)."
+  }
+ ],
+ "Conditionnel passé (irréel du passé)": [
+  {
+   "n": 1,
+   "label": "Système du 3e degré",
+   "text": "si + plus-que-parfait / conditionnel passé. Hypothèse irréelle sur le passé. Présenter le tableau complet des 3 systèmes et situer celui-ci."
+  },
+  {
+   "n": 2,
+   "label": "Morphologie",
+   "text": "Conditionnel présent de avoir/être + participe passé. Accord du p.p. avec être. 'J'aurais mangé. / Elle serait partie.'"
+  },
+  {
+   "n": 3,
+   "label": "Systèmes mixtes",
+   "text": "3e degré dans si + 2e degré dans la principale : regret au présent. 'Si j'avais su, je ne viendrais pas.' Exercices d'identification et de production."
+  },
+  {
+   "n": 4,
+   "label": "Valeur de reproche",
+   "text": "Le conditionnel passé seul (sans si) = reproche. 'Tu aurais pu appeler.' Mettre en contexte conversationnel."
+  }
+ ],
+ "Futur antérieur": [
+  {
+   "n": 1,
+   "label": "Formation",
+   "text": "Auxiliaire au futur simple + participe passé. 'J'aurai fini. / Elle sera arrivée.'"
+  },
+  {
+   "n": 2,
+   "label": "Valeur d'antériorité future",
+   "text": "Action future antérieure à une autre action future. 'Quand tu auras fini, appelle-moi.' Exercices sur des séquences temporelles futures."
+  },
+  {
+   "n": 3,
+   "label": "Valeur de probabilité",
+   "text": "'Il aura encore oublié !' = probabilité dans le passé vue du présent. Nuance pragmatique importante pour B2."
+  }
+ ],
+ "Infinitif passé": [
+  {
+   "n": 1,
+   "label": "Forme",
+   "text": "avoir/être + participe passé : avoir mangé, être parti. Exprime une action antérieure à celle du verbe principal.",
+   "ex": "« Après avoir terminé, il est sorti. »"
+  },
+  {
+   "n": 2,
+   "label": "Emploi avec « après »",
+   "text": "« après » est toujours suivi de l'infinitif passé quand le sujet est le même : « Après être arrivés, ils ont dîné. » Drill de transformation (deux phrases → une)."
+  },
+  {
+   "n": 3,
+   "label": "Accord du participe",
+   "text": "Mêmes règles que d'habitude : accord avec le sujet (être), avec le COD antéposé (avoir). Vérification écrite ciblée."
+  }
+ ],
+ "Voix passive — nuances stylistiques": [
+  {
+   "n": 1,
+   "label": "Le passif subi : se faire / se voir + infinitif",
+   "text": "« Il s'est fait renvoyer » (passif où le sujet subit). « Elle s'est vu refuser l'accès » (registre soutenu). Opposer au passif neutre en être.",
+   "ex": "« Il s'est fait voler son portefeuille. »"
+  },
+  {
+   "n": 2,
+   "label": "Passif d'état vs de processus",
+   "text": "« La porte est fermée » (état résultant) vs « La porte est fermée par le gardien à 20h » (processus). Distinguer selon la présence d'un agent et le sens."
+  },
+  {
+   "n": 3,
+   "label": "Choix stylistique",
+   "text": "Réécrire un fait divers en variant les formes passives selon l'effet recherché (responsabilité, fatalité, neutralité)."
+  }
+ ],
+ "Semi-auxiliaires aspectuels (venir de, être en train de, être sur le point de)": [
+  {
+   "n": 1,
+   "label": "Trois aspects, trois périphrases",
+   "text": "venir de + inf. = passé tout récent ; être en train de + inf. = action en cours ; être sur le point de + inf. = futur imminent. Placer sur une ligne du temps.",
+   "ex": "« Je viens de finir / Je suis en train de manger / Je suis sur le point de partir. »"
+  },
+  {
+   "n": 2,
+   "label": "Conjugaison du semi-auxiliaire",
+   "text": "Seul le semi-auxiliaire se conjugue ; le verbe reste à l'infinitif. Au passé : « je venais de finir » (imparfait obligatoire pour venir de). Drill ciblé."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Commenter une scène en direct (en train de), puis le passé proche et l'imminent. Reportage oral guidé."
+  }
+ ],
+ "Accords complexes (p.p. verbes pronominaux)": [
+  {
+   "n": 1,
+   "label": "Le test du COD",
+   "text": "Avec un verbe pronominal, accorder le p.p. avec le pronom réfléchi SI celui-ci est COD. « Elle s'est lavée » (se = COD, accord) vs « Elle s'est lavé les mains » (les mains = COD après, pas d'accord)."
+  },
+  {
+   "n": 2,
+   "label": "Verbes essentiellement pronominaux",
+   "text": "Toujours accord avec le sujet : « Elle s'est souvenue, ils se sont enfuis. » Liste à mémoriser (s'enfuir, se souvenir, s'évanouir…).",
+   "ex": "« Elles se sont absentées. »"
+  },
+  {
+   "n": 3,
+   "label": "Drill d'accord raisonné",
+   "text": "Pour chaque phrase, identifier le réfléchi (COD ? COI ?) puis décider l'accord. Justification obligatoire."
+  }
+ ],
+ "Accord avec collectif / fraction": [
+  {
+   "n": 1,
+   "label": "Le sens commande l'accord",
+   "text": "« La plupart des gens pensent » (pluriel, accord avec le complément). « Un groupe d'étudiants est arrivé / sont arrivés » (flottement accepté selon l'intention). Analyser des cas.",
+   "ex": "« La moitié des invités sont partis. »"
+  },
+  {
+   "n": 2,
+   "label": "Collectif + complément",
+   "text": "Avec un collectif suivi d'un complément pluriel (une foule de, une série de), l'accord se fait souvent avec le complément si l'on insiste sur la pluralité. Discuter les deux options."
+  },
+  {
+   "n": 3,
+   "label": "Production justifiée",
+   "text": "Rédiger des phrases avec collectifs et fractions, puis défendre le choix d'accord (grammatical ou logique)."
+  }
+ ],
+ "Pronoms relatifs composés (auquel, duquel...)": [
+  {
+   "n": 1,
+   "label": "Système complet des formes",
+   "text": "lequel et ses contractions : auquel/à laquelle/auxquels/auxquelles, duquel/de laquelle/desquels/desquelles. Tableau à double entrée (genre × nombre × préposition).",
+   "ex": "« Le sujet auquel je m'intéresse. »"
+  },
+  {
+   "n": 2,
+   "label": "Après préposition complexe",
+   "text": "Indispensable après locutions prépositives : à côté duquel, grâce auquel, au cours desquelles. Repérer la préposition qui impose la forme."
+  },
+  {
+   "n": 3,
+   "label": "Production écrite soutenue",
+   "text": "Construire des relatives prépositionnelles dans un texte formel. Drill : fusionner deux phrases en choisissant la bonne forme composée."
+  }
+ ],
+ "Pronoms indéfinis (quiconque, nul, aucun, certain, d'aucuns)": [
+  {
+   "n": 1,
+   "label": "Registre et sens",
+   "text": "quiconque = toute personne qui (juridique/soutenu) ; nul = personne (soutenu, + ne) ; d'aucuns = certains (très soutenu, littéraire). Classer par niveau de langue.",
+   "ex": "« Nul n'est censé ignorer la loi. »"
+  },
+  {
+   "n": 2,
+   "label": "Constructions et accord",
+   "text": "nul, aucun → singulier + ne. certains, d'aucuns → pluriel. Drill d'emploi correct avec la négation associée."
+  },
+  {
+   "n": 3,
+   "label": "Lecture soutenue",
+   "text": "Repérer ces pronoms dans des textes juridiques ou littéraires, puis reformuler en registre courant pour contraster."
+  }
+ ],
+ "Indéfinis composés (n'importe quel, n'importe qui, quelconque)": [
+  {
+   "n": 1,
+   "label": "Repérage guidé du procédé",
+   "text": "Projeter une dizaine d'énoncés authentiques contenant « n'importe » et faire isoler le mot interrogatif qui suit : qui, quoi, où, quand, comment, quel, lequel. Faire formuler la règle de fabrication par les apprenants eux-mêmes, puis signaler d'emblée les deux seules formes variables de la série, « n'importe quel » et « n'importe lequel ».",
+   "ex": "Tableau à deux colonnes : « formes invariables : n'importe qui, quoi, où, quand, comment » / « formes variables : n'importe quel-quelle-quels-quelles, n'importe lequel-laquelle-lesquels-lesquelles »."
+  },
+  {
+   "n": 2,
+   "label": "Drill de l'accord",
+   "text": "Enchaîner rapidement des transformations à partir d'un stock de noms de genres et de nombres différents : heure, livre, robes, spectacles. L'apprenant produit « à n'importe quelle heure », « n'importe quels spectacles ». Ne corriger ici que l'accord, jamais la prononciation ni le lexique."
+  },
+  {
+   "n": 3,
+   "label": "Emploi guidé : les nuances de sens",
+   "text": "Opposer deux séries de phrases au tableau : « Appelle-moi à n'importe quelle heure », valeur de libre choix, et « Il raconte n'importe quoi », valeur péjorative. Ajouter « quelconque » postposé, « prends un dossier quelconque » puis « ce film est quelconque », et faire reformuler chaque énoncé en français simple pour vérifier la lecture retenue.",
+   "ex": "Support : douze cartes-phrases à trier entre « choix libre », « jugement négatif » et « les deux lectures possibles »."
+  },
+  {
+   "n": 4,
+   "label": "Production écrite : concessives",
+   "text": "Faire rédiger un court message d'encouragement employant au moins « quoi qu'il arrive », « où que tu ailles » et « qui que tu sois ». Corriger deux points seulement : le subjonctif obligatoire après ces locutions, et la séparation en deux mots de « quoi que », à distinguer de « quoique » en un mot qui vaut « bien que »."
+  }
+ ],
+ "Négations littéraires (ne...guère, ne...point, ne...nullement)": [
+  {
+   "n": 1,
+   "label": "Inventaire et sens",
+   "text": "ne…guère = ne…pas beaucoup ; ne…point = ne…pas (archaïsant/littéraire) ; ne…nullement = ne…pas du tout (insistance soutenue). Lecture de textes classiques.",
+   "ex": "« Il n'en a guère envie. »"
+  },
+  {
+   "n": 2,
+   "label": "Reconnaissance avant production",
+   "text": "Objectif premier : comprendre ces formes à la lecture (Molière, Hugo, presse soutenue). Repérage et glose en français courant."
+  },
+  {
+   "n": 3,
+   "label": "Emploi mesuré",
+   "text": "Introduire « ne…guère » comme seule forme réellement productive à l'écrit soigné contemporain. Drill d'insertion."
+  }
+ ],
+ "Adverbes de modalité (certes, effectivement, pourtant, toutefois)": [
+  {
+   "n": 1,
+   "label": "Marqueurs de posture argumentative",
+   "text": "certes = concession partielle ; effectivement = confirmation ; toutefois/pourtant = réserve. Construire l'enchaînement thèse → concession → nuance.",
+   "ex": "« Certes, c'est cher ; toutefois, la qualité le justifie. »"
+  },
+  {
+   "n": 2,
+   "label": "Le couple certes… mais",
+   "text": "Schéma argumentatif type : « Certes X, mais Y » (j'accorde un point pour mieux objecter). Drill de production de paires concessives."
+  },
+  {
+   "n": 3,
+   "label": "Production : argumentation en 4 temps",
+   "text": "Rédiger un paragraphe : thèse, concession (certes), objection (toutefois), conclusion. Feedback sur la cohérence des marqueurs."
+  }
+ ],
+ "Système hypothétique complet (3 degrés)": [
+  {
+   "n": 1,
+   "label": "Tableau récapitulatif",
+   "text": "Afficher les 3 degrés avec valeur sémantique. 1er : possible. 2e : improbable/irréel présent. 3e : irréel passé. Drill de classification : 15 phrases à classer."
+  },
+  {
+   "n": 2,
+   "label": "Production différenciée",
+   "text": "Même situation, 3 formulations (un degré chacune). Observer la différence de nuance. Oral et écrit."
+  },
+  {
+   "n": 3,
+   "label": "Texte argumentatif",
+   "text": "Rédiger un texte de 200 mots avec un système du 2e et un du 3e degré correctement employés. Évaluation sur la cohérence temporelle."
+  }
+ ],
+ "Mise en relief (c'est... que, c'est... qui)": [
+  {
+   "n": 1,
+   "label": "Structure clivée",
+   "text": "C'est [X] qui/que [reste]. La relative qui/que se construit normalement. Accord du verbe de la relative avec X.",
+   "ex": "'C'est lui qui a gagné.' / 'C'est lui que j'ai vu.'"
+  },
+  {
+   "n": 2,
+   "label": "Pseudo-clivée",
+   "text": "Ce qui/que [proposition] + c'est [X]. 'Ce qui m'intéresse, c'est la littérature.' Valeur de thématisation (mettre X en relief en fin de phrase)."
+  },
+  {
+   "n": 3,
+   "label": "Production argumentative",
+   "text": "Rédiger un paragraphe d'argumentation où chaque argument clé est introduit par une clivée. Objectif : varier les structures de mise en relief."
+  }
+ ],
+ "Inversion du sujet (soutenu/écrit)": [
+  {
+   "n": 1,
+   "label": "Après certains adverbes en tête",
+   "text": "peut-être, ainsi, aussi (= c'est pourquoi), sans doute, à peine → inversion : « Peut-être viendra-t-il. » Repérer les déclencheurs.",
+   "ex": "« Ainsi parlait-il à la foule. »"
+  },
+  {
+   "n": 2,
+   "label": "Inversion dans les incises",
+   "text": "Discours rapporté : « dit-il, répondit-elle, s'écria le maître ». Insertion du -t- euphonique (« arriva-t-il »). Drill d'incise."
+  },
+  {
+   "n": 3,
+   "label": "Production écrite soutenue",
+   "text": "Réécrire des phrases neutres en registre soutenu avec inversion après adverbe. Discuter l'effet stylistique."
+  }
+ ],
+ "Propositions participiales": [
+  {
+   "n": 1,
+   "label": "Participe en tête de phrase",
+   "text": "Participe présent ou passé ouvrant la phrase, exprimant cause, temps ou condition. « Fatiguée, elle s'endormit. / La nuit venue, ils partirent. »"
+  },
+  {
+   "n": 2,
+   "label": "Sujet propre ou sujet commun",
+   "text": "Si le participe a son propre sujet exprimé, c'est une participiale absolue (« Le dîner terminé, nous sommes sortis »). Sinon, le sujet doit être celui de la principale. Distinguer les deux cas.",
+   "ex": "« Le soleil couché, la température chuta. »"
+  },
+  {
+   "n": 3,
+   "label": "Production stylistique",
+   "text": "Condenser deux propositions en une participiale. Travail sur la concision narrative et descriptive."
+  }
+ ],
+ "Subordonnée de conséquence (si bien que, de sorte que, tant que...)": [
+  {
+   "n": 1,
+   "label": "Indicatif = conséquence réelle",
+   "text": "si bien que, de sorte que, au point que + indicatif (conséquence effective). « Il pleuvait, si bien que le match fut annulé. » Repérer le résultat.",
+   "ex": "« Elle a tant insisté qu'il a cédé. »"
+  },
+  {
+   "n": 2,
+   "label": "Intensité + conséquence",
+   "text": "Structures corrélatives : si/tellement + adj. + que, tant/tellement de + nom + que. Drill de construction (intensité → résultat)."
+  },
+  {
+   "n": 3,
+   "label": "Subjonctif = but déguisé",
+   "text": "« de telle manière que + subjonctif » exprime une intention, pas un fait. Opposer conséquence (indicatif) et finalité (subjonctif). Production contrastée."
+  }
+ ],
+ "Expression de l'opposition (alors que, tandis que, au lieu de)": [
+  {
+   "n": 1,
+   "label": "Repérage : opposition ou concession",
+   "text": "Projeter deux phrases minimales, « Il sort, alors qu'il pleut » et « Bien qu'il pleuve, il sort », et faire verbaliser la différence : dans la première, deux faits également réels sont simplement mis en regard ; dans la seconde, la pluie est un obstacle qui aurait dû empêcher la sortie. Faire ensuite trier un corpus de douze phrases en deux colonnes, opposition et concession, sans encore parler de mode verbal.",
+   "ex": "Support : corpus de douze phrases mêlant alors que, tandis que, au lieu de, bien que, même si, malgré."
+  },
+  {
+   "n": 2,
+   "label": "Drill du mode verbal",
+   "text": "Enchaîner rapidement des transformations orales sur un même contenu : « bien qu'il soit malade » devient « alors qu'il est malade ». Corriger le seul point qui compte ici : alors que et tandis que appellent l'indicatif, au lieu que appelle le subjonctif, et le subjonctif après alors que est une faute de contamination à reprendre systématiquement.",
+   "ex": "Tableau à trois entrées : « alors que / tandis que + indicatif », « au lieu que + subjonctif », « au lieu de + infinitif »."
+  },
+  {
+   "n": 3,
+   "label": "Emploi guidé : comparer deux profils",
+   "text": "Distribuer deux fiches de personnages aux habitudes contraires et demander six phrases de comparaison en imposant les outils à tour de rôle : contrairement à, à la différence de, à l'inverse de suivis d'un nom, puis en revanche, par contre et inversement en tête de seconde phrase. Vérifier que rien de conjugué ne suit contrairement à et signaler que par contre, longtemps critiqué, est aujourd'hui admis, en revanche restant plus soutenu à l'écrit."
+  },
+  {
+   "n": 4,
+   "label": "Production écrite argumentative",
+   "text": "Faire rédiger une vingtaine de lignes comparant deux choix réels, par exemple étudier dans une grande ville ou dans une petite, avec au moins une structure corrélative autant… autant et un emploi de or comme articulateur. Corriger en priorité l'enchaînement logique : or doit introduire un fait qui contrarie ce qui précède, et non un simple ajout."
+  }
+ ],
+ "Connecteurs du discours écrit (or, en effet, en outre, quant à)": [
+  {
+   "n": 1,
+   "label": "Rôle logique précis",
+   "text": "or = introduit un élément nouveau dans un raisonnement ; en effet = justifie ce qui précède ; en outre = ajoute ; quant à = change de thème (« en ce qui concerne »). Trier par fonction.",
+   "ex": "« Le projet coûte cher. En outre, il est risqué. »"
+  },
+  {
+   "n": 2,
+   "label": "Pièges sémantiques",
+   "text": "or ≠ « maintenant » (sens temporel disparu) ; en effet ≠ en fait (justification vs rectification). Drill de désambiguïsation."
+  },
+  {
+   "n": 3,
+   "label": "Production : texte argumenté",
+   "text": "Structurer une argumentation écrite avec ces connecteurs aux articulations logiques. Feedback sur la pertinence de chaque lien."
+  }
+ ],
+ "Groupes nominaux complexes (expansion multiple)": [
+  {
+   "n": 1,
+   "label": "Analyser un GN dense",
+   "text": "Décomposer un groupe nominal de presse en noyau + expansions (adjectifs, compléments du nom, relatives, appositions). Schéma en arbre.",
+   "ex": "« la récente décision gouvernementale de report du scrutin, contestée par l'opposition »"
+  },
+  {
+   "n": 2,
+   "label": "Empiler les expansions",
+   "text": "Construire progressivement : noyau → + adjectif → + complément du nom → + relative. Drill d'enrichissement contrôlé du GN."
+  },
+  {
+   "n": 3,
+   "label": "Condensation stylistique",
+   "text": "Transformer un paragraphe de plusieurs phrases en un seul GN informatif (titre, légende, chapô). Comparer densité et lisibilité."
+  }
+ ],
+ "Substantivation (adjectifs et verbes employés comme noms)": [
+  {
+   "n": 1,
+   "label": "Adjectif → nom abstrait",
+   "text": "le beau, le vrai, le juste : l'article neutralise l'adjectif en concept. Usage philosophique et littéraire. Repérer dans des essais.",
+   "ex": "« Le beau et le sublime chez Kant. »"
+  },
+  {
+   "n": 2,
+   "label": "Infinitif substantivé",
+   "text": "le pouvoir, le savoir, le devenir, le manger et le boire. L'infinitif devient nom avec son article. Drill de transformation verbe → nom-infinitif."
+  },
+  {
+   "n": 3,
+   "label": "Production stylistique",
+   "text": "Rédiger quelques formules abstraites (le possible, l'essentiel, le ressenti) dans un court texte réflexif. Discuter l'effet de généralisation."
+  }
+ ],
+ "Subjonctif imparfait & plus-que-parfait (littéraire)": [
+  {
+   "n": 1,
+   "label": "Présentation des formes",
+   "text": "Radical du passé simple + terminaisons : -sse, -sses, -ˆt, -ssions, -ssiez, -ssent. Seuls être (fût), avoir (eût), faire (fît), aller (allât) à mémoriser pour la lecture."
+  },
+  {
+   "n": 2,
+   "label": "Lecture littéraire guidée",
+   "text": "Extraits de Flaubert, Balzac, Maupassant. L'apprenant identifie et explique les subjonctifs imparfaits. Pas de production forcée.",
+   "ex": "'Bien qu'il fût tarde, elle attendit.' (Maupassant)"
+  },
+  {
+   "n": 3,
+   "label": "Production stylistique (optionnel)",
+   "text": "Réécrire un paragraphe moderne au style narratif du XIXe siècle. Utiliser le subjonctif imparfait de manière contrôlée."
+  }
+ ],
+ "Passé simple (textes narratifs)": [
+  {
+   "n": 1,
+   "label": "Paradigmes par groupe",
+   "text": "Groupe 1 : -ai, -as, -a, -âmes, -âtes, -èrent. Groupe 2 : -is/-it/-îmes/-îtes/-irent. Irréguliers : être (fut), avoir (eut), faire (fit), venir (vint), voir (vit)."
+  },
+  {
+   "n": 2,
+   "label": "Alternance passé simple/imparfait",
+   "text": "En texte narratif : passé simple = action de premier plan, imparfait = arrière-plan. Exercice d'analyse d'extraits littéraires : colorier les deux temps en deux couleurs."
+  },
+  {
+   "n": 3,
+   "label": "Production narrative",
+   "text": "Rédiger un conte ou une nouvelle courte (300 mots) en respectant l'alternance. Feedback de l'enseignant sur les ruptures aspectuelles."
+  }
+ ],
+ "Conditionnel journalistique (non-validation de l'info)": [
+  {
+   "n": 1,
+   "label": "Valeur épistémique",
+   "text": "Le conditionnel exprime que l'information n'est pas validée par le locuteur. 'Le ministre serait impliqué.' = selon des sources non confirmées. Analyser des unes de journaux."
+  },
+  {
+   "n": 2,
+   "label": "Production journalistique",
+   "text": "Rédiger un article de presse sur un fait hypothétique. Employer le conditionnel pour chaque information non confirmée. Évaluation sur la cohérence du registre."
+  }
+ ],
+ "Modalité verbale fine (devoir / pouvoir / falloir — valeurs multiples)": [
+  {
+   "n": 1,
+   "label": "Cartographier les valeurs",
+   "text": "devoir : obligation (déontique) / probabilité (épistémique) / reproche (« tu aurais dû »). pouvoir : permission / capacité / possibilité / éventualité. Trier des énoncés par valeur.",
+   "ex": "« Il doit être malade (probabilité) ≠ Il doit partir (obligation). »"
+  },
+  {
+   "n": 2,
+   "label": "Le temps désambiguïse",
+   "text": "Le conditionnel passé de devoir = reproche (« tu aurais dû le savoir »). Le présent de pouvoir = capacité ou permission selon contexte. Drill d'interprétation selon le temps."
+  },
+  {
+   "n": 3,
+   "label": "Production nuancée",
+   "text": "Exprimer obligation, probabilité, reproche et concession sur un même thème, en jouant sur le verbe modal et son temps."
+  }
+ ],
+ "Infinitif de narration (pour + inf., voilà + inf.)": [
+  {
+   "n": 1,
+   "label": "Reconnaître la structure",
+   "text": "de + infinitif à valeur narrative, souvent introduit par « et » : « Et tout le monde de rire. » Effet de soudaineté ou de vivacité. Repérage dans les récits littéraires.",
+   "ex": "« Et les enfants de courir vers la mer. »"
+  },
+  {
+   "n": 2,
+   "label": "Valeur stylistique",
+   "text": "Marque un événement vif, presque théâtral, dans une narration soutenue. Comparer avec la version au passé simple (« tout le monde rit ») pour mesurer l'effet."
+  },
+  {
+   "n": 3,
+   "label": "Reconnaissance prioritaire",
+   "text": "Objectif : comprendre et identifier cette tournure à la lecture. Production réservée à l'écrit littéraire volontaire."
+  }
+ ],
+ "Coréférence et cohésion textuelle": [
+  {
+   "n": 1,
+   "label": "Construire une chaîne de référence",
+   "text": "Suivre un référent à travers un texte : nom → pronom → groupe nominal de reprise (« le chercheur → il → ce dernier → l'intéressé → le scientifique »). Tracer la chaîne au surligneur.",
+   "ex": "« Hugo… l'écrivain… il… ce dernier… le poète »"
+  },
+  {
+   "n": 2,
+   "label": "Varier les reprises",
+   "text": "Alterner pronominalisation, répétition, synonyme, hyperonyme, périphrase pour éviter la monotonie sans perdre le fil. Drill de réécriture des reprises."
+  },
+  {
+   "n": 3,
+   "label": "Production : texte cohésif",
+   "text": "Rédiger un paragraphe suivant un même référent avec des reprises variées et non ambiguës. Évaluation de la lisibilité de la chaîne."
+  }
+ ],
+ "Emploi stylistique du pronom on": [
+  {
+   "n": 1,
+   "label": "Le spectre des valeurs",
+   "text": "on = nous (oral courant) / les gens, on générique (proverbes, science) / quelqu'un (indéfini) / je ou tu masqué (effet stylistique). Classer des occurrences par valeur.",
+   "ex": "« On vit une époque étrange (= nous / les gens). »"
+  },
+  {
+   "n": 2,
+   "label": "Effets de distance",
+   "text": "Montrer comment « on » crée généralité, neutralité ou euphémisation de la responsabilité (« on a fait une erreur »). Analyser des extraits littéraires et médiatiques."
+  },
+  {
+   "n": 3,
+   "label": "Production maîtrisée",
+   "text": "Réécrire un même contenu avec « on » à différentes valeurs, puis justifier l'effet recherché (implication, distance, généralité)."
+  }
+ ],
+ "Adverbes de modalité épistémique (apparemment, vraisemblablement, soi-disant)": [
+  {
+   "n": 1,
+   "label": "Échelle de certitude",
+   "text": "Classer du plus probable au plus douteux : certainement, vraisemblablement, apparemment, prétendument, soi-disant. Placer les adverbes sur une échelle.",
+   "ex": "« Vraisemblablement, il acceptera. »"
+  },
+  {
+   "n": 2,
+   "label": "soi-disant : toujours dubitatif",
+   "text": "soi-disant marque le doute ou la distance critique (« le soi-disant expert »), jamais une simple information neutre. Drill d'emploi correct."
+  },
+  {
+   "n": 3,
+   "label": "Production argumentative",
+   "text": "Moduler son degré d'adhésion à une information en variant l'adverbe épistémique. Rédiger des phrases nuancées de prise de distance."
+  }
+ ],
+ "Figures de style impliquant la négation (litote, euphémisme)": [
+  {
+   "n": 1,
+   "label": "La litote : dire moins pour suggérer plus",
+   "text": "Négation d'un contraire pour renforcer : « ce n'est pas mauvais » (= c'est très bon), « il n'est pas bête » (= il est intelligent). Décoder l'implicite.",
+   "ex": "« Va, je ne te hais point. » (= je t'aime)"
+  },
+  {
+   "n": 2,
+   "label": "L'euphémisme",
+   "text": "Atténuer une réalité dure par une formule adoucie (« il nous a quittés » pour « il est mort »). Distinguer litote (renforce) et euphémisme (atténue). Tri d'exemples."
+  },
+  {
+   "n": 3,
+   "label": "Production rhétorique",
+   "text": "Reformuler des énoncés directs en litotes ou euphémismes selon l'effet voulu (politesse, ironie, retenue). Discuter la réception."
+  }
+ ],
+ "Phrases clivées et pseudo-clivées": [
+  {
+   "n": 1,
+   "label": "La clivée : c'est… qui / que",
+   "text": "Extraire un élément pour le mettre en relief : « C'est Paul qui a gagné / C'est ce livre que je préfère. » qui = sujet clivé, que = autre fonction. Repérer le focus.",
+   "ex": "« C'est demain qu'il arrive. »"
+  },
+  {
+   "n": 2,
+   "label": "La pseudo-clivée : ce qui/que… c'est",
+   "text": "« Ce qui m'intéresse, c'est la musique. / Ce que je veux, c'est partir. » Mise en relief par antéposition d'une relative substantive. Drill de transformation."
+  },
+  {
+   "n": 3,
+   "label": "Production : gérer le focus",
+   "text": "Répondre à des questions en clivant l'information nouvelle. Comparer phrase neutre et phrase clivée pour mesurer l'effet d'insistance."
+  }
+ ],
+ "Constructions détachées (appositions, épithètes détachées)": [
+  {
+   "n": 1,
+   "label": "Détacher pour commenter",
+   "text": "Élément séparé par une virgule, apportant cause, qualité ou commentaire : « Fatiguée, elle s'arrêta. / Médecin de campagne, il connaissait tous ses patients. » Repérer la valeur."
+  },
+  {
+   "n": 2,
+   "label": "Accord et position",
+   "text": "L'épithète détachée s'accorde avec le sujet qu'elle qualifie et peut se placer en tête, au milieu ou en fin. Drill de mobilité et d'accord.",
+   "ex": "« Surpris par la nouvelle, ils restèrent muets. »"
+  },
+  {
+   "n": 3,
+   "label": "Production stylistique",
+   "text": "Condenser une subordonnée causale ou descriptive en construction détachée. Travail sur le rythme et l'expressivité de la phrase."
+  }
+ ],
+ "Ellipse et pro-formes (le faire, le, en, y anaphoriques)": [
+  {
+   "n": 1,
+   "label": "Reprendre sans répéter",
+   "text": "le (neutre) reprend une proposition (« Il viendra, je le sais »). « le faire » remplace un groupe verbal (« Il travaille plus que je ne le fais »). en/y reprennent des compléments. Identifier l'antécédent.",
+   "ex": "« Tu pars ? — Oui, j'y pense. »"
+  },
+  {
+   "n": 2,
+   "label": "Ellipse en coordination",
+   "text": "Supprimer un élément récupérable : « Pierre aime le thé, et Marie, le café. » (verbe élidé). Restaurer mentalement la forme complète. Drill de repérage."
+  },
+  {
+   "n": 3,
+   "label": "Production : alléger le texte",
+   "text": "Réécrire un passage redondant en utilisant pro-formes et ellipses. Évaluer le gain de fluidité sans perte d'information."
+  }
+ ],
+ "Registres de langue (soutenu / courant / familier / argotique)": [
+  {
+   "n": 1,
+   "label": "Cartographie des registres",
+   "text": "4 registres : soutenu / courant / familier / argotique. Pour chaque niveau, présenter les marqueurs phonologiques (chute du -e, élisions), morphologiques et syntaxiques."
+  },
+  {
+   "n": 2,
+   "label": "Traduction inter-registres",
+   "text": "Textes courts dans un registre → réécrire dans un autre. Oral familier → écrit soutenu. Exercice inversé : texte formel → conversation de café."
+  },
+  {
+   "n": 3,
+   "label": "Analyse de corpus",
+   "text": "Extraits authentiques (SMS, discours politique, roman, courriel professionnel). L'apprenant identifie le registre et justifie avec des marqueurs précis."
+  },
+  {
+   "n": 4,
+   "label": "Production appropriée au contexte",
+   "text": "Simulations : entretien d'embauche, conversation entre amis, courriel à un supérieur. L'apprenant doit adopter le bon registre spontanément."
+  }
+ ],
+ "Syntaxe de l'écrit académique (nominalisation, passivation, impersonnel)": [
+  {
+   "n": 1,
+   "label": "Effacer l'agent",
+   "text": "Tournures impersonnelles et passives pour l'objectivité scientifique : « il convient de, il apparaît que, on peut considérer que, il a été démontré que ». Repérer dans des articles.",
+   "ex": "« Il ressort de cette analyse que… »"
+  },
+  {
+   "n": 2,
+   "label": "Nominaliser pour condenser",
+   "text": "Transformer les verbes en noms pour densifier le propos (« observer → l'observation de »). Combiner nominalisation et passivation. Drill de réécriture formelle."
+  },
+  {
+   "n": 3,
+   "label": "Production : paragraphe scientifique",
+   "text": "Rédiger un court développement académique objectivé (sans « je »), en mobilisant impersonnel, passif et nominalisation. Feedback sur le registre."
+  }
+ ],
+ "Euphonie et liaisons obligatoires/interdites/facultatives": [
+  {
+   "n": 1,
+   "label": "Les trois catégories",
+   "text": "Obligatoires (après déterminant, pronom sujet : les_amis, ils_ont) ; interdites (devant h aspiré, après et, devant onze : et // onze) ; facultatives (qui marquent le soutenu). Classer des exemples à l'oral.",
+   "ex": "« nous_avons (oblig.) / un haricot (interdite) »"
+  },
+  {
+   "n": 2,
+   "label": "La liaison comme marqueur de registre",
+   "text": "Plus on multiplie les liaisons facultatives, plus le discours est soutenu (« je suis_allé » soigné vs courant). Écoute comparée discours formel / familier."
+  },
+  {
+   "n": 3,
+   "label": "Production phonostylistique",
+   "text": "Lire un même texte en registre courant puis soutenu en modulant les liaisons facultatives. Auto-évaluation à l'enregistrement."
+  }
+ ],
+ "Genre des noms — cas problématiques": [
+  {
+   "n": 1,
+   "label": "Noms à double genre",
+   "text": "Même forme, deux genres, deux sens : le/la manche, le/la tour, le/la mémoire, le/la livre, le/la mode. Apparier chaque genre à son sens.",
+   "ex": "« le tour (promenade) / la tour (édifice) »"
+  },
+  {
+   "n": 2,
+   "label": "Épicènes et pièges",
+   "text": "Noms épicènes (une sentinelle, un mannequin, une vigie) dont le genre grammatical ne suit pas le sexe du référent. Liste à fixer par l'usage."
+  },
+  {
+   "n": 3,
+   "label": "Féminisation des fonctions",
+   "text": "la présidente, la professeure, l'autrice : variation diatopique (France/Québec/Belgique) et évolution normative. Discuter les usages selon le contexte professionnel."
+  }
+ ],
+ "Tous les temps et modes (production contrôlée)": [
+  {
+   "n": 1,
+   "label": "Panorama complet",
+   "text": "Produire sans erreur l'ensemble du système : indicatif (présent, imparfait, passé simple, passé composé, plus-que-parfait, futur, futur antérieur), subjonctif (4 temps), conditionnel (2), impératif, participes, gérondif, infinitifs. Tableau récapitulatif personnel.",
+   "ex": "« qu'il eût fini (subj. plus-que-parfait) »"
+  },
+  {
+   "n": 2,
+   "label": "Reconnaissance des temps littéraires",
+   "text": "Lecture de textes anciens : identifier passé simple, subjonctif imparfait et plus-que-parfait. Glose en français contemporain pour vérifier la compréhension."
+  },
+  {
+   "n": 3,
+   "label": "Production contrôlée",
+   "text": "Rédiger un texte mobilisant volontairement une large palette de temps et modes, à bon escient. Relecture critique de la concordance."
+  }
+ ],
+ "Aspect verbal — maîtrise des nuances": [
+  {
+   "n": 1,
+   "label": "Aktionsart (nature lexicale du verbe)",
+   "text": "4 classes : états (savoir), activités (courir), accomplissements (écrire un livre), achèvements (trouver). L'Aktionsart contraint l'interprétation du temps."
+  },
+  {
+   "n": 2,
+   "label": "Interaction Aktionsart × temps",
+   "text": "'Il lisait depuis 2h' (activité + imparfait duratif). 'Il a lu depuis 2h' (agrammatical ou marginalement accepté). Exercices de jugements d'acceptabilité."
+  },
+  {
+   "n": 3,
+   "label": "Correction stylistique",
+   "text": "Textes d'apprenants avancés. Identifier les choix aspectuels maladroits et les reformuler. Justifier chaque correction avec la terminologie aspectuelle."
+  }
+ ],
+ "Périphrases aspectuelles rares (aller + inf. passé, ne faire que + inf.)": [
+  {
+   "n": 1,
+   "label": "Aspect itératif et restrictif",
+   "text": "« ne faire que + infinitif » = répétition ou exclusivité (« il ne fait que se plaindre »). Nuances aspectuelles fines au-delà du système courant. Repérer la valeur.",
+   "ex": "« Elle ne fait que travailler. »"
+  },
+  {
+   "n": 2,
+   "label": "Combinaisons aspectuelles",
+   "text": "Croiser semi-auxiliaires et périphrases pour des nuances quasi natives (« il venait de finir de manger », « il était en train de terminer »). Analyse d'enchaînements aspectuels."
+  },
+  {
+   "n": 3,
+   "label": "Production de précision",
+   "text": "Exprimer des nuances aspectuelles subtiles (imminence, répétition, exclusivité, achèvement) sur un même procès. Feedback sur la finesse."
+  }
+ ],
+ "Concordance des temps dans les récits historiques": [
+  {
+   "n": 1,
+   "label": "Le système du récit",
+   "text": "Articuler passé simple (premier plan, actions), imparfait (arrière-plan, description) et plus-que-parfait (antériorité). Analyser la répartition des plans dans un texte d'historien.",
+   "ex": "« Il avait préparé son discours ; quand il entra, la salle se tut. »"
+  },
+  {
+   "n": 2,
+   "label": "Le présent de narration",
+   "text": "Bascule au présent pour dramatiser un moment clé d'un récit passé. Repérer l'effet de rapprochement et de vivacité. Comparer avec la version au passé."
+  },
+  {
+   "n": 3,
+   "label": "Production : page d'histoire",
+   "text": "Rédiger un récit historique en gérant l'alternance des temps et, éventuellement, une rupture stylistique au présent. Évaluation de la cohérence temporelle."
+  }
+ ],
+ "Adjectifs invariables (marron, chic, bon marché...)": [
+  {
+   "n": 1,
+   "label": "Couleurs issues de noms",
+   "text": "Les adjectifs de couleur dérivés d'un nom restent invariables : des yeux marron, des gants orange, des robes crème. Liste de référence (marron, orange, crème, châtain…).",
+   "ex": "« des chaussures marron »"
+  },
+  {
+   "n": 2,
+   "label": "Couleurs composées",
+   "text": "Couleur + nuance ou + nom = invariable : des yeux bleu clair, des étoffes gris perle, des murs bleu marine. Drill de choix accord / invariabilité."
+  },
+  {
+   "n": 3,
+   "label": "Autres invariables",
+   "text": "chic, bon marché, snob (variation), et locutions adjectivales. Constituer un mémo personnel des cas à risque."
+  }
+ ],
+ "Accord des adjectifs dans les expressions figées": [
+  {
+   "n": 1,
+   "label": "avoir l'air + adjectif",
+   "text": "Double accord toléré : « elle a l'air content(e) » (accord avec le sujet) ou « content » (accord avec air). Présenter les deux options et leur nuance.",
+   "ex": "« Ils ont l'air fatigués. »"
+  },
+  {
+   "n": 2,
+   "label": "demi, semi, mi, nu",
+   "text": "Invariables placés AVANT le nom (une demi-heure, nu-pieds) ; accordés APRÈS (deux heures et demie, pieds nus). Drill de position et d'accord."
+  },
+  {
+   "n": 3,
+   "label": "Locutions figées",
+   "text": "Cas mémorisables : se faire fort de (invariable), des fenêtres grandes ouvertes, bouche bée. Inventaire personnel des figés."
+  }
+ ],
+ "Pronom neutre le (attribut & proposition)": [
+  {
+   "n": 1,
+   "label": "le reprend un attribut",
+   "text": "« Elle est médecin, et je le suis aussi. » Le neutre reprend un adjectif ou un nom attribut, sans accord (invariable). Repérer ce qu'il remplace.",
+   "ex": "« Sont-elles satisfaites ? — Elles le sont. »"
+  },
+  {
+   "n": 2,
+   "label": "le reprend une proposition",
+   "text": "« Il viendra, je le sais. » Le renvoie à toute une idée. Distinguer de la reprise d'un COD concret (« ce livre, je l'ai lu » → accord possible)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Répondre à des questions en reprenant un attribut ou une proposition par « le » neutre. Drill d'emploi sans accord."
+  }
+ ],
+ "Constructions pronominales à valeur passive (se vendre, se dire, se faire)": [
+  {
+   "n": 1,
+   "label": "Sens passif sans agent",
+   "text": "« Ce livre se vend bien » = est vendu. « Ça ne se dit pas » = n'est pas dit. Le sujet est inanimé et subit l'action sans agent exprimé. Repérer la valeur passive.",
+   "ex": "« Le vin blanc se boit frais. »"
+  },
+  {
+   "n": 2,
+   "label": "Distinguer des autres pronominaux",
+   "text": "Opposer passif (« la porte s'ouvre » = est ouverte / s'ouvre seule) au réfléchi (« il se lave ») et au réciproque (« ils se regardent »). Tri d'emplois."
+  },
+  {
+   "n": 3,
+   "label": "Production : tournures idiomatiques",
+   "text": "Exprimer des normes et usages avec le pronominal passif (« cela se fait / ne se fait pas, se prononce, s'écrit »). Drill d'idiomaticité."
+  }
+ ],
+ "Hyperbate, anacoluthe, zeugme (figures syntaxiques)": [
+  {
+   "n": 1,
+   "label": "Définir les trois figures",
+   "text": "Hyperbate = ajout/déplacement d'un élément hors de sa place attendue ; anacoluthe = rupture de construction syntaxique ; zeugme = coordination d'éléments hétérogènes. Apparier figure et exemple.",
+   "ex": "« Vêtu de probité candide et de lin blanc. » (zeugme, Hugo)"
+  },
+  {
+   "n": 2,
+   "label": "Repérage en contexte littéraire",
+   "text": "Identifier ces ruptures dans des vers et de la prose d'auteur, et nommer l'effet (surprise, expressivité, ironie). Analyse guidée."
+  },
+  {
+   "n": 3,
+   "label": "Effet stylistique",
+   "text": "Expliquer pourquoi l'écart syntaxique produit du sens (mise en relief, dissonance volontaire). Reconnaissance prioritaire, production très contrôlée."
+  }
+ ],
+ "Ironie, sous-entendu, implicite pragmatique": [
+  {
+   "n": 1,
+   "label": "Le sens au-delà des mots",
+   "text": "Décoder ce qui est signifié sans être dit : ironie (dire le contraire de ce qu'on pense), présupposés, sous-entendus. Repérer l'écart entre énoncé et intention.",
+   "ex": "« Quel temps magnifique ! » (sous la pluie = ironie)"
+  },
+  {
+   "n": 2,
+   "label": "Implicature conversationnelle",
+   "text": "Mobiliser les principes de coopération (Grice) : ce qu'une réponse laisse entendre (« Il a quelques qualités » → sous-entend des défauts). Analyse d'échanges."
+  },
+  {
+   "n": 3,
+   "label": "Production pragmatique",
+   "text": "Construire et interpréter des énoncés à double détente (politesse indirecte, ironie, litote critique). Discuter les risques de malentendu interculturel."
+  }
+ ],
+ "Métalangue grammaticale complète": [
+  {
+   "n": 1,
+   "label": "Vocabulaire métalinguistique",
+   "text": "Maîtriser et employer avec précision : syntagme, morphème, déictique, prédicat, valence, anaphore, cataphore, coréférence, présupposition, implicature."
+  },
+  {
+   "n": 2,
+   "label": "Analyse de phrases complexes",
+   "text": "Parsing syntaxique complet de phrases longues : identifier les propositions, les fonctions, les référents anaphoriques, les présupposés."
+  },
+  {
+   "n": 3,
+   "label": "Auto-correction motivée",
+   "text": "L'apprenant révise ses propres textes en annotant chaque correction avec une justification métalinguistique précise."
+  }
+ ],
+ "Variation sociolinguistique (diatopique, diastratique, diaphasique)": [
+  {
+   "n": 1,
+   "label": "Cartographie diatopique",
+   "text": "Français hexagonal, québécois (70), belge (septante/nonante), suisse, africains subsahariens, antillais. Écoute d'extraits authentiques. Identifier les traits distinctifs."
+  },
+  {
+   "n": 2,
+   "label": "Variation sociale",
+   "text": "Sociolectes : argot des banlieues, parler des élites. Verlan (l'envers). Sensibiliser sans enseigner comme système à produire."
+  },
+  {
+   "n": 3,
+   "label": "Compétence méta",
+   "text": "L'apprenant peut décrire, analyser et commenter les variétés avec les termes justes : diatopique, diastratique, diaphasique, idiolecte, sociolecte."
+  }
+ ],
+ "Syntaxe de la phrase complexe — ambiguïté et désambiguïsation": [
+  {
+   "n": 1,
+   "label": "Repérer les ambiguïtés",
+   "text": "Portée de la négation, rattachement des relatives, référent des participes et pronoms. « Il a vu l'homme avec des jumelles » (qui a les jumelles ?). Diagnostiquer la source de l'ambiguïté.",
+   "ex": "« J'ai parlé à la sœur de Paul qui part demain. » (qui part ?)"
+  },
+  {
+   "n": 2,
+   "label": "Techniques de levée",
+   "text": "Réordonner, ajouter une virgule, expliciter le référent, scinder la phrase, choisir un relatif plus précis (lequel). Drill de réécriture désambiguïsante."
+  },
+  {
+   "n": 3,
+   "label": "Production : réviser pour la clarté",
+   "text": "Reprendre un texte ambigu et le réécrire pour fixer un seul sens sans appauvrir le propos. Comparaison avant/après."
+  }
+ ],
+ "Rhétorique et argumentation écrite formelle": [
+  {
+   "n": 1,
+   "label": "Choisir un plan",
+   "text": "Plan dialectique (thèse / antithèse / synthèse), analytique (problème / causes / solutions) ou thématique. Sélectionner selon le sujet et la visée. Construire un plan détaillé.",
+   "ex": "« Partant de ce constat, il s'ensuit que… »"
+  },
+  {
+   "n": 2,
+   "label": "Connecteurs de haut niveau",
+   "text": "Articuler avec partant, dès lors, aussi (+ inversion), il s'ensuit que, force est de constater. Travailler les transitions entre parties. Drill d'enchaînement logique."
+  },
+  {
+   "n": 3,
+   "label": "Production : dissertation / essai",
+   "text": "Rédiger une argumentation complète (introduction problématisée, développement structuré, conclusion ouverte). Évaluation de la progression et de la cohérence rhétorique."
+  }
+ ],
+ "Rectifications orthographiques (1990) et variation normative": [
+  {
+   "n": 1,
+   "label": "Connaître les deux normes",
+   "text": "Nouvelles graphies recommandées : nénufar, évènement, règlementation, accent circonflexe facultatif sur i/u (paraitre, cout). Comparer ancienne et nouvelle orthographe.",
+   "ex": "« ognon / oignon, nénufar / nénuphar »"
+  },
+  {
+   "n": 2,
+   "label": "Trait d'union et soudure",
+   "text": "Soudure de composés (portemonnaie, weekend), trait d'union et numéraux (vingt-et-un). Drill de repérage des formes rectifiées."
+  },
+  {
+   "n": 3,
+   "label": "Choix selon le contexte professionnel",
+   "text": "Décider quelle norme appliquer selon l'institution, le pays, l'éditeur. Pour un traducteur/correcteur : connaître les attentes du donneur d'ordre. Étude de consignes éditoriales."
+  }
+ ]
+}

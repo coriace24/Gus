@@ -1,0 +1,2431 @@
+{
+ "Indefinite article (a / an)": [
+  {
+   "n": 1,
+   "label": "Sound, not spelling",
+   "text": "Teach 'a' before a consonant sound, 'an' before a vowel sound. Anchor it to pronunciation, not the letter.",
+   "ex": "'a university' (yoo-) but 'an hour' (silent h)"
+  },
+  {
+   "n": 2,
+   "label": "First mention",
+   "text": "Use 'a/an' to introduce something new and singular. Drill with classroom objects: 'It's a pen. It's an eraser.'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Learners describe a bag's contents one item at a time, choosing a or an aloud."
+  }
+ ],
+ "Definite article (the)": [
+  {
+   "n": 1,
+   "label": "Shared knowledge",
+   "text": "Use 'the' when both speakers know which one. Contrast first vs second mention: 'I saw a dog. The dog was big.'"
+  },
+  {
+   "n": 2,
+   "label": "One of a kind",
+   "text": "Introduce 'the' with unique things (the sun, the moon) and with superlatives later. Keep it concrete."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Picture description: learners point and re-mention objects, switching from a/an to the."
+  }
+ ],
+ "Regular plurals (-s / -es)": [
+  {
+   "n": 1,
+   "label": "Three spoken endings",
+   "text": "Teach the three sounds of plural -s: /s/ (cats), /z/ (dogs), /iz/ (boxes). Listening discrimination drill.",
+   "ex": "cats /s/ · dogs /z/ · buses /iz/"
+  },
+  {
+   "n": 2,
+   "label": "Spelling rules",
+   "text": "Add -es after s, x, z, ch, sh; change -y to -ies after a consonant (baby → babies). Sorting activity."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Count and name multiple classroom objects, pronouncing the correct ending."
+  }
+ ],
+ "Irregular plurals (man/men, child/children)": [
+  {
+   "n": 1,
+   "label": "Memorise as pairs",
+   "text": "Present the frequent irregulars as fixed pairs: man/men, woman/women, child/children, foot/feet, tooth/teeth, person/people."
+  },
+  {
+   "n": 2,
+   "label": "No -s trap",
+   "text": "Show that these take no plural -s. Drill with images and numbers: 'two feet', 'three children'."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe a family photo using people, children, men, women."
+  }
+ ],
+ "Uncountable nouns (information, water)": [
+  {
+   "n": 1,
+   "label": "No a/an, no plural",
+   "text": "Introduce common uncountables (water, bread, money, information, advice, music). They take no a/an and no -s.",
+   "ex": "'some information' (not 'an information')"
+  },
+  {
+   "n": 2,
+   "label": "Counting them",
+   "text": "Show measure phrases: a glass of water, a piece of advice, a slice of bread. Matching activity."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Order food/drink using 'some + uncountable' and measure phrases."
+  }
+ ],
+ "The verb 'be' (am / is / are)": [
+  {
+   "n": 1,
+   "label": "Full paradigm first",
+   "text": "Drill I am, you/we/they are, he/she/it is, plus contractions (I'm, he's). The pivot verb to automate.",
+   "ex": "'I'm a teacher. She's from Spain.'"
+  },
+  {
+   "n": 2,
+   "label": "Negatives & questions",
+   "text": "Show inversion for questions (Are you...?) and 'not' for negatives (isn't, aren't). No auxiliary 'do' with 'be'."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Speed introductions: name, origin, job, mood using be."
+  }
+ ],
+ "The verb 'have got' / 'have'": [
+  {
+   "n": 1,
+   "label": "Possession",
+   "text": "Teach 'have got' (BrE, spoken) and 'have' for possession: 'I've got a car / I have a car.' Present both forms.",
+   "ex": "'She's got two sisters.'"
+  },
+  {
+   "n": 2,
+   "label": "Questions & negatives",
+   "text": "'have got' uses have as auxiliary (Have you got...? Haven't got); plain 'have' uses do (Do you have...?). Contrast briefly."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about possessions and family using have/have got."
+  }
+ ],
+ "Present simple (habits & facts)": [
+  {
+   "n": 1,
+   "label": "Third-person -s",
+   "text": "Drill the he/she/it -s ending, the main A1 difficulty. Use daily-routine verbs (works, lives, gets up).",
+   "ex": "'He works in a bank.'"
+  },
+  {
+   "n": 2,
+   "label": "do/does for Q & neg",
+   "text": "Introduce auxiliary do/does for questions and don't/doesn't for negatives — and the bare infinitive after them."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Survey classmates' daily habits, then report a partner's routine in the third person."
+  }
+ ],
+ "Present continuous (now)": [
+  {
+   "n": 1,
+   "label": "be + -ing",
+   "text": "Form: am/is/are + verb-ing, for actions happening now. Mime activities and describe them live.",
+   "ex": "'She is reading.'"
+  },
+  {
+   "n": 2,
+   "label": "Contrast with present simple",
+   "text": "Now (continuous) vs routine (simple): 'I usually walk, but today I'm taking the bus.' Sorting drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe a busy 'people in a park' picture using is/are + -ing."
+  }
+ ],
+ "Imperative (commands & instructions)": [
+  {
+   "n": 1,
+   "label": "Bare infinitive",
+   "text": "Use the base verb for instructions and classroom language: 'Open your books. Listen. Don't write.'"
+  },
+  {
+   "n": 2,
+   "label": "Negative & softening",
+   "text": "Negative = 'Don't + verb'. Add 'please' to soften. Drill with a 'Simon says' game."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Give a partner directions or a simple recipe in imperatives."
+  }
+ ],
+ "'there is' / 'there are'": [
+  {
+   "n": 1,
+   "label": "Existence",
+   "text": "Teach 'there is' + singular, 'there are' + plural to say what exists in a place.",
+   "ex": "'There is a market. There are two banks.'"
+  },
+  {
+   "n": 2,
+   "label": "Negatives & questions",
+   "text": "There isn't / there aren't; Is there...? Are there...? Use with 'any' in questions/negatives."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe a room or town: list what there is/are."
+  }
+ ],
+ "Adjective + noun order (a red car)": [
+  {
+   "n": 1,
+   "label": "Adjective before noun",
+   "text": "Unlike many languages, the adjective comes BEFORE the noun: 'a red car', not 'a car red'. Card-ordering drill.",
+   "ex": "'a big house', 'an interesting book'"
+  },
+  {
+   "n": 2,
+   "label": "After 'be' too",
+   "text": "Adjectives also follow 'be': 'The car is red.' Both positions, same form."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe objects placing the adjective correctly in both positions."
+  }
+ ],
+ "Adjectives are invariable (no plural -s)": [
+  {
+   "n": 1,
+   "label": "No agreement",
+   "text": "English adjectives do not change for gender or number: 'a tall boy / two tall boys'. Contrast with the learner's L1.",
+   "ex": "'red cars' (never 'reds cars')"
+  },
+  {
+   "n": 2,
+   "label": "Drill the contrast",
+   "text": "Quick transformation: make the noun plural, keep the adjective the same."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe groups of objects, resisting any urge to add -s to the adjective."
+  }
+ ],
+ "Possessive adjectives (my, your, his...)": [
+  {
+   "n": 1,
+   "label": "The set",
+   "text": "Drill my, your, his, her, its, our, their + noun. They show who owns the thing.",
+   "ex": "'my book, her bag, their house'"
+  },
+  {
+   "n": 2,
+   "label": "his vs her",
+   "text": "The form matches the OWNER's gender, not the object: 'Tom loves his sister', 'Anna loves her brother'. Targeted drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about family members' possessions using the right possessive."
+  }
+ ],
+ "Demonstratives (this / that / these / those)": [
+  {
+   "n": 1,
+   "label": "Near vs far, sing vs plural",
+   "text": "this/these = near; that/those = far. Singular vs plural. Use real objects and gestures.",
+   "ex": "'this pen / these pens / that car / those cars'"
+  },
+  {
+   "n": 2,
+   "label": "As adjective or pronoun",
+   "text": "Show both 'this book' (+noun) and 'This is mine' (alone). Quick contrast."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Shopping role-play pointing at near and far items."
+  }
+ ],
+ "Subject pronouns (I, you, he...)": [
+  {
+   "n": 1,
+   "label": "Obligatory subject",
+   "text": "Drill I, you, he, she, it, we, they. English is not pro-drop: every clause needs a subject.",
+   "ex": "'It is raining' (a subject is required)"
+  },
+  {
+   "n": 2,
+   "label": "'I' and 'it'",
+   "text": "Capital 'I' always; 'it' for things, weather and time. Highlight he/she only for people."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Replace names with pronouns when retelling who does what."
+  }
+ ],
+ "Object pronouns (me, you, him...)": [
+  {
+   "n": 1,
+   "label": "The object set",
+   "text": "Drill me, you, him, her, it, us, them after verbs and prepositions.",
+   "ex": "'Call me. I see them. Give it to her.'"
+  },
+  {
+   "n": 2,
+   "label": "Subject vs object",
+   "text": "Match pairs (I/me, he/him, they/them). Position: object pronouns come after the verb."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Short dialogues replacing object nouns with pronouns."
+  }
+ ],
+ "Possessive pronouns (mine, yours...)": [
+  {
+   "n": 1,
+   "label": "Stand-alone possession",
+   "text": "mine, yours, his, hers, ours, theirs replace a possessive + noun: 'It's my book → It's mine.'"
+  },
+  {
+   "n": 2,
+   "label": "No noun after",
+   "text": "Contrast adjective vs pronoun: 'my car' (+noun) vs 'mine' (alone). Transformation drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Sort mixed-up belongings: 'This is mine, that's yours.'"
+  }
+ ],
+ "Negation with 'not' / don't / doesn't": [
+  {
+   "n": 1,
+   "label": "Two systems",
+   "text": "'be' and modals add 'not' directly (isn't, can't); other verbs need don't/doesn't + base verb. Sort verbs into the two groups.",
+   "ex": "'She isn't here. / She doesn't smoke.'"
+  },
+  {
+   "n": 2,
+   "label": "Third person",
+   "text": "Drill doesn't (he/she/it) vs don't (I/you/we/they), with the bare infinitive after."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Make true/false statements about yourself, then correct the false ones with negatives."
+  }
+ ],
+ "Adverbs of frequency (always, often, never)": [
+  {
+   "n": 1,
+   "label": "A frequency scale",
+   "text": "Order always → usually → often → sometimes → rarely → never on a line. Link to routines.",
+   "ex": "'I always have breakfast.'"
+  },
+  {
+   "n": 2,
+   "label": "Position",
+   "text": "Mid-position: before the main verb but after 'be'. 'She often works late' / 'She is often late.'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Class survey on habits; report frequencies."
+  }
+ ],
+ "Word order (SVO)": [
+  {
+   "n": 1,
+   "label": "Subject-Verb-Object",
+   "text": "Establish the fixed S-V-O order with colour-coded cards. English relies on order, not case endings.",
+   "ex": "'The cat (S) eats (V) the fish (O).'"
+  },
+  {
+   "n": 2,
+   "label": "Manipulate",
+   "text": "Rebuild scrambled sentences; show how changing order changes meaning ('The dog bites the man' is not the reverse)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write simple S-V-O sentences from pictures."
+  }
+ ],
+ "Yes/no questions (do / does, be)": [
+  {
+   "n": 1,
+   "label": "Two question types",
+   "text": "With 'be'/modals, invert (Are you...? Can you...?); with other verbs, add Do/Does at the front.",
+   "ex": "'Do you like tea? / Are you tired?'"
+  },
+  {
+   "n": 2,
+   "label": "Short answers",
+   "text": "Drill 'Yes, I do / No, I don't', 'Yes, she is / No, she isn't'. Match the auxiliary."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Find-someone-who survey using yes/no questions."
+  }
+ ],
+ "Wh- questions (what, where, when, who)": [
+  {
+   "n": 1,
+   "label": "Question word + auxiliary",
+   "text": "Wh- word first, then the yes/no question structure: 'Where do you live? What is this?'",
+   "ex": "'When does the film start?'"
+  },
+  {
+   "n": 2,
+   "label": "who as subject",
+   "text": "Note 'Who lives here?' needs no 'do' (who = subject). Brief contrast with object questions."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Interview a partner with a set of wh- questions."
+  }
+ ],
+ "Basic connectors (and, but, or, because)": [
+  {
+   "n": 1,
+   "label": "Join ideas",
+   "text": "and (addition), but (contrast), or (choice), because (reason). Combine short sentences.",
+   "ex": "'I'm tired but happy.'"
+  },
+  {
+   "n": 2,
+   "label": "because = reason",
+   "text": "Answer 'why?' with 'because + clause'. Drill cause-reason pairs."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write three linked sentences about your day using all four connectors."
+  }
+ ],
+ "Cardinal numbers (0–100)": [
+  {
+   "n": 1,
+   "label": "Build in steps",
+   "text": "0–12 (irregular), 13–19 (-teen), 20–90 (-ty), then combine (twenty-one). Listening practice for -teen vs -ty.",
+   "ex": "'thirteen' (long ee) vs 'thirty' (short i)"
+  },
+  {
+   "n": 2,
+   "label": "Hyphen & 'and'",
+   "text": "Write compound numbers with a hyphen (forty-five). Note BrE 'a hundred and five'."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Exchange phone numbers, prices and ages aloud."
+  }
+ ],
+ "some / any": [
+  {
+   "n": 1,
+   "label": "Affirmative vs Q/neg",
+   "text": "'some' in positive sentences, 'any' in questions and negatives. Use with plurals and uncountables.",
+   "ex": "'I have some bread. / Is there any milk?'"
+  },
+  {
+   "n": 2,
+   "label": "Offers & requests",
+   "text": "Note 'some' in offers/requests ('Would you like some tea?'). Quick exception."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about what's in the fridge using some/any."
+  }
+ ],
+ "Possessive 's (Saxon genitive)": [
+  {
+   "n": 1,
+   "label": "'s for people",
+   "text": "Use 's to show possession, mainly with people and animals: 'Tom's car', 'the dog's tail'.",
+   "ex": "'my sister's friend'"
+  },
+  {
+   "n": 2,
+   "label": "Singular vs plural",
+   "text": "Singular noun + 's; plural noun ending in -s + apostrophe only (the students' books). Contrast drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe who owns what in a family tree."
+  }
+ ],
+ "Zero article (general plurals & uncountables)": [
+  {
+   "n": 1,
+   "label": "No article for generalisations",
+   "text": "Drop 'the' when talking about things in general: 'I like dogs / Coffee is expensive.'",
+   "ex": "'Children need sleep.'"
+  },
+  {
+   "n": 2,
+   "label": "Specific vs general",
+   "text": "Contrast 'Dogs are friendly' (general, no article) with 'The dogs next door bark' (specific). Sorting task."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "State general likes/dislikes with zero article."
+  }
+ ],
+ "Past simple (regular -ed)": [
+  {
+   "n": 1,
+   "label": "Three -ed sounds",
+   "text": "Teach the endings /t/ (worked), /d/ (played), /id/ (wanted). Listening discrimination.",
+   "ex": "'wanted' adds a syllable /id/"
+  },
+  {
+   "n": 2,
+   "label": "Q & neg with did",
+   "text": "Questions/negatives use did/didn't + base verb (no -ed): 'Did you work? / I didn't work.'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Narrate last weekend with regular past verbs."
+  }
+ ],
+ "Past simple (irregular verbs)": [
+  {
+   "n": 1,
+   "label": "High-frequency list",
+   "text": "Drill the most common irregulars (go/went, have/had, see/saw, make/made, take/took). Group by pattern where possible."
+  },
+  {
+   "n": 2,
+   "label": "Same Q/neg rule",
+   "text": "Questions and negatives still use did/didn't + base verb, so the irregular form appears only in affirmatives.",
+   "ex": "'I went' but 'Did you go?'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Tell a short story of a past trip mixing regular and irregular verbs."
+  }
+ ],
+ "Past continuous": [
+  {
+   "n": 1,
+   "label": "was/were + -ing",
+   "text": "Action in progress in the past: 'At 8 p.m. I was watching TV.' Timeline work.",
+   "ex": "'They were sleeping.'"
+  },
+  {
+   "n": 2,
+   "label": "Interrupted action",
+   "text": "Combine with past simple: 'I was cooking when the phone rang.' Past continuous = background, past simple = interruption."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe what people were doing during an event (e.g. a power cut)."
+  }
+ ],
+ "'going to' future (plans & predictions)": [
+  {
+   "n": 1,
+   "label": "be going to + verb",
+   "text": "Intentions and plans already decided: 'I'm going to study tonight.' Drill the form.",
+   "ex": "'We're going to travel in July.'"
+  },
+  {
+   "n": 2,
+   "label": "Evidence predictions",
+   "text": "Also for predictions based on what we see now: 'Look at the clouds — it's going to rain.'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about weekend plans using 'going to'."
+  }
+ ],
+ "'will' future (decisions & predictions)": [
+  {
+   "n": 1,
+   "label": "Instant decisions",
+   "text": "Use 'will' for decisions made at the moment of speaking and offers: 'I'll help you. / I'll have the soup.'"
+  },
+  {
+   "n": 2,
+   "label": "Predictions/opinions",
+   "text": "For opinions about the future after think/probably: 'I think it will rain.' Contrast with 'going to'."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "React to situations with spontaneous 'I'll...' offers."
+  }
+ ],
+ "Present perfect (experience & recent past)": [
+  {
+   "n": 1,
+   "label": "have/has + past participle",
+   "text": "Link past to now: life experience and recent results. 'I have visited Paris. / She has just arrived.'",
+   "ex": "'Have you ever eaten sushi?'"
+  },
+  {
+   "n": 2,
+   "label": "ever / never / just / yet",
+   "text": "Introduce the typical markers. Contrast with past simple + finished time ('yesterday' → past simple)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "'Find someone who has ever...' class mingle."
+  }
+ ],
+ "Modals: can / can't (ability & permission)": [
+  {
+   "n": 1,
+   "label": "can + base verb",
+   "text": "Ability and permission: 'I can swim. Can I open the window?' No -s, no 'to'.",
+   "ex": "'She can drive.'"
+  },
+  {
+   "n": 2,
+   "label": "Negatives & questions",
+   "text": "can't / cannot; questions by inversion (Can you...?). Pronunciation of can (weak) vs can't."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about skills and ask permission in role-plays."
+  }
+ ],
+ "Modals: must / have to (obligation)": [
+  {
+   "n": 1,
+   "label": "Two ways to say 'obligation'",
+   "text": "'must' (speaker's authority/strong) and 'have to' (external rule). 'I must finish this. / I have to wear a uniform.'"
+  },
+  {
+   "n": 2,
+   "label": "Negatives differ",
+   "text": "'mustn't' = prohibition; 'don't have to' = no obligation. Crucial contrast drill.",
+   "ex": "'You mustn't smoke' is not 'You don't have to smoke'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "List rules at school/work using must / have to."
+  }
+ ],
+ "Modals: should (advice)": [
+  {
+   "n": 1,
+   "label": "should + base verb",
+   "text": "Give advice and recommendations: 'You should rest. You shouldn't worry.'",
+   "ex": "'Should I call her?'"
+  },
+  {
+   "n": 2,
+   "label": "Soft vs strong",
+   "text": "Position 'should' as softer than 'must'. Drill advice for common problems."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Agony-aunt activity: give advice with should/shouldn't."
+  }
+ ],
+ "Zero conditional (general truths & instructions)": [
+  {
+   "n": 1,
+   "label": "Noticing in context",
+   "text": "Hand out three short authentic texts that contain nothing but zero conditionals: a fire-drill notice, the instructions on a coffee machine, and four science facts. Learners underline every verb and answer one question only — what tense is used in each half of the sentence? Elicit the discovery that both clauses are present simple and that [will] appears nowhere.",
+   "ex": "Support: one-page handout — fire-drill notice, coffee-machine instructions, four science facts."
+  },
+  {
+   "n": 2,
+   "label": "Guided discovery: the if/when test",
+   "text": "Put two pairs on the board — [If you press this button, the door opens.] / [When you press this button, the door opens.] against [If it rains, I will stay in.] / [When it rains, I will stay in.]. Ask learners which pair means the same thing twice. Draw the conclusion for them: when the result is automatic, [if] and [when] are interchangeable, and that swap is the test that separates this pattern from the first conditional they already know."
+  },
+  {
+   "n": 3,
+   "label": "Controlled practice and punctuation",
+   "text": "Run a substitution drill from a fixed frame — [If you ___ , it ___ .] — feeding in heat ice, drop a glass, forget to water plants. Then make each learner rewrite two sentences with the clauses reversed and correct only the punctuation: comma when the if-clause comes first, no comma when it comes second.",
+   "ex": "Support: a set of twelve prompt cards, six facts and six machine actions."
+  },
+  {
+   "n": 4,
+   "label": "Freer production: rules and instructions",
+   "text": "In pairs, learners write six rules for a place they know — the school lab, a swimming pool, a shared kitchen — using an imperative result clause: [If the alarm rings, leave the building.] Require one sentence with [unless]. Correct two things only: any stray [will] and any missing third-person -s."
+  }
+ ],
+ "Comparatives (-er / more ... than)": [
+  {
+   "n": 1,
+   "label": "Short vs long adjectives",
+   "text": "One syllable + -er (taller); two-plus syllables → more (more expensive). 'than' for the comparison.",
+   "ex": "'cheaper than', 'more useful than'"
+  },
+  {
+   "n": 2,
+   "label": "Irregulars & spelling",
+   "text": "good→better, bad→worse, far→further; double the consonant (big→bigger), -y→-ier (happy→happier)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Compare two cities, phones or people."
+  }
+ ],
+ "Superlatives (the -est / the most)": [
+  {
+   "n": 1,
+   "label": "the + -est / most",
+   "text": "Short adjectives + -est (the tallest); long ones the most (the most expensive). Always with 'the'.",
+   "ex": "'the best film of the year'"
+  },
+  {
+   "n": 2,
+   "label": "Irregulars",
+   "text": "good→the best, bad→the worst, far→the furthest. Drill alongside comparatives."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Rank a top-three list (films, places) using superlatives."
+  }
+ ],
+ "Adjective order (opinion-size-age-colour)": [
+  {
+   "n": 1,
+   "label": "A rough order",
+   "text": "When stacking adjectives: opinion → size → age → shape → colour → origin → material → noun. 'a lovely big old house.'"
+  },
+  {
+   "n": 2,
+   "label": "Two is plenty",
+   "text": "In real use, two or three adjectives is typical. Order familiar pairs (big red, nice old)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe objects with two stacked adjectives in the natural order."
+  }
+ ],
+ "Reflexive pronouns (myself, yourself...)": [
+  {
+   "n": 1,
+   "label": "Same subject & object",
+   "text": "Use myself, yourself, himself... when subject and object are the same: 'I cut myself.'",
+   "ex": "'She taught herself Italian.'"
+  },
+  {
+   "n": 2,
+   "label": "Emphasis use",
+   "text": "Also for emphasis: 'I did it myself.' And 'by myself' = alone. Brief contrast."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about things you do for yourself / by yourself."
+  }
+ ],
+ "'one' / 'ones' (substitution)": [
+  {
+   "n": 1,
+   "label": "Avoid repeating the noun",
+   "text": "Use 'one/ones' to replace a countable noun already mentioned: 'I'll take the red one.'",
+   "ex": "'Which ones do you like?'"
+  },
+  {
+   "n": 2,
+   "label": "With this/that & adjectives",
+   "text": "'this one, the big ones, a new one'. Drill substitution in shopping contexts."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Shopping role-play choosing between items using one/ones."
+  }
+ ],
+ "Adverbs of manner (-ly)": [
+  {
+   "n": 1,
+   "label": "adjective + -ly",
+   "text": "Form manner adverbs from adjectives: quick→quickly, careful→carefully. They say HOW.",
+   "ex": "'She sings beautifully.'"
+  },
+  {
+   "n": 2,
+   "label": "Irregulars",
+   "text": "good→well, fast→fast, hard→hard. Note 'hardly' is not 'hard'. Sorting drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe how people do actions (mime + adverb)."
+  }
+ ],
+ "too / enough": [
+  {
+   "n": 1,
+   "label": "Position differs",
+   "text": "'too' before adjective (too small); 'enough' after adjective but before noun (big enough / enough money).",
+   "ex": "'It's too expensive. / Is it big enough?'"
+  },
+  {
+   "n": 2,
+   "label": "too much/many",
+   "text": "'too much' + uncountable, 'too many' + plural. Contrast 'too' (excess) with 'enough' (sufficiency)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Complain/comment about a room or meal using too/enough."
+  }
+ ],
+ "already / yet / just (with present perfect)": [
+  {
+   "n": 1,
+   "label": "Three markers",
+   "text": "'just' = a moment ago; 'already' = sooner than expected (positive); 'yet' = up to now (questions/negatives, end position).",
+   "ex": "'I've just eaten. Have you finished yet?'"
+  },
+  {
+   "n": 2,
+   "label": "Position",
+   "text": "just/already mid-position; yet at the end. Drill placement."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Report task progress using all three."
+  }
+ ],
+ "Prepositions of time (in, on, at, for, since)": [
+  {
+   "n": 1,
+   "label": "Noticing in context",
+   "text": "Hand out a short diary page describing one week — appointments, a birthday, a holiday, a train — with every time phrase in bold. Learners underline only the preposition in each phrase and sort the phrases into three piles headed AT, ON, IN, with a fourth pile for phrases that have no preposition at all. Give no rule before the sorting is finished.",
+   "ex": "Support: one-page diary text “Kate’s week” with the fifteen time phrases in bold."
+  },
+  {
+   "n": 2,
+   "label": "Guided discovery: precision ladder",
+   "text": "Elicit from the sorted piles that the three prepositions form a ladder of precision: AT for a point (at 7 o’clock, at midnight, at the weekend in British English), ON for a whole day or date (on Monday, on 5 June, on Christmas Day), IN for anything longer (in June, in 2026, in the summer). Then test the ladder on the two traps: at night against in the morning, and on Friday morning, where the named day outranks the part of the day.",
+   "ex": "Support: three-column wall chart AT / ON / IN, with a separate box for FOR / SINCE."
+  },
+  {
+   "n": 3,
+   "label": "Controlled practice: for vs since",
+   "text": "Drill the pair against the present perfect the class already knows. Say a date or a length of time and require a full sentence in reply: “2020” gives “I have lived here since 2020”, “three years” gives “I have lived here for three years”. Correct on the spot every “since three years” and make the learner say back which of the two is a length and which is a starting point."
+  },
+  {
+   "n": 4,
+   "label": "Freer production: my timeline",
+   "text": "Each learner draws a timeline of their own life and writes eight sentences about it, using at least one AT, one ON, one IN, one FOR, one SINCE and one AGO, plus one sentence with last or next and no preposition. Pairs exchange timelines and correct only the prepositions before the sentences are read aloud."
+  }
+ ],
+ "Prepositions of place & movement (in, on, at, to, into)": [
+  {
+   "n": 1,
+   "label": "Noticing in context",
+   "text": "Project a labelled picture of a flat and read out eight short statements about it: the keys are in the drawer, the poster is on the wall, somebody is waiting at the door. Learners point at the object each time and write only the preposition they hear, so that attention goes to the small word rather than to the vocabulary.",
+   "ex": "Material: one A3 picture of a flat with numbered objects, plus a listening script of eight statements."
+  },
+  {
+   "n": 2,
+   "label": "Guided discovery: in / on / at",
+   "text": "Build a three-column poster on the board — in for an enclosed space or an area, on for a surface or a line, at for a point or an institution seen as a function — and have learners sort twenty cards into the columns: the box, the wall, the bus stop, London, the second floor, work, bed, the door. Then present the contrast pairs in the car versus on the bus, at school versus in the school, and in / on / at the corner, and make learners say what changes in the meaning, not which one is correct.",
+   "ex": "Material: twenty word cards plus the three-column poster, kept on the wall for the whole unit."
+  },
+  {
+   "n": 3,
+   "label": "Controlled practice: movement",
+   "text": "Drill the movement set with mime: one learner acts out an instruction — walk into the room, get off the chair, go out of the door, walk across the classroom, go past the desk, climb onto the table — while the class calls out the preposition. Correct only the preposition, and insist on the two-word forms out of and in front of, which learners tend to shorten."
+  },
+  {
+   "n": 4,
+   "label": "Freer production: directions",
+   "text": "In pairs, learners describe the route from the school to their home in six sentences and then describe their own bedroom in six more, using at least ten different prepositions. Collect the errors on the board and correct them as a class, paying particular attention to any added preposition before home, abroad and downstairs."
+  }
+ ],
+ "Question words + auxiliary": [
+  {
+   "n": 1,
+   "label": "Consolidate wh- + aux",
+   "text": "Drill how, why, how much/many, how long with the right auxiliary and tense. 'How long did you stay?'"
+  },
+  {
+   "n": 2,
+   "label": "Subject vs object Qs",
+   "text": "Contrast 'Who saw you?' (subject, no do) with 'Who did you see?' (object, with do)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Build an interview mixing subject and object questions."
+  }
+ ],
+ "Sequencers (first, then, after that, finally)": [
+  {
+   "n": 1,
+   "label": "Order a narrative",
+   "text": "Use first, then, next, after that, finally to sequence events. Arrange a scrambled story.",
+   "ex": "'First I woke up, then I had breakfast...'"
+  },
+  {
+   "n": 2,
+   "label": "before/after + -ing",
+   "text": "Introduce 'before/after + -ing' for same-subject sequencing ('After eating, I left')."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe a daily routine or recipe with sequencers."
+  }
+ ],
+ "Defining relative clauses (who, which, that)": [
+  {
+   "n": 1,
+   "label": "who/which/that",
+   "text": "who for people, which for things, that for both. They identify which one. 'The man who lives here.'",
+   "ex": "'the book that I bought'"
+  },
+  {
+   "n": 2,
+   "label": "Subject vs object relative",
+   "text": "Show object relatives where the pronoun can be omitted: 'the book (that) I bought'. Brief drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Define people/objects in a guessing game using relative clauses."
+  }
+ ],
+ "Question tags (isn't it? don't you?)": [
+  {
+   "n": 1,
+   "label": "Noticing in context",
+   "text": "Read aloud a short conversation between two neighbours in which every second turn ends in a tag: “You're the new tenant, aren't you?”, “The lift isn't working, is it?”. Learners underline the two-word ending of each sentence and say, for each one, whether the speaker is checking something or genuinely asking.",
+   "ex": "Support: an eight-line dialogue with the six tags printed in bold."
+  },
+  {
+   "n": 2,
+   "label": "Guided discovery",
+   "text": "Put four statements on the board, two positive and two negative, and elicit the tags. Mark each half with a plus or a minus so the class formulates the rule itself: a positive statement takes a negative tag, a negative statement takes a positive tag. Then add a second column for the auxiliary — copy the one already there, or bring in do, does or did when the statement has none.",
+   "ex": "Support: a two-column grid, statement / tag, with eight rows to complete."
+  },
+  {
+   "n": 3,
+   "label": "Controlled practice",
+   "text": "Rapid oral drill: you read the statement, the class answers with the tag alone. Slot in the special cases every third item — I'm late…, Let's start…, Open the window…, There is a problem…, Nobody phoned… Correct two errors on the spot: [am I not] in place of [aren't I], and any negative tag after never, hardly, nobody or nothing."
+  },
+  {
+   "n": 4,
+   "label": "Freer production with intonation",
+   "text": "In pairs, learners guess three facts about their partner and check each one with a tag, using a falling voice when they are fairly sure and a rising voice when they are really asking. Correct polarity and auxiliary first; then ask each pair to report which of their tags were genuine questions and which were only seeking agreement."
+  }
+ ],
+ "Quantifiers (much / many / a lot of)": [
+  {
+   "n": 1,
+   "label": "Countable vs uncountable",
+   "text": "'many' + plural, 'much' + uncountable; 'a lot of' for both. 'much/many' favour questions/negatives.",
+   "ex": "'How much time? How many people? a lot of money'"
+  },
+  {
+   "n": 2,
+   "label": "Positive → a lot of",
+   "text": "Prefer 'a lot of' in positive statements ('I have a lot of work'); 'much/many' in questions/negatives."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about quantities (work, friends, money) choosing correctly."
+  }
+ ],
+ "Ordinal numbers (first, second...)": [
+  {
+   "n": 1,
+   "label": "Form & spelling",
+   "text": "first, second, third (irregular), then -th (fourth, fifth...). Used for dates, floors, rankings.",
+   "ex": "'the third of May', 'the 21st floor'"
+  },
+  {
+   "n": 2,
+   "label": "Dates",
+   "text": "BrE 'the fifth of June' / AmE 'June fifth'. Drill saying dates."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Give birthdays and rank a top list with ordinals."
+  }
+ ],
+ "Articles: a/the/zero (systematic review)": [
+  {
+   "n": 1,
+   "label": "A decision routine",
+   "text": "Build a flowchart: countable? specific/known? general plural or uncountable? → choose a/the/zero. Apply to a text.",
+   "ex": "'I bought a car. The car is red. Cars are useful.'"
+  },
+  {
+   "n": 2,
+   "label": "Fixed phrases",
+   "text": "Note article-free expressions (go to bed, at school, by car) and 'the' with unique/known nouns."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Correct a text where all articles have been removed."
+  }
+ ],
+ "Compound nouns (bus stop, toothbrush)": [
+  {
+   "n": 1,
+   "label": "Noun + noun",
+   "text": "The first noun describes the second: 'a bus stop' = a stop for buses. Build and decode compounds.",
+   "ex": "'a coffee cup' (a cup for coffee)"
+  },
+  {
+   "n": 2,
+   "label": "First noun stays singular",
+   "text": "The modifying noun is usually singular: 'a five-star hotel', 'a ten-minute walk'. Drill the pattern."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Label objects and places using compound nouns."
+  }
+ ],
+ "Present perfect continuous": [
+  {
+   "n": 1,
+   "label": "have been + -ing",
+   "text": "Emphasise duration of a recent/ongoing activity: 'I've been studying for three hours.'",
+   "ex": "'She's been working all day.'"
+  },
+  {
+   "n": 2,
+   "label": "Activity vs result",
+   "text": "Contrast with present perfect simple: continuous stresses the activity/duration; simple stresses the completed result."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Explain why you look tired/busy using the continuous."
+  }
+ ],
+ "Past perfect": [
+  {
+   "n": 1,
+   "label": "had + past participle",
+   "text": "An action before another past action: 'When I arrived, they had already left.' Timeline work.",
+   "ex": "'She had finished before he came.'"
+  },
+  {
+   "n": 2,
+   "label": "Sequencing the past",
+   "text": "Combine with past simple to show order. Drill 'because ... had ...' explanations."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Narrate a past event explaining what had happened before."
+  }
+ ],
+ "Future continuous": [
+  {
+   "n": 1,
+   "label": "will be + -ing",
+   "text": "An action in progress at a future time: 'This time tomorrow I'll be flying to Rome.'",
+   "ex": "'Don't call at 8 — we'll be having dinner.'"
+  },
+  {
+   "n": 2,
+   "label": "Polite enquiry",
+   "text": "Also for polite questions about plans: 'Will you be using the car tonight?'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe what you'll be doing at set times next week."
+  }
+ ],
+ "used to / would (past habits)": [
+  {
+   "n": 1,
+   "label": "Past habits & states",
+   "text": "'used to + base verb' for repeated past actions and past states no longer true: 'I used to live in Lagos.'",
+   "ex": "'We used to play outside.'"
+  },
+  {
+   "n": 2,
+   "label": "would for repeated actions",
+   "text": "'would' can replace 'used to' for repeated past ACTIONS (not states): 'Every summer we would visit...'."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe childhood habits with used to / would."
+  }
+ ],
+ "Passive voice (present & past)": [
+  {
+   "n": 1,
+   "label": "be + past participle",
+   "text": "Focus on the action/result, not the doer: 'English is spoken here. The window was broken.'",
+   "ex": "'The cars are made in Japan.'"
+  },
+  {
+   "n": 2,
+   "label": "by + agent",
+   "text": "Add 'by' only when the doer matters. Transform active → passive across present and past."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe a process (how something is made) in the passive."
+  }
+ ],
+ "First conditional (real future)": [
+  {
+   "n": 1,
+   "label": "if + present, will + base",
+   "text": "Real/likely future condition: 'If it rains, we'll stay home.' Note the present tense after 'if'.",
+   "ex": "'If you study, you'll pass.'"
+  },
+  {
+   "n": 2,
+   "label": "unless / when",
+   "text": "Introduce 'unless' (= if not) and contrast 'if' (uncertain) with 'when' (certain). Drill paired clauses."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Make promises/plans with first conditionals."
+  }
+ ],
+ "Second conditional (hypothetical)": [
+  {
+   "n": 1,
+   "label": "if + past, would + base",
+   "text": "Unreal/imaginary present or future: 'If I had money, I would travel.' The past form signals unreality.",
+   "ex": "'If I were you, I'd apologise.'"
+  },
+  {
+   "n": 2,
+   "label": "were for all persons",
+   "text": "In the if-clause, 'were' is used for all persons in careful English ('If I were rich'). Contrast with first conditional."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Discuss imaginary situations ('What would you do if...?')."
+  }
+ ],
+ "Reported speech (statements)": [
+  {
+   "n": 1,
+   "label": "Backshift",
+   "text": "Move tenses one step back after a past reporting verb: present→past, will→would, 'I'm tired' → 'He said he was tired.'",
+   "ex": "'I live here' becomes 'She said she lived there.'"
+  },
+  {
+   "n": 2,
+   "label": "Shift pronouns & time words",
+   "text": "Adjust pronouns and references (now→then, tomorrow→the next day, here→there). Transformation drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Report what classmates said in an earlier survey."
+  }
+ ],
+ "Gerunds vs infinitives (verb patterns)": [
+  {
+   "n": 1,
+   "label": "Verb-dependent",
+   "text": "Some verbs take -ing (enjoy, finish, avoid), others take to-infinitive (want, decide, hope). Sort common verbs.",
+   "ex": "'enjoy reading' vs 'want to read'"
+  },
+  {
+   "n": 2,
+   "label": "Meaning change verbs",
+   "text": "Note pairs that change meaning (stop doing vs stop to do; remember doing vs remember to do)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Talk about likes/plans using the correct pattern after each verb."
+  }
+ ],
+ "Past ability (could / was able to / managed to)": [
+  {
+   "n": 1,
+   "label": "Noticing in context",
+   "text": "Read out a short rescue story containing four ability forms: “She could swim before she could walk”, “The fire spread quickly, but everyone was able to escape”, “I couldn't open the emergency door” and “We could hear people shouting”. Ask learners to underline every way of talking about ability and to write beside each one whether it describes a skill over a period or one particular moment.",
+   "ex": "Support: a ten-line printed narrative with the four ability forms in bold, plus a two-column grid headed “over a period / one moment”."
+  },
+  {
+   "n": 2,
+   "label": "Guided discovery of the one-occasion rule",
+   "text": "Put the two sentences “She could swim at four” and “He could escape from the burning house” side by side and ask the class which one sounds wrong and why. Lead them to state the rule themselves: could is fine for a general skill, but a single successful action needs was/were able to or managed to. Write the rule on the board in the learners' own words."
+  },
+  {
+   "n": 3,
+   "label": "Controlled practice with the two exceptions",
+   "text": "Drill twelve short prompts orally, mixing general skills, single successes, negatives and perception verbs. Insist that the negative loses the restriction, so “I couldn't open the door” is correct, and that see, hear, smell, feel, understand and remember keep could even at one precise moment.",
+   "ex": "Support: a set of twelve prompt cards, each marked with a small icon for skill, one-off success, negative or perception."
+  },
+  {
+   "n": 4,
+   "label": "Freer production: the difficult journey",
+   "text": "In pairs, learners tell the story of a journey or a day when almost everything went wrong, using at least three ability forms and one managed to. Correct only two things at feedback stage: any could used for a single successful action, and the pattern after manage and succeed, which must be manage to do and succeed in doing."
+  }
+ ],
+ "Phrasal verbs (separable & inseparable)": [
+  {
+   "n": 1,
+   "label": "Noticing in context",
+   "text": "Read a short dialogue containing eight phrasal verbs: get up, turn off, look after, look forward to, break down, find out, put off, run into. Learners underline every verb + particle unit and answer one question only — could you guess the meaning from the two words alone? Do not give translations yet.",
+   "ex": "Support: a twelve-line dialogue, target items in bold, plus a strip of the eight verbs cut up for sorting."
+  },
+  {
+   "n": 2,
+   "label": "Guided discovery: four types",
+   "text": "Learners sort the underlined verbs into four columns using two tests: does the verb take an object, and can a noun object stand after the particle? Elicit the four labels — intransitive, transitive separable, transitive inseparable, three-part — and have each pair add one more verb of their own to every column.",
+   "ex": "Support: a four-column grid with turn off and look after already placed as models."
+  },
+  {
+   "n": 3,
+   "label": "Controlled practice: pronoun drill",
+   "text": "Drill the three-step transformation aloud: turn off the light → turn the light off → turn it off. Then contrast the inseparable pattern: look after the baby → look after her, with no middle step. Stop the class the moment anyone produces [turn off it] or [look her after] and rebuild the correct order on the board."
+  },
+  {
+   "n": 4,
+   "label": "Freer production: register switch",
+   "text": "In pairs, learners write a five-line informal message using six phrasal verbs, then rewrite it as a formal e-mail replacing each one with its Latinate equivalent — put off / postpone, find out / discover, give up / abandon, throw away / discard. Correct word order first, register second."
+  }
+ ],
+ "Reported questions, commands & requests": [
+  {
+   "n": 1,
+   "label": "Noticing the word-order shift",
+   "text": "Put four pairs on the board, the direct question above and the reported version below: “Where do you live?” / He asked me where I lived. Ask learners to draw an arrow showing that the auxiliary do disappears and that the subject moves back in front of the verb, then to cross out the question mark themselves. Do not re-teach backshift here: treat it as known and keep the whole focus on order and punctuation.",
+   "ex": "Support: handout of eight direct/reported pairs, one pair per line, wh- questions only, the auxiliary printed in grey so it can be struck through."
+  },
+  {
+   "n": 2,
+   "label": "Guided discovery of if / whether",
+   "text": "Give six yes/no questions with no question word and ask pairs to report them; they will feel that a link word is missing. Supply if and whether, then add two items containing “or not” and one after a preposition, such as “It depends on ___ he comes”, so that the class discovers for itself that only whether works in those two positions."
+  },
+  {
+   "n": 3,
+   "label": "Controlled practice: verb + object + to",
+   "text": "Call out orders and polite requests at speed — “Sit down!”, “Don't be late!”, “Could you open the window?” — and have the class answer chorally: He told me to sit down, He told me not to be late, She asked me to open the window. Correct two things only: the personal object after tell and ask, and the position of not immediately before to.",
+   "ex": "Support: card set of twenty spoken prompts, ten orders and ten polite requests, plus a second set for advise, warn, remind, invite and beg."
+  },
+  {
+   "n": 4,
+   "label": "Freer production: relaying a message",
+   "text": "In threes, learner A reads a dialogue card containing two questions, one order and one request, and reports it orally to B, who writes the four reported sentences down; C checks the punctuation. Collect the written versions and correct only four things: word order in the questions, if/whether, the missing personal object after tell, and any stray question mark."
+  }
+ ],
+ "Gradable vs non-gradable adjectives": [
+  {
+   "n": 1,
+   "label": "Two kinds",
+   "text": "Gradable (big, hot, tired) take 'very/quite'; non-gradable/extreme (huge, freezing, exhausted) take 'absolutely/totally'.",
+   "ex": "'very hot' but 'absolutely freezing'"
+  },
+  {
+   "n": 2,
+   "label": "Matching intensifiers",
+   "text": "Drill which intensifier fits which type. 'absolutely delicious', not 'very delicious' (in careful use)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "React to experiences choosing gradable/non-gradable adjectives + intensifier."
+  }
+ ],
+ "-ed vs -ing adjectives (bored / boring)": [
+  {
+   "n": 1,
+   "label": "Feeling vs cause",
+   "text": "-ed describes how you feel (bored, interested); -ing describes the thing causing it (boring, interesting).",
+   "ex": "'I'm bored. The film is boring.'"
+  },
+  {
+   "n": 2,
+   "label": "Common pairs",
+   "text": "Drill excited/exciting, tired/tiring, surprised/surprising in matched sentences."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe experiences and your reactions using both forms."
+  }
+ ],
+ "Relative pronouns (whose, where, when)": [
+  {
+   "n": 1,
+   "label": "Beyond who/which",
+   "text": "'whose' = possession ('the man whose car...'), 'where' = place, 'when' = time. Extend defining clauses.",
+   "ex": "'the town where I grew up'"
+  },
+  {
+   "n": 2,
+   "label": "Choose the right pronoun",
+   "text": "Match pronoun to function (owner/place/time). Combine sentence pairs."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe people and places using whose/where/when."
+  }
+ ],
+ "Reciprocal pronouns (each other)": [
+  {
+   "n": 1,
+   "label": "Mutual action",
+   "text": "'each other / one another' for a two-way action: 'They love each other.' Contrast with reflexive (themselves).",
+   "ex": "'We help each other.'"
+  },
+  {
+   "n": 2,
+   "label": "With prepositions",
+   "text": "'talk to each other, look at one another'. Brief drill on placement."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe a relationship/team using 'each other'."
+  }
+ ],
+ "Adverbs of degree (quite, really, a bit)": [
+  {
+   "n": 1,
+   "label": "Strengthen or soften",
+   "text": "Scale modifiers: a bit / quite / really / extremely before adjectives. 'It's quite cold / really cold.'",
+   "ex": "'a bit tired', 'really happy'"
+  },
+  {
+   "n": 2,
+   "label": "Register & nuance",
+   "text": "Note BrE 'quite' can mean 'fairly' (quite good) or 'completely' (quite right) by adjective type. Brief awareness."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Give graded opinions on films/food using degree adverbs."
+  }
+ ],
+ "Comparative & superlative adverbs": [
+  {
+   "n": 1,
+   "label": "more / most + adverb",
+   "text": "Most adverbs use more/most: 'more carefully, the most quickly'. Short ones add -er/-est (faster, hardest).",
+   "ex": "'He drives more slowly than me.'"
+  },
+  {
+   "n": 2,
+   "label": "Irregulars",
+   "text": "well→better→best, badly→worse→worst, far→further. Drill alongside adjective comparison."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Compare how people do things ('She works harder than...')."
+  }
+ ],
+ "Linking adverbs (however, therefore)": [
+  {
+   "n": 1,
+   "label": "Logical links in writing",
+   "text": "however (contrast), therefore/so (result), in addition (adding), for example. Position at clause start with a comma.",
+   "ex": "'It rained; however, we went out.'"
+  },
+  {
+   "n": 2,
+   "label": "Punctuation",
+   "text": "Show semicolon/full stop before, comma after. Contrast with conjunctions (but/so) that join within one sentence."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Improve a choppy paragraph by adding linking adverbs."
+  }
+ ],
+ "Non-defining relative clauses": [
+  {
+   "n": 1,
+   "label": "Extra information",
+   "text": "Add non-essential detail between commas: 'My brother, who lives in Paris, is a doctor.' The clause can be removed.",
+   "ex": "'The book, which I loved, is out of print.'"
+  },
+  {
+   "n": 2,
+   "label": "No 'that', no omission",
+   "text": "Use who/which (not that) and never omit the pronoun. Contrast with defining clauses."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Add extra information about known people/things in commas."
+  }
+ ],
+ "Time clauses (when, while, as soon as)": [
+  {
+   "n": 1,
+   "label": "Present for future",
+   "text": "After when, as soon as, until, before, after — use the present (not 'will') for future time: 'I'll call when I arrive.'",
+   "ex": "'Wait until he comes.'"
+  },
+  {
+   "n": 2,
+   "label": "while + continuous",
+   "text": "'while' often pairs with continuous for background ('while I was cooking'). Drill clause combinations."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Plan a sequence of future actions with time clauses."
+  }
+ ],
+ "Reason & result (because, so, since)": [
+  {
+   "n": 1,
+   "label": "Cause vs consequence",
+   "text": "because/since/as introduce a reason; so introduces a result. 'I stayed in because it rained / It rained, so I stayed in.'",
+   "ex": "'Since it's late, let's go.'"
+  },
+  {
+   "n": 2,
+   "label": "Register & position",
+   "text": "'since/as' often start the sentence for known reasons; 'because' usually follows. Brief contrast."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Explain decisions giving reason and result."
+  }
+ ],
+ "Purpose clauses (to / in order to / so that)": [
+  {
+   "n": 1,
+   "label": "Same subject → to",
+   "text": "Same subject uses 'to / in order to + base verb': 'I came here to learn English.'",
+   "ex": "'She left early to catch the train.'"
+  },
+  {
+   "n": 2,
+   "label": "Different subject → so that",
+   "text": "Different subjects need 'so that + clause': 'I spoke slowly so that everyone could understand.'"
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "State goals, switching between 'to' and 'so that'."
+  }
+ ],
+ "few / a few / little / a little": [
+  {
+   "n": 1,
+   "label": "Countable vs uncountable",
+   "text": "a few/few + plural; a little/little + uncountable. 'a few friends', 'a little time'.",
+   "ex": "'a few books', 'a little water'"
+  },
+  {
+   "n": 2,
+   "label": "With vs without 'a'",
+   "text": "'a few/a little' = some (positive nuance); 'few/little' = almost none (negative nuance). Contrast pairs."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe resources you have using the four forms with the right nuance."
+  }
+ ],
+ "both / either / neither": [
+  {
+   "n": 1,
+   "label": "Two-item quantifiers",
+   "text": "both = the two together; either = one or the other; neither = not one and not the other.",
+   "ex": "'Both are good. / Neither works.'"
+  },
+  {
+   "n": 2,
+   "label": "Agreement & structure",
+   "text": "'both + plural verb'; 'neither/either + singular verb'. 'both...and', 'either...or', 'neither...nor'. Drill pairs."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Compare two options using both/either/neither."
+  }
+ ],
+ "Abstract & collective nouns (agreement)": [
+  {
+   "n": 1,
+   "label": "Singular or plural verb?",
+   "text": "Collective nouns (team, government, family) take a singular OR plural verb in BrE depending on whether the group acts as one body or as individuals.",
+   "ex": "'The team is strong' vs 'The team are arguing'"
+  },
+  {
+   "n": 2,
+   "label": "BrE vs AmE",
+   "text": "Note AmE prefers the singular ('The team is...'). Drill choosing the verb form by meaning and variety."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write sentences about organisations, choosing agreement to match the intended sense."
+  }
+ ],
+ "Article nuances (institutions, generalisations)": [
+  {
+   "n": 1,
+   "label": "Institution vs building",
+   "text": "Zero article for the institutional purpose (go to hospital/school/prison) vs 'the' for the physical place (go to the hospital to visit).",
+   "ex": "'in hospital' (as a patient) vs 'at the hospital' (the building)"
+  },
+  {
+   "n": 2,
+   "label": "Generic 'the'",
+   "text": "Contrast generic plural (zero) with generic 'the' + singular for species/inventions ('The tiger is endangered'). Brief drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Edit a text fixing institution vs building and generic uses."
+  }
+ ],
+ "Future perfect": [
+  {
+   "n": 1,
+   "label": "will have + past participle",
+   "text": "An action completed before a point in the future: 'By next year, I'll have graduated.'",
+   "ex": "'By 6 p.m. they will have arrived.'"
+  },
+  {
+   "n": 2,
+   "label": "With 'by' / 'by the time'",
+   "text": "Pair with 'by' + time or 'by the time + present'. Contrast with future simple/continuous on a timeline."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Set goals: what you'll have achieved by certain future dates."
+  }
+ ],
+ "Third conditional (past unreal)": [
+  {
+   "n": 1,
+   "label": "if + past perfect, would have + pp",
+   "text": "Imagining a different past: 'If I had studied, I would have passed.' Both clauses look back and are unreal.",
+   "ex": "'If she had left earlier, she wouldn't have missed it.'"
+  },
+  {
+   "n": 2,
+   "label": "Contracted forms",
+   "text": "Drill the heavily contracted spoken forms ('If I'd known, I'd have called'). Listening practice."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Express regrets about past decisions in the third conditional."
+  }
+ ],
+ "Mixed conditionals": [
+  {
+   "n": 1,
+   "label": "Cross time references",
+   "text": "Mix a past condition with a present result, or vice versa: 'If I had saved money (past), I would be rich now (present).'",
+   "ex": "'If I were taller, I would have made the team.'"
+  },
+  {
+   "n": 2,
+   "label": "Identify the time of each clause",
+   "text": "Analyse which clause is past and which present, then match the right forms. Sorting drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Link a past cause to a present consequence about your own life."
+  }
+ ],
+ "Passive (all tenses; passive reporting)": [
+  {
+   "n": 1,
+   "label": "Extend across tenses",
+   "text": "Build the passive in perfect, continuous and modal forms: 'has been done, is being built, must be finished.'",
+   "ex": "'The road is being repaired.'"
+  },
+  {
+   "n": 2,
+   "label": "Reporting passive",
+   "text": "Impersonal reporting: 'It is said that... / He is believed to be...'. Useful for objective/academic register."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Rewrite a news item using passive and reporting structures."
+  }
+ ],
+ "Modals of deduction (must/might/can't have)": [
+  {
+   "n": 1,
+   "label": "Certainty scale (present)",
+   "text": "must (sure it's true), might/could/may (possible), can't (sure it's false): 'He must be tired. / It can't be true.'",
+   "ex": "'She might be at home.'"
+  },
+  {
+   "n": 2,
+   "label": "Past deduction",
+   "text": "modal + have + past participle: 'must have left, might have forgotten, can't have seen.' Drill present vs past."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Speculate about a mystery picture/situation, present and past."
+  }
+ ],
+ "Causative (have/get something done)": [
+  {
+   "n": 1,
+   "label": "have + object + past participle",
+   "text": "Someone else does the job for you: 'I had my car repaired. / I'm getting my hair cut.'",
+   "ex": "'We had the house painted.'"
+  },
+  {
+   "n": 2,
+   "label": "have vs get; misfortune",
+   "text": "'get' is more informal; also for unwanted events ('She had her bag stolen'). Drill the word order."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe services you arrange using the causative."
+  }
+ ],
+ "'wish' / 'if only'": [
+  {
+   "n": 1,
+   "label": "Three patterns",
+   "text": "wish + past (present regret: 'I wish I had a car'); wish + past perfect (past regret: 'I wish I had studied'); wish + would (annoyance: 'I wish you would listen').",
+   "ex": "'If only I were taller.'"
+  },
+  {
+   "n": 2,
+   "label": "Map wish to conditionals",
+   "text": "Link the backshift logic to second/third conditionals. Sorting by time and meaning."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Express present and past regrets and complaints with wish/if only."
+  }
+ ],
+ "Adjectives as nouns (the rich, the unemployed)": [
+  {
+   "n": 1,
+   "label": "the + adjective = group",
+   "text": "'the + adjective' names a whole group of people, plural in sense: 'the rich, the elderly, the homeless.'",
+   "ex": "'The young often move to cities.'"
+  },
+  {
+   "n": 2,
+   "label": "Plural agreement",
+   "text": "These take a plural verb and no -s: 'The unemployed are...'. Contrast with 'a rich person'."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write social-issue sentences using adjective-as-noun groups."
+  }
+ ],
+ "Order & modification of adjectives (intensifiers)": [
+  {
+   "n": 1,
+   "label": "Fine-tune intensity",
+   "text": "Layer intensifiers/downtoners: 'a remarkably well-designed, surprisingly cheap phone.' Match intensifier to adjective type.",
+   "ex": "'utterly convincing', 'fairly reliable'"
+  },
+  {
+   "n": 2,
+   "label": "Hyphenated pre-modifiers",
+   "text": "Compound modifiers before nouns are hyphenated ('a well-known author', 'a five-year-old child'). Drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write a product review with precisely modified adjectives."
+  }
+ ],
+ "Indefinite pronouns (someone, anything, no one)": [
+  {
+   "n": 1,
+   "label": "some-/any-/no-/every- families",
+   "text": "Build the grid (someone/anyone/no one/everyone; something/anything...). some- in positives, any- in Q/neg.",
+   "ex": "'Is anyone there? Nobody answered.'"
+  },
+  {
+   "n": 2,
+   "label": "Singular agreement & they",
+   "text": "They take a singular verb ('Everyone is here') but singular 'they' for reference ('Someone left their bag')."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe a scene/situation using indefinite pronouns."
+  }
+ ],
+ "'it' & 'there' as dummy subjects": [
+  {
+   "n": 1,
+   "label": "Two empty subjects",
+   "text": "'there' introduces existence ('There is a problem'); 'it' fills the subject slot for weather, time, distance and to delay a clause ('It is hard to say').",
+   "ex": "'It's raining. It's important to rest.'"
+  },
+  {
+   "n": 2,
+   "label": "Anticipatory 'it'",
+   "text": "'It' postpones a long subject: 'It is surprising that he left' (= That he left is surprising). Transformation drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Comment on situations using anticipatory 'it' and existential 'there'."
+  }
+ ],
+ "Adverb position & focus adverbs (only, even)": [
+  {
+   "n": 1,
+   "label": "Position changes meaning",
+   "text": "Focus adverbs (only, even, just) attach to what follows: 'Only I saw her' vs 'I only saw her' vs 'I saw only her.' Compare meanings.",
+   "ex": "'She even cleaned the windows.'"
+  },
+  {
+   "n": 2,
+   "label": "Place next to the focus",
+   "text": "Put the adverb immediately before the word it limits. Drill by shifting 'only' through a sentence."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write sentences where moving 'only' changes the meaning, and gloss each."
+  }
+ ],
+ "Negative & limiting adverbs (hardly, rarely)": [
+  {
+   "n": 1,
+   "label": "Near-negative meaning",
+   "text": "hardly/scarcely/barely (= almost not), rarely/seldom (= almost never). The clause is positive in form.",
+   "ex": "'I can hardly hear you.'"
+  },
+  {
+   "n": 2,
+   "label": "No double negative",
+   "text": "Because they are already negative in sense, don't add 'not': 'I hardly ever go' (not 'don't hardly')."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe infrequent habits using rarely/seldom/hardly ever."
+  }
+ ],
+ "Concession (although, despite, in spite of)": [
+  {
+   "n": 1,
+   "label": "Clause vs noun",
+   "text": "although/though/even though + clause; despite/in spite of + noun or -ing. 'Although it rained...' / 'Despite the rain...'.",
+   "ex": "'In spite of being tired, she continued.'"
+  },
+  {
+   "n": 2,
+   "label": "Transform between them",
+   "text": "Rewrite 'although + clause' as 'despite + noun/-ing' and back. Drill the structural switch."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Concede a point in an argument using all three forms."
+  }
+ ],
+ "Cause & result connectors (consequently, due to)": [
+  {
+   "n": 1,
+   "label": "Formal links",
+   "text": "due to/owing to + noun (cause); consequently/as a result/therefore (result, linking adverbs). Build a formal register set.",
+   "ex": "'Sales fell; consequently, prices rose.'"
+  },
+  {
+   "n": 2,
+   "label": "due to vs because of",
+   "text": "'due to' traditionally follows 'be' ('The delay was due to fog'); 'because of' modifies a verb. Brief usage note."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write a cause-effect paragraph in formal register."
+  }
+ ],
+ "Cleft sentences (It was... / What...)": [
+  {
+   "n": 1,
+   "label": "Two cleft types",
+   "text": "It-cleft highlights one element ('It was John who called'); wh-cleft fronts a clause ('What I need is time'). Mark the focus.",
+   "ex": "'It was in 2010 that we met.'"
+  },
+  {
+   "n": 2,
+   "label": "Build from a neutral sentence",
+   "text": "Take 'John broke the window' and produce both clefts emphasising different parts. Transformation drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Re-emphasise facts in a short text using clefts."
+  }
+ ],
+ "Participle clauses": [
+  {
+   "n": 1,
+   "label": "Reduce a clause",
+   "text": "Shorten a clause to a participle: 'Feeling tired, she left' (= Because she felt tired). Present (-ing) for active, past (-ed) for passive.",
+   "ex": "'Built in 1900, the house is protected.'"
+  },
+  {
+   "n": 2,
+   "label": "Same-subject rule",
+   "text": "The participle's implied subject must match the main clause. Combine sentence pairs."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Condense a descriptive paragraph using participle clauses."
+  }
+ ],
+ "Quantifiers review (all/most/none of)": [
+  {
+   "n": 1,
+   "label": "With or without 'of'",
+   "text": "General: 'most people' (no of); specific: 'most of the people' (+ of + the/possessive/pronoun). Contrast the two.",
+   "ex": "'All children / all of the children in this class'"
+  },
+  {
+   "n": 2,
+   "label": "Agreement with 'none of'",
+   "text": "'none of' + plural can take singular (formal) or plural (informal) verb. Drill the structures."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Report survey results using all/most/some/none of."
+  }
+ ],
+ "Complex noun phrases (pre/post-modification)": [
+  {
+   "n": 1,
+   "label": "Pack the noun phrase",
+   "text": "Combine pre-modifiers (adjectives, nouns) and post-modifiers (prepositional phrases, relative and participle clauses) around one head noun.",
+   "ex": "'the recently published report on climate change'"
+  },
+  {
+   "n": 2,
+   "label": "Compress for headlines/academia",
+   "text": "Condense a full sentence into a dense noun phrase. Practise on news and academic style."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Turn three short sentences into a single rich noun phrase."
+  }
+ ],
+ "Nominalisation (academic style)": [
+  {
+   "n": 1,
+   "label": "Verb/adjective → noun",
+   "text": "Turn processes into nouns for an abstract, objective register: 'decide → the decision to', 'fail → the failure of'.",
+   "ex": "'reduce costs → the reduction of costs'"
+  },
+  {
+   "n": 2,
+   "label": "Information density",
+   "text": "Rewrite verbal sentences as nominal ones, noting the more formal, compact effect. Drill on academic extracts."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Reformulate an informal paragraph into nominalised academic prose."
+  }
+ ],
+ "Inversion after negative adverbials (Never have I...)": [
+  {
+   "n": 1,
+   "label": "Fronting triggers inversion",
+   "text": "Front a negative/limiting adverbial and invert subject and auxiliary: 'Never have I seen such a thing. / Not only did he lie, but...'.",
+   "ex": "'Rarely do we see this.'"
+  },
+  {
+   "n": 2,
+   "label": "Common triggers",
+   "text": "Drill the set: never, rarely, seldom, hardly...when, no sooner...than, not only, little, only then. Transform from neutral sentences."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Rewrite emphatic statements with fronted negatives + inversion."
+  }
+ ],
+ "Subjunctive & 'were to' / 'be to'": [
+  {
+   "n": 1,
+   "label": "Mandative subjunctive",
+   "text": "Base verb after demand/suggest/insist + that: 'I suggest that he be informed. / It is essential that she arrive on time.'",
+   "ex": "'They demanded that he leave.'"
+  },
+  {
+   "n": 2,
+   "label": "Hypothetical 'were to' / planning 'be to'",
+   "text": "'If I were to tell you...' (tentative future); 'be to' for official plans/instructions ('You are to report at 9'). Contrast uses."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write formal recommendations and tentative hypotheses using these forms."
+  }
+ ],
+ "Future in the past": [
+  {
+   "n": 1,
+   "label": "Past viewpoint, later action",
+   "text": "From a past moment, refer to something then still future: 'was going to, would, was about to, was to.' 'He was going to call but forgot.'",
+   "ex": "'She was to become president.'"
+  },
+  {
+   "n": 2,
+   "label": "Choose the right form",
+   "text": "Match nuance: intention (was going to), destiny (was to), imminence (was about to). Sorting drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Narrate past plans and how they turned out."
+  }
+ ],
+ "Modal nuances (habits, willingness, criticism)": [
+  {
+   "n": 1,
+   "label": "Beyond core meanings",
+   "text": "'will/would' for typical behaviour ('He will sit there for hours'); 'would' for past willingness/refusal ('The car wouldn't start'); 'might/could have' for criticism ('You could have told me').",
+   "ex": "'She would always help.'"
+  },
+  {
+   "n": 2,
+   "label": "Read the context",
+   "text": "Identify the nuance (habit, willingness, reproach, annoyance) from context. Analysis of authentic lines."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Express criticism and characteristic behaviour using these modal nuances."
+  }
+ ],
+ "Advanced aspect (perfect vs simple contrasts)": [
+  {
+   "n": 1,
+   "label": "Subtle tense choices",
+   "text": "Fine-tune present perfect vs past simple, and simple vs continuous, for connotation: finished vs relevant-now, permanent vs temporary, complete vs in progress.",
+   "ex": "'I lived there' vs 'I have lived there' vs 'I have been living there'"
+  },
+  {
+   "n": 2,
+   "label": "Connotation drills",
+   "text": "Compare near-minimal pairs and articulate the difference in meaning/emphasis. Discussion-based analysis."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write a short reflective text exploiting aspectual contrasts deliberately."
+  }
+ ],
+ "Adjective complementation (keen on, eager to)": [
+  {
+   "n": 1,
+   "label": "Adjective + preposition / clause",
+   "text": "Many adjectives take a fixed preposition or pattern: 'keen on -ing, eager to do, aware that, capable of -ing.' Group by pattern.",
+   "ex": "'afraid of failing', 'likely to win'"
+  },
+  {
+   "n": 2,
+   "label": "Preposition vs infinitive",
+   "text": "Contrast adjectives taking 'of + -ing' vs 'to + infinitive'. Drill collocations."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Describe attitudes and abilities using correctly complemented adjectives."
+  }
+ ],
+ "Cohesion & substitution (do so, such)": [
+  {
+   "n": 1,
+   "label": "Avoid repetition",
+   "text": "Use substitution to refer back: 'do so / do it / do that' for verb phrases; 'such' and 'so' for ideas. 'I asked him to leave and he did so.'",
+   "ex": "'She was angry, and understandably so.'"
+  },
+  {
+   "n": 2,
+   "label": "Register of 'do so'",
+   "text": "'do so' is formal; 'do it/that' more neutral. Drill substitution in connected text."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Edit a repetitive paragraph using substitution devices."
+  }
+ ],
+ "Ellipsis (auxiliary & to-infinitive)": [
+  {
+   "n": 1,
+   "label": "Leave out the recoverable",
+   "text": "Omit repeated words after auxiliaries or 'to': 'I haven't finished but she has (finished). / I'd love to (come).'",
+   "ex": "'You can go if you want to.'"
+  },
+  {
+   "n": 2,
+   "label": "Coordination ellipsis",
+   "text": "Drop repeated subjects/verbs in coordination ('She bought the tickets and (she) booked the hotel'). Drill restoration."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Tighten a wordy text by ellipting recoverable elements."
+  }
+ ],
+ "Epistemic adverbs (apparently, presumably)": [
+  {
+   "n": 1,
+   "label": "Mark your certainty",
+   "text": "Signal how sure you are: certainly, presumably, apparently, supposedly, allegedly (decreasing certainty/distance). Place on a scale.",
+   "ex": "'Apparently, they have split up.'"
+  },
+  {
+   "n": 2,
+   "label": "Source distancing",
+   "text": "'allegedly/supposedly/reportedly' distance you from a claim you don't fully endorse. Drill in reporting contexts."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Report unverified news, calibrating commitment with the right adverb."
+  }
+ ],
+ "Comment & viewpoint adverbs (frankly, technically)": [
+  {
+   "n": 1,
+   "label": "Comment on the whole clause",
+   "text": "Sentence adverbs frame the statement: 'Frankly, I disagree. / Technically, it's illegal. / Unfortunately, we lost.'",
+   "ex": "'Personally, I'd refuse.'"
+  },
+  {
+   "n": 2,
+   "label": "Position & punctuation",
+   "text": "Usually sentence-initial with a comma. Distinguish comment adverbs (frankly = I speak frankly) from manner adverbs (he spoke frankly)."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Add stance to statements using comment and viewpoint adverbs."
+  }
+ ],
+ "Fronting & emphasis": [
+  {
+   "n": 1,
+   "label": "Move an element to the front",
+   "text": "Front objects, complements or adverbials for emphasis/cohesion: 'That I can't accept. / Down the road came a car.'",
+   "ex": "'Such was his anger that he left.'"
+  },
+  {
+   "n": 2,
+   "label": "With and without inversion",
+   "text": "Some fronting triggers inversion ('Down came the rain'), some doesn't ('This book I love'). Sort examples."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Rewrite neutral sentences with marked fronting for effect."
+  }
+ ],
+ "Cleft & pseudo-cleft (advanced)": [
+  {
+   "n": 1,
+   "label": "Range of clefts",
+   "text": "Beyond basic clefts: 'All I want is..., The reason (why)..., The place where..., What happened was...'. Mark the focus precisely.",
+   "ex": "'The thing that bothers me is the cost.'"
+  },
+  {
+   "n": 2,
+   "label": "Choose the structure for focus",
+   "text": "Match cleft type to the element emphasised and the discourse flow. Transformation drills."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Restructure an argument's key points with varied clefts."
+  }
+ ],
+ "Discourse markers (moreover, nevertheless)": [
+  {
+   "n": 1,
+   "label": "Formal cohesion set",
+   "text": "Organise written argument with moreover, furthermore, nevertheless, conversely, hence, thereby, whereas. Group by function (add/contrast/result).",
+   "ex": "'The plan is costly; nevertheless, it is necessary.'"
+  },
+  {
+   "n": 2,
+   "label": "Register & precision",
+   "text": "Distinguish near-synonyms (however vs nevertheless vs nonetheless) and avoid spoken markers in formal writing. Drill selection."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Structure a formal argumentative paragraph with precise markers."
+  }
+ ],
+ "Hedging & academic register": [
+  {
+   "n": 1,
+   "label": "Soften claims",
+   "text": "Use hedges for cautious, academic tone: 'may/might, tend to, it appears that, to some extent, arguably.' 'This may suggest that...'.",
+   "ex": "'The data appear to indicate a trend.'"
+  },
+  {
+   "n": 2,
+   "label": "Balance hedge & stance",
+   "text": "Combine hedging with cautious commitment; avoid both overclaiming and excessive vagueness. Edit overstated sentences."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Rewrite bold assertions as appropriately hedged academic claims."
+  }
+ ],
+ "Genitive & possession nuances (of vs 's; double genitive)": [
+  {
+   "n": 1,
+   "label": "Choose 's or of",
+   "text": "'s for living/personified possessors and time ('a day's work'); 'of' for inanimate/abstract and long phrases. Compare nuance.",
+   "ex": "'the company's policy' vs 'the policy of the company'"
+  },
+  {
+   "n": 2,
+   "label": "Double genitive",
+   "text": "'a friend of mine', 'a painting of Picasso's' (one of his works) vs 'a painting of Picasso' (depicting him). Disambiguation drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Edit phrases choosing the genitive that fits sense and rhythm."
+  }
+ ],
+ "Marked noun forms (foreign plurals: criteria, phenomena)": [
+  {
+   "n": 1,
+   "label": "Latin/Greek plurals",
+   "text": "criterion/criteria, phenomenon/phenomena, datum/data, analysis/analyses, index/indices. Treat as pairs to master.",
+   "ex": "'These criteria are...' (plural)"
+  },
+  {
+   "n": 2,
+   "label": "Shifting usage",
+   "text": "Note items drifting to regular usage ('data' as singular mass noun in many fields). Discuss register and field norms."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Use these nouns with correct agreement in academic sentences."
+  }
+ ],
+ "All tenses & aspects (controlled production)": [
+  {
+   "n": 1,
+   "label": "The whole system",
+   "text": "Produce the full English tense-aspect grid accurately, including perfect continuous and future perfect, choosing each for precise effect.",
+   "ex": "'By then I will have been working here for a decade.'"
+  },
+  {
+   "n": 2,
+   "label": "Recognise rare/literary forms",
+   "text": "Read texts with marked forms ('be to', historic present, narrative inversion) and gloss their effect."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write a passage that deliberately deploys a wide, precise range of tenses."
+  }
+ ],
+ "Rare/literary structures (inversion in conditionals)": [
+  {
+   "n": 1,
+   "label": "Conditional without 'if'",
+   "text": "Invert to drop 'if' in formal/literary style: 'Had I known... / Were she to refuse... / Should you need help...'.",
+   "ex": "'Had they arrived earlier, all would have been well.'"
+  },
+  {
+   "n": 2,
+   "label": "Map to standard conditionals",
+   "text": "Rewrite each inverted form as the equivalent if-clause and back. Register awareness."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Use inverted conditionals appropriately in formal writing."
+  }
+ ],
+ "Tense shifts in narrative & backshift subtleties": [
+  {
+   "n": 1,
+   "label": "Manage the timeline",
+   "text": "Coordinate past simple, past perfect and reported forms across a long narrative; use the historic present for vividness.",
+   "ex": "'He had been waiting for hours when, suddenly, the door opens.'"
+  },
+  {
+   "n": 2,
+   "label": "Optional backshift",
+   "text": "Note when backshift is optional (still-true facts: 'She said the Earth is/was round') and how it signals stance. Analysis."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write/edit a narrative with controlled, purposeful tense shifts."
+  }
+ ],
+ "Aspectual nuance (stative vs dynamic, habitual)": [
+  {
+   "n": 1,
+   "label": "Coerced statives",
+   "text": "Explore stative verbs used dynamically for effect ('I'm loving this', 'You're being silly') and the meaning shift this creates.",
+   "ex": "'I'm thinking' (process) vs 'I think' (opinion)"
+  },
+  {
+   "n": 2,
+   "label": "Habitual & iterative shades",
+   "text": "Contrast 'used to / would / kept -ing / will (habitual)' for nuance. Fine-grained sorting."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Exploit aspectual coercion deliberately in a stylistic text."
+  }
+ ],
+ "Adjective compounds & hyphenation": [
+  {
+   "n": 1,
+   "label": "Form compound adjectives",
+   "text": "Build hyphenated modifiers: 'a state-of-the-art system, a well-thought-out plan, a two-thirds majority.' Patterns: noun+participle, adverb+adjective, number+noun.",
+   "ex": "'a hard-to-please critic'"
+  },
+  {
+   "n": 2,
+   "label": "Hyphen rules",
+   "text": "Hyphenate before the noun, usually not after; no hyphen after -ly adverbs ('a highly skilled worker'). Drill the conventions."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write descriptions using precise compound adjectives."
+  }
+ ],
+ "Adjectives in fixed expressions & idioms": [
+  {
+   "n": 1,
+   "label": "Set collocations",
+   "text": "Master fixed adjective phrases: 'a foregone conclusion, a close call, common ground, a fine line, safe and sound.' Treat as wholes.",
+   "ex": "'It's a foregone conclusion.'"
+  },
+  {
+   "n": 2,
+   "label": "Binomials",
+   "text": "Drill fixed-order pairs ('safe and sound', 'short and sweet', 'sick and tired') whose order can't be reversed."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Weave fixed adjective expressions naturally into discourse."
+  }
+ ],
+ "Generic & impersonal 'one' / 'you' / 'they'": [
+  {
+   "n": 1,
+   "label": "Three impersonals",
+   "text": "'one' (formal generic: 'One should be careful'), 'you' (informal generic), 'they' (people/authorities unspecified: 'They say...'). Compare register.",
+   "ex": "'You never know.' / 'One never knows.'"
+  },
+  {
+   "n": 2,
+   "label": "Consistency",
+   "text": "Keep the chosen pronoun consistent ('one... one's...', not switching to 'you'). Drill register-appropriate choice."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write the same general statement in three registers."
+  }
+ ],
+ "Logical & anticipatory 'it'": [
+  {
+   "n": 1,
+   "label": "Postpone heavy subjects/objects",
+   "text": "'It' anticipates a clause: 'It is clear that... / I find it hard to believe that... / It was here that it happened.'",
+   "ex": "'It strikes me as odd that he agreed.'"
+  },
+  {
+   "n": 2,
+   "label": "Object 'it'",
+   "text": "Anticipatory object: 'I owe it to you to explain / She made it clear that...'. Transformation drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Restructure clause-heavy sentences using anticipatory 'it'."
+  }
+ ],
+ "Stylistic inversion & rhetorical syntax": [
+  {
+   "n": 1,
+   "label": "Marked word order for effect",
+   "text": "Deploy rhetorical inversion and balanced/periodic sentences: 'So intense was the heat that... / Not until later did we realise...'.",
+   "ex": "'Such is life.'"
+  },
+  {
+   "n": 2,
+   "label": "Parallelism & antithesis",
+   "text": "Build parallel and antithetical structures for rhetorical force ('Not that I loved Caesar less, but that I loved Rome more')."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Craft a persuasive passage using inversion and balanced syntax."
+  }
+ ],
+ "Pragmatics: irony, implicature, understatement": [
+  {
+   "n": 1,
+   "label": "Meaning beyond words",
+   "text": "Decode and produce irony, conversational implicature (Grice) and British understatement ('not bad' = very good).",
+   "ex": "'That's not exactly cheap.' (= it's expensive)"
+  },
+  {
+   "n": 2,
+   "label": "Implied, not stated",
+   "text": "Analyse what is implicated rather than asserted ('Some passed' implies not all). Inference practice."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Convey criticism or praise indirectly through understatement and irony."
+  }
+ ],
+ "Grammatical metalanguage": [
+  {
+   "n": 1,
+   "label": "Vocabulary to analyse language",
+   "text": "Master terms to describe and correct English: clause, complement, modifier, aspect, transitivity, subordination, anaphora. Apply to sample sentences.",
+   "ex": "'identify the subordinate clause and its function'"
+  },
+  {
+   "n": 2,
+   "label": "Analyse & self-correct",
+   "text": "Parse complex sentences and explain errors using precise terminology. Peer-correction tasks."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Annotate a text, labelling structures and justifying corrections."
+  }
+ ],
+ "Register & variation (BrE/AmE, formal/informal)": [
+  {
+   "n": 1,
+   "label": "Systematic differences",
+   "text": "Compare BrE/AmE grammar (have got vs have, present perfect use, collective agreement, 'at the weekend' vs 'on the weekend') and formal/informal choices.",
+   "ex": "'I've just eaten' (BrE) vs 'I just ate' (AmE)"
+  },
+  {
+   "n": 2,
+   "label": "Choose for context",
+   "text": "Select the variety/register a task or client expects. Sorting and rewriting across registers."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write one message in two varieties/registers for different audiences."
+  }
+ ],
+ "Disambiguating complex sentences": [
+  {
+   "n": 1,
+   "label": "Spot the ambiguity",
+   "text": "Locate scope, attachment and reference ambiguities: 'He told her he loved her at the party' (where?), negation scope, dangling modifiers.",
+   "ex": "'Visiting relatives can be tiring.' (who visits?)"
+  },
+  {
+   "n": 2,
+   "label": "Rewrite for one reading",
+   "text": "Reorder, repunctuate, add a pronoun or split the sentence to fix a single meaning without losing nuance. Editing drill."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Revise an ambiguous text so each sentence has one clear reading."
+  }
+ ],
+ "Formal written rhetoric & cohesion": [
+  {
+   "n": 1,
+   "label": "Structure an argument",
+   "text": "Plan and signpost extended argument: thesis, development, counter-argument, synthesis, with cohesive ties across paragraphs.",
+   "ex": "'It follows, therefore, that...'"
+  },
+  {
+   "n": 2,
+   "label": "Cohesion & flow",
+   "text": "Manage theme/rheme progression, reference chains and transitions for seamless flow. Analyse a model essay."
+  },
+  {
+   "n": 3,
+   "label": "Production",
+   "text": "Write a cohesive argumentative essay with controlled rhetorical structure."
+  }
+ ]
+}
