@@ -100,54 +100,86 @@ const html = `<!DOCTYPE html>
 ${siteCss()}
 </style>
 <style>
-  /* ── guide-specific chrome ─────────────────────────────────────────── */
+  /* ── guide-specific chrome ──────────────────────────────────────────
+     Surfaces, text and borders reuse the site's own tokens so light and
+     dark stay in step with the site. Only the violet accents are ours,
+     and they carry explicit dark values.                              */
+  :root{
+    --g-btn-bg:#7c3aed; --g-btn-ink:#ffffff;
+    --g-accent:#7c3aed; --g-accent-soft:#f1eefb; --g-accent-ink:#6d28d9;
+    --g-mark-bg:#f3e8ff; --g-mark-ink:#3b2a5c;
+  }
+  @media(prefers-color-scheme:dark){
+    :root{
+      --g-btn-bg:#6d28d9; --g-btn-ink:#ffffff;
+      --g-accent:#a78bfa; --g-accent-soft:#2b2440; --g-accent-ink:#c4b5fd;
+      --g-mark-bg:#5b21b6; --g-mark-ink:#f5f3ff;
+    }
+  }
   .guide-head{max-width:1100px;margin:0 auto;padding:26px 20px 0}
   .guide-head h1{font-size:clamp(22px,4vw,30px);line-height:1.2;margin:0 0 6px}
-  .guide-head p{margin:0;color:var(--color-text-secondary,#5c6370);font-size:14.5px}
+  .guide-head p{margin:0;color:var(--color-text-secondary);font-size:14.5px}
   .guide-meta{margin-top:8px !important;font-size:13px !important}
   .lang-switch{display:flex;gap:8px;justify-content:center;margin:18px 0 4px;flex-wrap:wrap}
   .lang-btn{font:inherit;font-weight:700;font-size:14px;cursor:pointer;padding:8px 22px;
-    border-radius:999px;border:1px solid var(--color-border,#e0ddf0);
-    background:var(--color-surface,#fff);color:var(--color-text,#1a1a2e)}
-  .lang-btn.active{background:#7c3aed;border-color:#7c3aed;color:#fff}
+    border-radius:999px;border:1px solid var(--color-border-secondary);
+    background:var(--color-background-primary);color:var(--color-text-primary)}
+  .lang-btn.active{background:var(--g-btn-bg);border-color:var(--g-btn-bg);color:var(--g-btn-ink)}
   .guide-tools{display:flex;gap:10px;justify-content:center;align-items:center;
     flex-wrap:wrap;margin:10px 0 14px}
   .guide-search{font:inherit;font-size:14px;padding:9px 14px;border-radius:999px;min-width:min(330px,80vw);
-    border:1px solid var(--color-border,#e0ddf0);background:var(--color-surface,#fff);color:inherit}
+    border:1px solid var(--color-border-secondary);
+    background:var(--color-background-primary);color:var(--color-text-primary)}
+  .guide-search::placeholder{color:var(--color-text-tertiary);opacity:1}
   .guide-toggle{font:inherit;font-size:13px;font-weight:600;cursor:pointer;padding:8px 16px;
-    border-radius:999px;border:1px solid var(--color-border,#e0ddf0);
-    background:var(--color-surface,#fff);color:inherit}
-  .guide-toggle.on{background:#7c3aed;border-color:#7c3aed;color:#fff}
+    border-radius:999px;border:1px solid var(--color-border-secondary);
+    background:var(--color-background-primary);color:var(--color-text-primary)}
+  .guide-toggle.on{background:var(--g-btn-bg);border-color:var(--g-btn-bg);color:var(--g-btn-ink)}
   .hits{max-width:1100px;margin:0 auto 14px;padding:0 20px}
   .hit{display:block;width:100%;text-align:left;font:inherit;cursor:pointer;margin-bottom:6px;
-    padding:9px 13px;border-radius:10px;border:1px solid var(--color-border,#e0ddf0);
-    background:var(--color-surface,#fff);color:inherit}
-  .hit:hover{border-color:#7c3aed}
-  .hit b{color:#7c3aed}
-  .hit .hit-meta{font-size:11.5px;color:var(--color-text-tertiary,#8b8798);margin-left:6px}
-  .hit mark{background:#f3e8ff;color:inherit;border-radius:3px;padding:0 2px}
+    padding:9px 13px;border-radius:10px;border:1px solid var(--color-border-tertiary);
+    background:var(--color-background-primary);color:var(--color-text-primary)}
+  .hit:hover{border-color:var(--g-accent)}
+  .hit b{color:var(--g-accent)}
+  .hit .hit-meta{font-size:11.5px;color:var(--color-text-secondary);margin-left:6px}
+  .hit mark{background:var(--g-mark-bg);color:var(--g-mark-ink);border-radius:3px;padding:0 2px}
   .seq-steps{margin-top:12px}
   .seq-steps-h{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
-    color:var(--color-text-tertiary,#8b8798);margin-bottom:8px}
+    color:var(--color-text-secondary);margin-bottom:8px}
   .qcount{display:inline-block;font-size:11px;font-weight:600;padding:2px 9px;border-radius:999px;
-    background:#f1eefb;color:#7c3aed;margin-left:8px;vertical-align:middle}
+    background:var(--g-accent-soft);color:var(--g-accent-ink);margin-left:8px;vertical-align:middle}
   /* linear "tout afficher" view, also what prints */
-  .all-topic{background:var(--color-surface,#fff);border:1px solid var(--color-border,#e0ddf0);
+  .all-topic{background:var(--color-background-primary);border:1px solid var(--color-border-tertiary);
     border-radius:12px;padding:15px 17px;margin-bottom:13px;break-inside:avoid;page-break-inside:avoid}
-  .all-topic h4{margin:0 0 9px;font-size:16px}
-  .all-lvl{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;
-    background:#ede9fe;color:#7c3aed;margin-left:6px;vertical-align:middle}
+  .all-topic h4{margin:0 0 9px;font-size:16px;color:var(--color-text-primary)}
+  .all-lvl{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;
+    background:var(--g-accent-soft);color:var(--g-accent-ink);margin-left:6px;vertical-align:middle}
   .all-sec{font-size:12px;letter-spacing:.07em;text-transform:uppercase;
-    color:var(--color-text-tertiary,#8b8798);margin:20px 0 9px}
-  .all-lang-h{font-size:20px;margin:30px 0 4px;padding-bottom:7px;border-bottom:2px solid var(--color-border,#e0ddf0)}
+    color:var(--color-text-secondary);margin:20px 0 9px}
+  .all-lang-h{font-size:20px;margin:30px 0 4px;padding-bottom:7px;
+    border-bottom:2px solid var(--color-border-secondary);color:var(--color-text-primary)}
   #all-view{max-width:1100px;margin:0 auto;padding:0 20px 60px}
   footer.guide-foot{max-width:1100px;margin:26px auto 0;padding:16px 20px 40px;text-align:center;
-    font-size:12.5px;color:var(--color-text-tertiary,#8b8798)}
+    font-size:12.5px;color:var(--color-text-secondary)}
   @media print{
+    /* force the light palette: printing from a dark-themed OS must stay readable */
+    :root{
+      --color-background-primary:#ffffff; --color-background-secondary:#f5f6f7;
+      --color-text-primary:#1f2328; --color-text-secondary:#5b6470; --color-text-tertiary:#8a929c;
+      --color-border-secondary:#d6dadf; --color-border-tertiary:#e7e9ec;
+      --g-accent:#7c3aed; --g-accent-soft:#f1eefb; --g-accent-ink:#6d28d9;
+    }
     .lang-switch,.guide-tools,.hits,#tabs,#level-display,#seq-display,.guide-foot{display:none !important}
     #all-view{display:block !important;padding:0}
-    body{background:#fff}
+    body{background:#fff;color:#1f2328}
     .all-topic{border:none;border-bottom:1px solid #ddd;border-radius:0}
+    .gn-box{background:#f0faf5 !important;border-color:#1d9e75 !important}
+    .gn-label{color:#0f6e56 !important}
+    .gn-text{color:#1f2328 !important}
+    .gn-ex{color:#5b6470 !important;border-color:#5dcaa5 !important}
+    .pitfall-box{background:#fff5f5 !important;color:#7a1a1a !important;border-color:#e05252 !important}
+    .step-num{background:#7c3aed !important;color:#fff !important}
+    .step-text,.step-label{color:#1f2328 !important}
   }
 </style>
 </head>
