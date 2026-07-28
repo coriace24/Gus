@@ -2,10 +2,14 @@
  *
  *   node teacher-guide/build-guide.js
  *
- * Reads the current curriculum (grammar notes, examples, pitfalls, topic order)
- * straight out of the two site pages, joins it with the archived four-step
- * teaching sequences in data/steps-*.json, counts the exercises in the two
- * question banks, and writes a single self-contained HTML guide.
+ * The guide is navigated exactly like the FLE / ESL pages: a language switch,
+ * CEFR level tabs, colour-coded chips per section, and a panel that opens on
+ * click. It reuses the site's own stylesheet, so it always looks like the site.
+ * The panel shows what the teacher needs: the grammar note and its examples,
+ * the four-step teaching sequence (archived in data/steps-*.json, no longer on
+ * the site), and the common pitfall.
+ *
+ * A "tout afficher" toggle renders every topic linearly for reading or printing.
  *
  * Run this whenever exercices/ changes, and ship the guide with the site.
  */
@@ -18,20 +22,11 @@ const SITE = path.join(ROOT, 'exercices');
 const OUT = path.join(__dirname, 'guide-enseignant.html');
 
 const LANGS = [
-  { key: 'fr', label: 'FLE — Français langue étrangère', html: 'fle/index.html',
-    js: 'js/exercises-french.js', varName: 'EXFR', colour: '#0f6e56', tint: '#d1fae5',
-    seqTitle: 'Séquence pédagogique', noteTitle: 'Note de grammaire',
-    pitTitle: 'Piège courant', exLabel: 'questions', supportLabel: 'Support' },
-  { key: 'en', label: 'ESL — English as a Second Language', html: 'esl/index.html',
-    js: 'js/exercises-english.js', varName: 'EXEN', colour: '#2563eb', tint: '#dbeafe',
-    seqTitle: 'Teaching sequence', noteTitle: 'Grammar note',
-    pitTitle: 'Common pitfall', exLabel: 'questions', supportLabel: 'Support' },
+  { key: 'fr', tab: 'FLE', label: 'FLE — Français langue étrangère',
+    html: 'fle/index.html', js: 'js/exercises-french.js', varName: 'EXFR' },
+  { key: 'en', tab: 'ESL', label: 'ESL — English as a Second Language',
+    html: 'esl/index.html', js: 'js/exercises-english.js', varName: 'EXEN' },
 ];
-
-const esc = s => String(s == null ? '' : s)
-  .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const slug = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
-  .replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
 
 function readD(file) {
   const src = fs.readFileSync(file, 'utf8');
@@ -53,57 +48,42 @@ function readBank(file, varName) {
   return ctx.__r;
 }
 
-const parts = [];
+/* the site's own stylesheet keeps the guide visually in sync with the site */
+function siteCss() {
+  const src = fs.readFileSync(path.join(SITE, 'fle/index.html'), 'utf8').replace(/\r/g, '');
+  return [...src.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(m => m[1]).join('\n');
+}
+
+const DATA = {};
 const stats = [];
-let missingSteps = 0;
+let missing = 0;
 
 for (const L of LANGS) {
   const D = readD(path.join(SITE, L.html));
   const steps = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', `steps-${L.key}.json`), 'utf8'));
   const bank = readBank(path.join(SITE, L.js), L.varName);
-
   let topics = 0, stepCount = 0;
-  const levelNav = D.map(lv => `<a href="#${L.key}-${lv.id}">${esc(lv.id)}</a>`).join('');
-  const body = D.map(lv => {
-    const secs = lv.sections.map(sec => {
-      const items = sec.items.map(it => {
+
+  const levels = D.map(lv => ({
+    id: lv.id, title: lv.title || '', desc: lv.desc || '', note: lv.note || '',
+    sections: lv.sections.map(sec => ({
+      label: sec.label, type: sec.type,
+      items: sec.items.map(it => {
         topics++;
         const seq = steps[it.name] || [];
-        if (!seq.length) missingSteps++;
+        if (!seq.length) missing++;
         stepCount += seq.length;
-        const n = bank[it.name] ? bank[it.name].ex.length : 0;
-        const ge = (it.ge || []).map(g => `<li>${esc(g)}</li>`).join('');
-        const stepRows = seq.map(s => `
-          <div class="step">
-            <div class="step-n">${esc(s.n)}</div>
-            <div class="step-b">
-              <div class="step-l">${esc(s.label)}</div>
-              <p>${esc(s.text)}</p>
-              ${s.ex ? `<p class="support"><strong>${L.supportLabel} :</strong> ${esc(s.ex)}</p>` : ''}
-            </div>
-          </div>`).join('');
-        return `
-      <article class="topic" id="${L.key}-${slug(it.name)}">
-        <h4>${esc(it.name)} <span class="lvl">${esc(lv.id)}</span>${n ? `<span class="qn">${n} ${L.exLabel}</span>` : ''}</h4>
-        ${it.gn ? `<div class="note"><div class="note-h">${L.noteTitle}</div><p>${esc(it.gn)}</p>${ge ? `<ul>${ge}</ul>` : ''}</div>` : ''}
-        ${stepRows ? `<div class="seq"><div class="seq-h">${L.seqTitle}</div>${stepRows}</div>` : ''}
-        ${it.pitfall ? `<div class="pit"><strong>${L.pitTitle} :</strong> ${esc(it.pitfall)}</div>` : ''}
-      </article>`;
-      }).join('');
-      return `<section class="sec"><h3>${esc(sec.label)}</h3>${items}</section>`;
-    }).join('');
-    return `<section class="lvl-block" id="${L.key}-${lv.id}">
-      <h2>${esc(lv.id)} <span class="lvl-t">${esc(lv.title || '')}</span></h2>
-      ${lv.desc ? `<p class="lvl-d">${esc(lv.desc)}</p>` : ''}
-      ${secs}</section>`;
-  }).join('');
+        return {
+          name: it.name,
+          gn: it.gn || '', ge: it.ge || [], pitfall: it.pitfall || '',
+          steps: seq, n: bank[it.name] ? bank[it.name].ex.length : 0,
+        };
+      }),
+    })),
+  }));
 
+  DATA[L.key] = { tab: L.tab, label: L.label, levels };
   stats.push({ label: L.label, topics, steps: stepCount });
-  parts.push(`<section class="lang" id="${L.key}" style="--c:${L.colour};--tint:${L.tint}">
-    <header class="lang-h"><h1>${esc(L.label)}</h1>
-      <nav class="jump">${levelNav}</nav>
-      <p class="count">${topics} points de grammaire · ${stepCount} étapes</p>
-    </header>${body}</section>`);
 }
 
 const totalTopics = stats.reduce((n, s) => n + s.topics, 0);
@@ -117,96 +97,279 @@ const html = `<!DOCTYPE html>
 <meta name="robots" content="noindex, nofollow">
 <title>Guide de l'enseignant · Teacher's Guide — ASD</title>
 <style>
-  :root{--bg:#f8f7fc;--surface:#fff;--text:#1a1a2e;--muted:#5c6370;--accent:#7c3aed;--line:#e6e2f2}
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--text);line-height:1.6;
-       font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-  .wrap{max-width:940px;margin:0 auto;padding:32px 20px 80px}
-  .cover{border-bottom:3px solid var(--accent);padding-bottom:20px;margin-bottom:28px}
-  .cover h1{margin:0 0 6px;font-size:clamp(26px,4.5vw,34px);line-height:1.15}
-  .cover p{margin:0;color:var(--muted)}
-  .cover .meta{margin-top:12px;font-size:13.5px}
-  .toc{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin-bottom:34px}
-  .toc h2{margin:0 0 8px;font-size:15px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
-  .toc a{color:var(--accent);text-decoration:none;font-weight:600}
-  .toc a:hover{text-decoration:underline}
-  .toc li{margin:3px 0}
-  .lang{margin-bottom:56px}
-  .lang-h{border-left:5px solid var(--c);padding:10px 0 10px 16px;margin:0 0 24px}
-  .lang-h h1{margin:0;font-size:24px;color:var(--c)}
-  .jump{margin-top:8px;display:flex;flex-wrap:wrap;gap:8px}
-  .jump a{font-size:12.5px;font-weight:700;padding:3px 10px;border-radius:999px;
-          background:var(--tint);color:var(--c);text-decoration:none}
-  .count{margin:8px 0 0;font-size:13px;color:var(--muted)}
-  .lvl-block{margin-bottom:34px}
-  .lvl-block h2{font-size:19px;margin:0 0 2px;padding-bottom:6px;border-bottom:2px solid var(--line)}
-  .lvl-t{font-weight:400;color:var(--muted);font-size:15px}
-  .lvl-d{margin:4px 0 14px;color:var(--muted);font-size:13.5px}
-  .sec h3{font-size:13px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);
-          margin:22px 0 10px}
-  .topic{background:var(--surface);border:1px solid var(--line);border-radius:12px;
-         padding:16px 18px;margin-bottom:14px;break-inside:avoid;page-break-inside:avoid}
-  .topic h4{margin:0 0 10px;font-size:16.5px;line-height:1.35}
-  .lvl{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;
-       background:var(--tint);color:var(--c);margin-left:6px;vertical-align:middle}
-  .qn{display:inline-block;font-size:11px;font-weight:600;padding:2px 8px;border-radius:999px;
-      background:#f1eefb;color:var(--accent);margin-left:5px;vertical-align:middle}
-  .note{background:#f0faf5;border-left:3px solid #1d9e75;border-radius:0 8px 8px 0;padding:10px 14px;margin-bottom:12px}
-  .note-h{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#0f6e56;margin-bottom:4px}
-  .note p{margin:0;font-size:14.5px}
-  .note ul{margin:6px 0 0;padding-left:16px}
-  .note li{font-size:12.5px;font-style:italic;color:var(--muted);line-height:1.5}
-  .seq{margin:12px 0}
-  .seq-h{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
-  .step{display:flex;gap:11px;align-items:flex-start;margin-bottom:9px}
-  .step-n{flex:0 0 24px;height:24px;border-radius:50%;background:var(--accent);color:#fff;
-          font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center}
-  .step-l{font-weight:700;font-size:13.5px}
-  .step-b p{margin:1px 0 0;font-size:14px}
-  .support{color:var(--muted);font-size:12.5px !important;font-style:italic}
-  .pit{background:#fff5f5;border-left:3px solid #e05252;border-radius:0 8px 8px 0;
-       padding:9px 13px;font-size:13.5px}
-  .pit strong{color:#c33}
-  footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);
-         color:var(--muted);font-size:12.5px;text-align:center}
+${siteCss()}
+</style>
+<style>
+  /* ── guide-specific chrome ─────────────────────────────────────────── */
+  .guide-head{max-width:1100px;margin:0 auto;padding:26px 20px 0}
+  .guide-head h1{font-size:clamp(22px,4vw,30px);line-height:1.2;margin:0 0 6px}
+  .guide-head p{margin:0;color:var(--color-text-secondary,#5c6370);font-size:14.5px}
+  .guide-meta{margin-top:8px !important;font-size:13px !important}
+  .lang-switch{display:flex;gap:8px;justify-content:center;margin:18px 0 4px;flex-wrap:wrap}
+  .lang-btn{font:inherit;font-weight:700;font-size:14px;cursor:pointer;padding:8px 22px;
+    border-radius:999px;border:1px solid var(--color-border,#e0ddf0);
+    background:var(--color-surface,#fff);color:var(--color-text,#1a1a2e)}
+  .lang-btn.active{background:#7c3aed;border-color:#7c3aed;color:#fff}
+  .guide-tools{display:flex;gap:10px;justify-content:center;align-items:center;
+    flex-wrap:wrap;margin:10px 0 14px}
+  .guide-search{font:inherit;font-size:14px;padding:9px 14px;border-radius:999px;min-width:min(330px,80vw);
+    border:1px solid var(--color-border,#e0ddf0);background:var(--color-surface,#fff);color:inherit}
+  .guide-toggle{font:inherit;font-size:13px;font-weight:600;cursor:pointer;padding:8px 16px;
+    border-radius:999px;border:1px solid var(--color-border,#e0ddf0);
+    background:var(--color-surface,#fff);color:inherit}
+  .guide-toggle.on{background:#7c3aed;border-color:#7c3aed;color:#fff}
+  .hits{max-width:1100px;margin:0 auto 14px;padding:0 20px}
+  .hit{display:block;width:100%;text-align:left;font:inherit;cursor:pointer;margin-bottom:6px;
+    padding:9px 13px;border-radius:10px;border:1px solid var(--color-border,#e0ddf0);
+    background:var(--color-surface,#fff);color:inherit}
+  .hit:hover{border-color:#7c3aed}
+  .hit b{color:#7c3aed}
+  .hit .hit-meta{font-size:11.5px;color:var(--color-text-tertiary,#8b8798);margin-left:6px}
+  .hit mark{background:#f3e8ff;color:inherit;border-radius:3px;padding:0 2px}
+  .seq-steps{margin-top:12px}
+  .seq-steps-h{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+    color:var(--color-text-tertiary,#8b8798);margin-bottom:8px}
+  .qcount{display:inline-block;font-size:11px;font-weight:600;padding:2px 9px;border-radius:999px;
+    background:#f1eefb;color:#7c3aed;margin-left:8px;vertical-align:middle}
+  /* linear "tout afficher" view, also what prints */
+  .all-topic{background:var(--color-surface,#fff);border:1px solid var(--color-border,#e0ddf0);
+    border-radius:12px;padding:15px 17px;margin-bottom:13px;break-inside:avoid;page-break-inside:avoid}
+  .all-topic h4{margin:0 0 9px;font-size:16px}
+  .all-lvl{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;
+    background:#ede9fe;color:#7c3aed;margin-left:6px;vertical-align:middle}
+  .all-sec{font-size:12px;letter-spacing:.07em;text-transform:uppercase;
+    color:var(--color-text-tertiary,#8b8798);margin:20px 0 9px}
+  .all-lang-h{font-size:20px;margin:30px 0 4px;padding-bottom:7px;border-bottom:2px solid var(--color-border,#e0ddf0)}
+  #all-view{max-width:1100px;margin:0 auto;padding:0 20px 60px}
+  footer.guide-foot{max-width:1100px;margin:26px auto 0;padding:16px 20px 40px;text-align:center;
+    font-size:12.5px;color:var(--color-text-tertiary,#8b8798)}
   @media print{
+    .lang-switch,.guide-tools,.hits,#tabs,#level-display,#seq-display,.guide-foot{display:none !important}
+    #all-view{display:block !important;padding:0}
     body{background:#fff}
-    .wrap{max-width:none;padding:0}
-    .jump,.toc{display:none}
-    .topic{border:none;border-bottom:1px solid #ddd;border-radius:0;padding:10px 0}
-    .lang-h{break-before:page;page-break-before:always}
-    #fr.lang .lang-h{break-before:auto;page-break-before:auto}
-  }
-  @media (prefers-color-scheme:dark){
-    :root{--bg:#12121c;--surface:#1b1b28;--text:#eceaf5;--muted:#9d9ab0;--line:#2c2b3d}
-    .note{background:#04342c;border-color:#0f6e56}
-    .note-h{color:#5dcaa5}
-    .pit{background:#3a1b1b;border-color:#e05252}
-    .pit strong{color:#ff8f8f}
-    .qn{background:#241d3d}
+    .all-topic{border:none;border-bottom:1px solid #ddd;border-radius:0}
   }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <div class="cover">
-    <h1>Guide de l'enseignant · Teacher's Guide</h1>
-    <p>Séquences pédagogiques, notes de grammaire et pièges courants — FLE &amp; ESL, A1 → C2</p>
-    <p class="meta"><strong>${totalTopics}</strong> points de grammaire · <strong>${totalSteps}</strong> étapes pédagogiques ·
-       document de travail interne, à ne pas publier</p>
-  </div>
-  <nav class="toc">
-    <h2>Sommaire · Contents</h2>
-    <ul>${stats.map((s, i) => `<li><a href="#${LANGS[i].key}">${esc(s.label)}</a> — ${s.topics} points, ${s.steps} étapes</li>`).join('')}</ul>
-  </nav>
-  ${parts.join('\n')}
-  <footer>ASD · Guide de l'enseignant · Généré à partir de exercices/ — ne pas modifier à la main :
-    relancer <code>node teacher-guide/build-guide.js</code></footer>
+<div class="guide-head">
+  <h1>Guide de l'enseignant <span style="font-weight:400;color:var(--color-text-tertiary,#8b8798)">· Teacher's Guide</span></h1>
+  <p>Séquences pédagogiques, notes de grammaire et pièges courants — FLE &amp; ESL, A1 → C2.
+     Navigation identique aux pages du site : choisissez une langue, un niveau, puis une notion.</p>
+  <p class="guide-meta"><strong>${totalTopics}</strong> notions · <strong>${totalSteps}</strong> étapes pédagogiques ·
+     document de travail interne, non publié</p>
 </div>
+
+<div class="lang-switch" id="lang-switch"></div>
+
+<div class="guide-tools">
+  <input id="guide-search" class="guide-search" type="search" autocomplete="off" spellcheck="false"
+         placeholder="Rechercher une notion, une règle, un piège…" aria-label="Rechercher">
+  <button id="all-btn" class="guide-toggle" type="button">Tout afficher · Show all</button>
+</div>
+
+<div class="hits" id="hits"></div>
+
+<div class="wrap">
+  <div class="level-tabs" id="tabs"></div>
+  <div id="level-display"></div>
+  <div id="seq-display"></div>
+</div>
+
+<div id="all-view" style="display:none"></div>
+
+<footer class="guide-foot">ASD · Guide de l'enseignant · généré depuis <code>exercices/</code> —
+  ne pas modifier à la main : relancer <code>node teacher-guide/build-guide.js</code></footer>
+
+<script>
+const GUIDE = ${JSON.stringify(DATA)};
+const LANG_KEYS = ${JSON.stringify(LANGS.map(l => l.key))};
+
+const esc = s => String(s == null ? '' : s)
+  .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+const norm = s => String(s).toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
+
+let lang = 'fr', level = 'A1', openKey = null, allOn = false;
+try {
+  const s = localStorage.getItem('guide-lang'); if (LANG_KEYS.includes(s)) lang = s;
+  const l = localStorage.getItem('guide-level-' + lang); if (l) level = l;
+} catch (e) {}
+
+const levels = () => GUIDE[lang].levels;
+const curLevel = () => levels().find(l => l.id === level) || levels()[0];
+
+function renderLangs() {
+  document.getElementById('lang-switch').innerHTML = LANG_KEYS.map(k =>
+    '<button class="lang-btn' + (k === lang ? ' active' : '') + '" data-k="' + k + '">' +
+    esc(GUIDE[k].tab) + '</button>').join('');
+}
+
+function renderTabs() {
+  document.getElementById('tabs').innerHTML = levels().map(lv =>
+    '<button class="tab-btn' + (lv.id === level ? ' active' : '') + '" data-lv="' + lv.id + '">' +
+    esc(lv.id) + '</button>').join('');
+}
+
+function renderLevel() {
+  const lv = curLevel();
+  let h = '<div class="level-card"><div class="level-header"><div class="level-badge">' + esc(lv.id) +
+    '</div><div><div class="level-title">' + esc(lv.title) + '</div><div class="level-desc">' +
+    esc(lv.desc) + '</div></div></div><div class="level-body">';
+  if (lv.note) h += '<div class="note-box">' + esc(lv.note) + '</div>';
+  lv.sections.forEach((sec, si) => {
+    h += '<div><div class="section-label">' + esc(sec.label) + '</div><div class="chip-grid">';
+    sec.items.forEach((it, ii) => {
+      h += '<span class="chip ' + esc(sec.type) + '" data-si="' + si + '" data-ii="' + ii + '">' +
+           esc(it.name) + '</span>';
+    });
+    h += '</div></div>';
+  });
+  document.getElementById('level-display').innerHTML = h + '</div></div>';
+}
+
+function topicHtml(it) {
+  let h = '';
+  if (it.gn) {
+    h += '<div class="gn-box"><div class="gn-label">Note de grammaire · Grammar note</div>' +
+         '<div class="gn-text">' + esc(it.gn) + '</div>' +
+         it.ge.map(g => '<div class="gn-ex">' + esc(g) + '</div>').join('') + '</div>';
+  }
+  if (it.steps && it.steps.length) {
+    h += '<div class="seq-steps"><div class="seq-steps-h">Séquence pédagogique · Teaching sequence</div>' +
+      it.steps.map(s =>
+        '<div class="step-row"><div class="step-num">' + esc(s.n) + '</div><div class="step-content">' +
+        '<div class="step-label">' + esc(s.label) + '</div><div class="step-text">' + esc(s.text) + '</div>' +
+        (s.ex ? '<div class="step-ex">' + esc(s.ex) + '</div>' : '') +
+        '</div></div>').join('') + '</div>';
+  }
+  if (it.pitfall) {
+    h += '<div class="pitfall-box"><strong>Piège courant · Common pitfall :</strong> ' + esc(it.pitfall) + '</div>';
+  }
+  return h;
+}
+
+function openTopic(si, ii) {
+  const lv = curLevel();
+  const it = lv.sections[si].items[ii];
+  const key = lang + '|' + lv.id + '|' + si + '|' + ii;
+  const box = document.getElementById('seq-display');
+  if (openKey === key) { box.innerHTML = ''; openKey = null; markChips(); return; }
+  box.innerHTML = '<div class="seq-panel"><div class="seq-header"><div class="seq-title">' +
+    esc(it.name) + (it.n ? '<span class="qcount">' + it.n + ' questions</span>' : '') +
+    '</div><span class="close-btn" id="guide-close">✕ fermer · close</span></div>' +
+    '<div class="seq-body">' + topicHtml(it) + '</div></div>';
+  openKey = key;
+  markChips();
+  document.getElementById('guide-close').onclick = () => {
+    box.innerHTML = ''; openKey = null; markChips();
+  };
+  box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function markChips() {
+  const parts = openKey ? openKey.split('|') : null;
+  document.querySelectorAll('#level-display .chip').forEach(c => {
+    const on = parts && parts[0] === lang && parts[1] === curLevel().id &&
+      parts[2] === c.dataset.si && parts[3] === c.dataset.ii;
+    c.classList.toggle('chip-active', !!on);
+  });
+}
+
+function renderAll() {
+  if (document.getElementById('all-view').dataset.built) return;
+  let h = '';
+  LANG_KEYS.forEach(k => {
+    h += '<h2 class="all-lang-h">' + esc(GUIDE[k].label) + '</h2>';
+    GUIDE[k].levels.forEach(lv => {
+      lv.sections.forEach(sec => {
+        h += '<div class="all-sec">' + esc(lv.id) + ' · ' + esc(sec.label) + '</div>';
+        sec.items.forEach(it => {
+          h += '<article class="all-topic"><h4>' + esc(it.name) +
+            '<span class="all-lvl">' + esc(lv.id) + '</span>' +
+            (it.n ? '<span class="qcount">' + it.n + ' questions</span>' : '') + '</h4>' +
+            topicHtml(it) + '</article>';
+        });
+      });
+    });
+  });
+  const el = document.getElementById('all-view');
+  el.innerHTML = h;
+  el.dataset.built = '1';
+}
+
+/* ── search across names, notes, examples, steps and pitfalls ─────────── */
+const INDEX = [];
+LANG_KEYS.forEach(k => GUIDE[k].levels.forEach(lv => lv.sections.forEach((sec, si) =>
+  sec.items.forEach((it, ii) => {
+    const hay = [it.name, it.gn, ...(it.ge || []), it.pitfall]
+      .concat((it.steps || []).flatMap(s => [s.label, s.text, s.ex || '']));
+    INDEX.push({ lang: k, lvl: lv.id, si, ii, name: it.name, section: sec.label,
+                 hay: norm(hay.filter(Boolean).join(' • ')), raw: hay.filter(Boolean) });
+  }))));
+
+function runSearch(q) {
+  const hits = document.getElementById('hits');
+  const n = norm(q.trim());
+  if (n.length < 2) { hits.innerHTML = ''; return; }
+  const found = INDEX.filter(r => r.hay.includes(n)).slice(0, 40);
+  if (!found.length) { hits.innerHTML = '<div class="hit">Aucun résultat · No match</div>'; return; }
+  hits.innerHTML = found.map((r, i) => {
+    const snip = r.raw.find(t => norm(t).includes(n)) || '';
+    const at = norm(snip).indexOf(n);
+    const cut = snip.slice(Math.max(0, at - 40), at + 90);
+    const shown = esc(cut).replace(new RegExp('(' + q.trim().replace(/[.*+?^\${}()|[\\]\\\\]/g, '\\\\$&') + ')', 'i'), '<mark>$1</mark>');
+    return '<button class="hit" data-h="' + i + '"><b>' + esc(r.name) + '</b>' +
+      '<span class="hit-meta">' + esc(GUIDE[r.lang].tab) + ' · ' + esc(r.lvl) + ' · ' + esc(r.section) + '</span>' +
+      '<br><span class="hit-meta">…' + shown + '…</span></button>';
+  }).join('');
+  hits.querySelectorAll('.hit[data-h]').forEach(b => b.onclick = () => {
+    const r = found[+b.dataset.h];
+    lang = r.lang; level = r.lvl;
+    save(); renderLangs(); renderTabs(); renderLevel();
+    openTopic(r.si, r.ii);
+  });
+}
+
+function save() {
+  try { localStorage.setItem('guide-lang', lang); localStorage.setItem('guide-level-' + lang, level); } catch (e) {}
+}
+
+/* ── wiring ───────────────────────────────────────────────────────────── */
+document.getElementById('lang-switch').addEventListener('click', e => {
+  const b = e.target.closest('.lang-btn'); if (!b) return;
+  lang = b.dataset.k;
+  try { const l = localStorage.getItem('guide-level-' + lang); level = l || GUIDE[lang].levels[0].id; } catch (e2) { level = GUIDE[lang].levels[0].id; }
+  if (!levels().some(l => l.id === level)) level = levels()[0].id;
+  openKey = null; document.getElementById('seq-display').innerHTML = '';
+  save(); renderLangs(); renderTabs(); renderLevel();
+});
+document.getElementById('tabs').addEventListener('click', e => {
+  const b = e.target.closest('.tab-btn'); if (!b) return;
+  level = b.dataset.lv; openKey = null;
+  document.getElementById('seq-display').innerHTML = '';
+  save(); renderTabs(); renderLevel();
+});
+document.getElementById('level-display').addEventListener('click', e => {
+  const c = e.target.closest('.chip'); if (!c) return;
+  openTopic(+c.dataset.si, +c.dataset.ii);
+});
+document.getElementById('guide-search').addEventListener('input', e => runSearch(e.target.value));
+document.getElementById('all-btn').addEventListener('click', () => {
+  allOn = !allOn;
+  renderAll();
+  document.getElementById('all-view').style.display = allOn ? 'block' : 'none';
+  document.querySelector('.wrap').style.display = allOn ? 'none' : '';
+  document.getElementById('all-btn').classList.toggle('on', allOn);
+  document.getElementById('all-btn').textContent = allOn ? 'Vue par niveaux · Level view' : 'Tout afficher · Show all';
+});
+
+if (!levels().some(l => l.id === level)) level = levels()[0].id;
+renderLangs(); renderTabs(); renderLevel();
+</script>
 </body>
 </html>`;
 
 fs.writeFileSync(OUT, html);
 stats.forEach(s => console.log(`${s.label}: ${s.topics} topics, ${s.steps} steps`));
-if (missingSteps) console.log(`WARNING: ${missingSteps} topic(s) have no archived teaching sequence`);
+if (missing) console.log(`WARNING: ${missing} topic(s) have no archived teaching sequence`);
 console.log(`\nwrote ${path.relative(ROOT, OUT)} (${(html.length / 1024).toFixed(0)} KB)`);
